@@ -11,6 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="bins\chunker.conll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="bins\pos.bin">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
