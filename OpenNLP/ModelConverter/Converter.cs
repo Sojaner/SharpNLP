@@ -57,7 +57,9 @@ namespace ModelConverter
                 string[] tokens = tokenizer.Tokenize(sentence);
 
                 string[] tags = tagger.Tag(tokens);
-
+                
+                // https://cl.lingfil.uu.se/~nivre/research/Talbanken05.html
+                // Compare the list pos in the file with the ones for the tagger
                 string[] strings = chunker.Chunk(tokens,tags);
             }
 
