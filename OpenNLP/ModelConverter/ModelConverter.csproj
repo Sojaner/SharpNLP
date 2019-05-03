@@ -7,6 +7,19 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\SharpEntropy\SharpEntropy.csproj" />
+    <ProjectReference Include="..\OpenNLP\OpenNLP.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="bins\pos.bin">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="bins\sent.bin">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="bins\token.bin">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

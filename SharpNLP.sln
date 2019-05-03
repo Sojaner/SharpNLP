@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpEntropy", "SharpEntropy\SharpEntropy.csproj", "{45D2E826-B151-4104-8913-910089091804}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpEntropy", "SharpEntropy\SharpEntropy.csproj", "{45D2E826-B151-4104-8913-910089091804}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpEntropySqlite", "SharpEntropySqlite\SharpEntropySqlite.csproj", "{1B6A61E7-4257-48FC-9F9C-715A800FA581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpEntropySqlite", "SharpEntropySqlite\SharpEntropySqlite.csproj", "{1B6A61E7-4257-48FC-9F9C-715A800FA581}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenNLP", "OpenNLP", "{EB394167-D053-4B75-8696-2ABB5CCDBB7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenNLP", "OpenNLP\OpenNLP\OpenNLP.csproj", "{6E4AEAC9-C171-49F2-8ED1-31B7C0BBC154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenNLP", "OpenNLP\OpenNLP\OpenNLP.csproj", "{6E4AEAC9-C171-49F2-8ED1-31B7C0BBC154}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelConverter", "OpenNLP\ModelConverter\ModelConverter.csproj", "{F9820F2F-FF5C-4EA3-83D7-70DC23909666}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelConverter", "OpenNLP\ModelConverter\ModelConverter.csproj", "{F9820F2F-FF5C-4EA3-83D7-70DC23909666}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpWordNet", "OpenNLP\SharpWordNet\SharpWordNet.csproj", "{240745CE-5EB0-47E9-9ACE-8C067959D755}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpWordNet", "OpenNLP\SharpWordNet\SharpWordNet.csproj", "{240745CE-5EB0-47E9-9ACE-8C067959D755}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,9 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{45D2E826-B151-4104-8913-910089091804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -89,9 +86,15 @@ Global
 		{240745CE-5EB0-47E9-9ACE-8C067959D755}.Release|x86.ActiveCfg = Release|Any CPU
 		{240745CE-5EB0-47E9-9ACE-8C067959D755}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6E4AEAC9-C171-49F2-8ED1-31B7C0BBC154} = {EB394167-D053-4B75-8696-2ABB5CCDBB7A}
 		{F9820F2F-FF5C-4EA3-83D7-70DC23909666} = {EB394167-D053-4B75-8696-2ABB5CCDBB7A}
 		{240745CE-5EB0-47E9-9ACE-8C067959D755} = {EB394167-D053-4B75-8696-2ABB5CCDBB7A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F44C373-2691-4E47-B2CE-2F7C425F3937}
 	EndGlobalSection
 EndGlobal

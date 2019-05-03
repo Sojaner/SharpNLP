@@ -219,7 +219,7 @@ namespace OpenNLP.Tools.SentenceDetect
 				double[] probabilities = mModel.Evaluate(mContextGenerator.GetContext(pair));
 				string bestOutcome = mModel.GetBestOutcome(probabilities);
 				sentenceProbability *= probabilities[mModel.GetOutcomeIndex(bestOutcome)];
-				if (bestOutcome.Equals("T") && IsAcceptableBreak(input, index, cInt))
+				if (bestOutcome.Equals(mModel.GetOutcomeName(0)) && IsAcceptableBreak(input, index, cInt))
 				{
 					if (index != cInt)
 					{
