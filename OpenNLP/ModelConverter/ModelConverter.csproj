@@ -11,16 +11,22 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="bins\chunker.conll">
+    <None Update="data\chunker-talbanken-dep-test.conll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="bins\pos.bin">
+    <None Update="data\chunker-talbanken-dep-train.conll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="bins\sent.bin">
+    <None Update="data\postagger-talbanken-dep-test.conll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="bins\token.bin">
+    <None Update="data\postagger-talbanken-dep-train.conll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="data\talbanken-dep-test.conll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="data\talbanken-dep-train.conll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
