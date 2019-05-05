@@ -1,9 +1,6 @@
 using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text.RegularExpressions;
-using OpenNLP.Tools.Chunker;
 using OpenNLP.Tools.PosTagger;
 using SharpEntropy;
 using SharpEntropy.IO;
@@ -22,10 +19,54 @@ namespace ModelConverter
         {
             //https://cl.lingfil.uu.se/~nivre/swedish_treebank/
 
+            int iterations = 0;
+
+            float percentage = 0;
+
+            GisModel model = null;
+
+            while (percentage < 90f)
+            {
+                iterations += 500;
+
+                model = MaximumEntropyPosTagger.Train(new PosEventReader(File.OpenText(@".\data\postagger-talbanken-dep-train.conll")), iterations, 5);
+
+                MaximumEntropyPosTagger tagger = new MaximumEntropyPosTagger(model);
+
+                string[] lines = File.ReadAllLines(@".\data\postagger-talbanken-dep-test.conll");
+
+                int equals = 0;
+
+                foreach (string line in lines)
+                {
+                    string[] parts = line.Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(part => part.Split("_")[0]).ToArray();
+
+                    string[] tags = tagger.Tag(parts);
+
+                    string sentence = "";
+
+                    for (int i = 0; i < parts.Length; i++)
+                    {
+                        sentence += $"{parts[i]}_{tags[i]} ";
+                    }
+
+                    sentence = sentence.Remove(sentence.Length - 1);
+
+                    equals += sentence == line ? 1 : 0;
+                }
+
+                percentage = (equals / (float)lines.Length) * 100f;
+            }
+
+            PlainTextGisModelWriter writer = new PlainTextGisModelWriter();
+
+            writer.Persist(model, @".\pos.model");
+
             //TODO: Use the train data for training and use the test data to confirm the accuracy
             //TODO: Use the proper EventReader/TextReader
             //TODO: Figure out the problem with the +A/+B tokens
-            //TODO: Update the OpenNLP code with the latest available on https://github.com/AlexPoint/OpenNlp
+
+            return;
 
             if (args.Length != 1)
             {
