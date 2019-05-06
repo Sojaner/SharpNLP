@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using OpenNLP.Tools.PosTagger;
@@ -23,39 +24,70 @@ namespace ModelConverter
 
             float percentage = 0;
 
-            GisModel model = null;
+            GisModel model = null;// new GisModel(new JavaBinaryGisModelReader(@"C:\Users\Rojan\Desktop\Gis\pos.model"));
 
-            while (percentage < 90f)
+            Console.Clear();
+
+            while (percentage <= 95f)
             {
-                iterations += 500;
+                iterations +=10;
 
-                model = MaximumEntropyPosTagger.Train(new PosEventReader(File.OpenText(@".\data\postagger-talbanken-dep-train.conll")), iterations, 5);
+                Console.WriteLine($"------------------------------------");
+
+                Console.Write($"Training {iterations} iterations... ");
+
+                Stopwatch stopwatch = Stopwatch.StartNew();
+
+                model = MaximumEntropyPosTagger.Train(new PosEventReader(File.OpenText(@".\data\postagger-talbanken-dep-train.conll")), iterations, 0);
+
+                stopwatch.Stop();
+
+                Console.WriteLine($"Trained in {stopwatch.Elapsed:g}.");
 
                 MaximumEntropyPosTagger tagger = new MaximumEntropyPosTagger(model);
 
                 string[] lines = File.ReadAllLines(@".\data\postagger-talbanken-dep-test.conll");
 
+                //string[] lines = File.ReadAllLines(@"C:\Users\Rojan\Desktop\G.conll");
+
                 int equals = 0;
+
+                int total = 0;
+
+                int top = Console.CursorTop;
 
                 foreach (string line in lines)
                 {
-                    string[] parts = line.Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(part => part.Split("_")[0]).ToArray();
+                    string[][] strings = line.Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(part => part.Split("_")).ToArray();
 
-                    string[] tags = tagger.Tag(parts);
+                    string[] parts = strings.Select(s => s[0]).ToArray();
 
-                    string sentence = "";
+                    string[] reals = strings.Select(s => s[1]).ToArray();
 
-                    for (int i = 0; i < parts.Length; i++)
+                    try
                     {
-                        sentence += $"{parts[i]}_{tags[i]} ";
+                        string[] tags = tagger.Tag(parts);
+
+                        for (int i = 0; i < parts.Length; i++)
+                        {
+                            equals += reals[i] == tags[i] ? 1 : 0;
+
+                            total++;
+                        }
+                    }
+                    catch
+                    {
+                        total += parts.Length;
                     }
 
-                    sentence = sentence.Remove(sentence.Length - 1);
+                    Console.CursorTop = top;
 
-                    equals += sentence == line ? 1 : 0;
+                    Console.CursorLeft = 0;
+
+                    Console.WriteLine($"Equals: {equals}, Total: {total}, Percentage: {equals / (float)total * 100f}%");
                 }
 
-                percentage = (equals / (float)lines.Length) * 100f;
+                percentage = equals / (float)total * 100f;
             }
 
             PlainTextGisModelWriter writer = new PlainTextGisModelWriter();
