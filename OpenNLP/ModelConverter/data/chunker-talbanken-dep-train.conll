@@ -44,7 +44,7 @@ civilstånd NN PA
 
 Den PN SS
 gäller VB ROOT
-även AB +A
+även AB PLA
 för PP OA
 oskifta JJ AT
 dödsbon NN CJ
@@ -137,7 +137,7 @@ inkomster NN SS
 är VB MS
 B-inkomster NN SP
 och KN ROOT
-skall VB +F
+skall VB PLF
 som KN KA
 tidigare AB UA
 sambeskattas VB VG
@@ -169,13 +169,13 @@ högst AB AA
 2000 RG DT
 kr NN PA
 skall VB MS
-dock AB +A
+dock AB PLA
 betraktas VB VG
 som KN SP
 A-inkomst NN UA
 och KN ROOT
-alltså AB +A
-beskattas VB +F
+alltså AB PLA
+beskattas VB PLF
 individuellt AB AA
 . MAD IP
 
@@ -236,7 +236,7 @@ självdeklarationen NN PA
 1971 RG ET
 - MID IT
 som HP SS
-alltså AB +A
+alltså AB PLA
 avser VB ET
 1970 RG DT
 års NN DT
@@ -302,7 +302,7 @@ taxeringsåret NN DT
 ) PAD JR
 skall VB ROOT
 barnet NN SS
-alltså AB +A
+alltså AB PLA
 vara VB VG
 fött PC SP
 efter PP TA
@@ -332,7 +332,7 @@ med PP OA
 varandra PN PA
 eller KN UA
 har VB CJ
-eller KN +F
+eller KN PLF
 har VB CJ
 haft VB VG
 barn NN OO
@@ -369,7 +369,7 @@ och KN PA
 år NN CJ
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 höjs VB ROOT
 åldergränsen NN SS
 till PP OA
@@ -505,7 +505,7 @@ kronor NN OO
 
 Grundavdraget NN SS
 upphör VB ROOT
-alltså AB +A
+alltså AB PLA
 vid PP AA
 en DT DT
 taxerad PC AT
@@ -554,7 +554,7 @@ och KN AT
 kommunal JJ CJ
 taxering NN PA
 och KN ROOT
-beräknas VB +F
+beräknas VB PLF
 med PP AA
 ledning NN PA
 av PP ET
@@ -570,7 +570,7 @@ Kommunalt JJ AT
 grundavdrag NN SS
 kan VB ROOT
 avräknas VB VG
-även AB +A
+även AB PLA
 från PP OA
 inkomst NN PA
 i PP ET
@@ -601,7 +601,7 @@ I PP AA
 sådant JJ DT
 fall NN PA
 har VB ROOT
-dock AB +A
+dock AB PLA
 den DT DT
 andra JJ HD
 maken NN SS
@@ -713,7 +713,7 @@ folkpensionären NN SS
 har VB PA
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 kommer VB MS
 en DT DT
 ensamstående JJ AT
@@ -731,8 +731,8 @@ sidan NN HD
 av PP HD
 folkpensionen NN PA
 och KN ROOT
-ändock AB +A
-bli VB +F
+ändock AB PLA
+bli VB PLF
 skattefri JJ SP
 . MAD IP
 
@@ -841,7 +841,7 @@ den DT DT
 nya JJ AT
 miljön NN PA
 och KN ROOT
-informera VB +F
+informera VB PLF
 dig PN OO
 om PP OA
 verksamheten NN PA
@@ -864,7 +864,7 @@ sidorna NN PA
 
 Samhället NN SS
 har VB MS
-också AB +A
+också AB PLA
 givit VB VG
 dig PN IO
 en DT DT
@@ -902,7 +902,7 @@ kasern NN PA
 
 Du PN SS
 skall VB ROOT
-nämligen AB +A
+nämligen AB PLA
 inte AB NA
 bara AB CA
 skaffa VB VG
@@ -912,7 +912,7 @@ kunskaper NN OO
 , MID IK
 du PN SS
 skall VB MS
-också AB +A
+också AB PLA
 lära VB VG
 dig PN IO
 leva VB OO
@@ -923,7 +923,7 @@ kamrater NN PA
 och KN MS
 så AB TA
 småningom AB HD
-sammangjutas VB +F
+sammangjutas VB PLF
 med PP OA
 dem PN PA
 till PP AA
@@ -972,7 +972,7 @@ verksamheten NN SS
 kräver VB ET
 , MID IK
 har VB ROOT
-också AB +A
+också AB PLA
 sin PS DT
 motsvarighet NN OO
 i PP RA
@@ -1008,7 +1008,7 @@ Under PP RA
 militärutbildningen NN PA
 måste VB ROOT
 du PN SS
-emellertid AB +A
+emellertid AB PLA
 underordna VB VG
 dig PN OO
 på PP AA
@@ -1042,7 +1042,7 @@ kunna VB VG
 handla VB MS
 självständigt AB AA
 och KN VG
-lyda VB +F
+lyda VB PLF
 för PP AA
 att IE PA
 bli VB IF
@@ -1118,7 +1118,7 @@ kan VB ROOT
 kosta VB VG
 dig PN CJ
 och KN IO
-även AB +A
+även AB PLA
 kamraterna NN CJ
 livet NN OO
 . MAD IP
@@ -1141,9 +1141,9 @@ bli VB VG
 ett DT DT
 problem NN SP
 men KN ROOT
-också AB +A
+också AB PLA
 en DT DT
-källa NN +F
+källa NN PLF
 till PP ET
 samhörighet NN CJ
 och KN PA
@@ -1168,7 +1168,7 @@ att IE MS
 acceptera VB IF
 kamraterna NN OO
 och KN OO
-visa VB +F
+visa VB PLF
 hänsyn NN OO
 mot PP OA
 dem PN PA
@@ -1202,7 +1202,7 @@ stor JJ CJ
 och KN SP
 stark JJ CJ
 och KN ROOT
-känner VB +F
+känner VB PLF
 dig PN OO
 säker JJ OP
 på PP OA
@@ -1245,13 +1245,13 @@ skyldighet NN SP
 
 Kamratförtryck NN SS
 är VB MS
-nämligen AB +A
+nämligen AB PLA
 i PP AA
 lag NN PA
 förbjudet PC SP
 och KN ROOT
-alltså AB +A
-straffbart JJ +F
+alltså AB PLA
+straffbart JJ PLF
 . MAD IP
 
 Ansvar NN ROOT
@@ -1422,7 +1422,7 @@ på PP ET
 din PS DT
 utrustning NN PA
 och KN ROOT
-placera VB +F
+placera VB PLF
 den PN OO
 i PP RA
 skåpet NN PA
@@ -1435,7 +1435,7 @@ lätta JJ SP
 att IE OA
 hitta VB IF
 och KN UA
-lätta JJ +F
+lätta JJ PLF
 att IE OA
 komma VB IF
 åt PL PL
@@ -1484,7 +1484,7 @@ dig PN IO
 Toalettartiklar NN ROOT
 ( PAD IR
 kan VB AN
-även AB +A
+även AB PLA
 köpas VB VG
 i PP RA
 marketenteriet NN PA
@@ -1533,7 +1533,7 @@ saker NN PA
 så AB DB
 ta VB ROOT
 med PL PL
-även AB +A
+även AB PLA
 dem PN OO
 : MAD IQ
 
@@ -1695,7 +1695,7 @@ om PL PL
 din PS DT
 utrustning NN OO
 och KN UA
-tvättat VB +F
+tvättat VB PLF
 dig PN OO
 är VB ROOT
 det PN SS
@@ -1813,7 +1813,7 @@ klara VB VG
 sina PS DT
 uppgifter NN OO
 och KN UA
-kunna VB +F
+kunna VB PLF
 bära VB VG
 det DT DT
 ansvar NN OO
@@ -1909,7 +1909,7 @@ tar VB ROOT
 dagar NN OO
 . MAD IP
 
-Även AB +A
+Även AB PLA
 för PP OA
 meniga JJ PA
 är VB ROOT
@@ -2037,7 +2037,7 @@ klara VB IF
 de DT DT
 uppgifter NN OO
 och KN ET
-ta VB +F
+ta VB PLF
 det DT DT
 ansvar NN OO
 som HP SS
@@ -2255,7 +2255,7 @@ du PN SS
 blir VB MS
 sjuk JJ SP
 och KN TA
-söker VB +F
+söker VB PLF
 läkare NN OO
 inom PP ET
 den DT DT
@@ -2346,7 +2346,7 @@ sjukvårdshuvudmannen NN PA
 
 Du PN SS
 behöver VB ROOT
-alltså AB +A
+alltså AB PLA
 inte AB NA
 ligga VB VG
 ute PL PL
@@ -2356,7 +2356,7 @@ pengar NN PA
 . MAD IP
 
 Inte AB NA
-heller AB +A
+heller AB PLA
 gå VB ROOT
 till PP RA
 försäkringskassan NN PA
@@ -2402,14 +2402,14 @@ avgifter NN PA
 du PN SS
 betalar VB ET
 ingår VB ROOT
-också AB +A
+också AB PLA
 eventuella JJ AT
 röntgen- NN CJ
 och KN SS
 laboratorieundersökningar NN CJ
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 ingår VB ROOT
 remissbesök NN CJ
 , MID IK
@@ -2433,7 +2433,7 @@ eller KN OO
 radiumbehandlingar NN CJ
 får VB ROOT
 du PN SS
-också AB +A
+också AB PLA
 dessa PN OO
 utan PP AA
 särskild PC AT
@@ -2668,7 +2668,7 @@ till PP HD
 patientens NN DT
 ekonomi NN PA
 eller KN UA
-befriar VB +F
+befriar VB PLF
 från PP OA
 avgift NN PA
 . MAD IP
@@ -2676,7 +2676,7 @@ avgift NN PA
 Sjukpenningförsäkrade PC AT
 pensionärer NN SS
 har VB ROOT
-dessutom AB +A
+dessutom AB PLA
 rätt NN OO
 till PP OA
 sjukpenning NN PA
@@ -2941,7 +2941,7 @@ försäkrades PC DT
 egna JJ DT
 sjukförsäkringsavgifter NN SS
 påverkas VB ROOT
-däremot AB +A
+däremot AB PLA
 inte AB NA
 . MAD IP
 
@@ -3005,7 +3005,7 @@ till PP OP
 närmare JJ AA
 600000 RG PA
 och KN ROOT
-räknar VB +F
+räknar VB PLF
 då AB AA
 in PL PL
 såväl KN VA
@@ -3203,7 +3203,7 @@ ned PL PL
 i PP RA
 Sverige PM PA
 och KN ROOT
-börja VB +F
+börja VB PLF
 arbeta VB OO
 ? MAD I?
 
@@ -3234,7 +3234,7 @@ tillstånd NN PA
 ta VB MS
 arbete NN OO
 och KN VG
-bosätta VB +F
+bosätta VB PLF
 sig PN OO
 var HA RA
 som KN HD
@@ -3297,7 +3297,7 @@ införa VB VG
 arbetskraft NN OO
 , MID IK
 måste VB ROOT
-också AB +A
+också AB PLA
 se VB VG
 till PL PL
 att SN OO
@@ -3420,7 +3420,7 @@ och KN PA
 egendom NN CJ
 , MID IK
 samma DT DT
-möjligheter NN +F
+möjligheter NN PLF
 till PP ET
 utbildning NN CJ
 , MID PA
@@ -3500,7 +3500,7 @@ eller KN PA
 politisk JJ AT
 uppfattning NN CJ
 eller KN AA
-eljest AB +A
+eljest AB PLA
 på PP CJ
 grund NN HD
 av PP HD
@@ -3589,14 +3589,14 @@ Sverige PM PA
 tre RG DT
 år NN TA
 och KN ROOT
-icke-nordbor NN +F
+icke-nordbor NN PLF
 sju RG DT
 år NN TA
 . MAD IP
 
 Nordbor NN SS
 kan VB ROOT
-även AB +A
+även AB PLA
 förvärva VB VG
 svenskt JJ AT
 medborgarskap NN OO
@@ -3676,7 +3676,7 @@ arbetsmarknadsstyrelsen NN SS
 
 Den PN SS
 sköter VB ROOT
-också AB +A
+också AB PLA
 mottagandet NN OO
 av PP ET
 flyktingarna NN PA
@@ -3720,7 +3720,7 @@ mål NN CJ
 och KN OO
 medel NN CJ
 och KN ROOT
-föreslå VB +F
+föreslå VB PLF
 förbättringar NN OO
 av PP ET
 olika JJ AT
@@ -3821,7 +3821,7 @@ fungera VB VG
 . MAD IP
 
 Men KN ROOT
-också AB +A
+också AB PLA
 när HA TA
 postsorteringen NN SS
 sker VB TA
@@ -4032,7 +4032,7 @@ del NN DT
 större JJ AT
 städer NN PA
 och KN RA
-också AB +A
+också AB PLA
 på PP CJ
 vissa JJ DT
 orter NN PA
@@ -4066,8 +4066,8 @@ de DT DT
 orterna NN PA
 skall VB ROOT
 postnumren NN SS
-nämligen AB +A
-också AB +A
+nämligen AB PLA
+också AB PLA
 hjälpa VB VG
 till PL PL
 att IE OO
@@ -4083,7 +4083,7 @@ Dessa DT DT
 orter NN SP
 , MID IK
 där HA RA
-sålunda AB +A
+sålunda AB PLA
 postnumret NN SS
 bestäms VB ET
 av PP AG
@@ -4352,7 +4352,7 @@ gata NN PA
 . MAD IP
 
 Eller KN ROOT
-också AB +A
+också AB PLA
 kan VB MS
 det PN SS
 gälla VB VG
@@ -4553,7 +4553,7 @@ resp AB PA
 Göteborg PM CJ
 , MID IK
 men KN UA
-är VB +F
+är VB PLF
 tveksam JJ SP
 om SN OA
 den DT DT
@@ -4622,7 +4622,7 @@ ett DT DT
 främmande JJ AT
 land NN PA
 som HP SS
-också AB +A
+också AB PLA
 infört VB ET
 postnummer NN OO
 , MID IK
@@ -4699,7 +4699,7 @@ bör VB ROOT
 man PN SS
 framför PP RA
 postnumret NN PA
-också AB +A
+också AB PLA
 sätta VB VG
 ut PL PL
 adresslandets NN DT
@@ -4888,7 +4888,7 @@ m_m AB CJ
 
 Posten NN SS
 tillhandahåller VB ROOT
-också AB +A
+också AB PLA
 en DT DT
 förteckning NN OO
 över PP ET
@@ -4912,8 +4912,8 @@ nummer NN SS
 hänför VB PA
 sig PN OO
 och KN ET
-dessutom AB +A
-få VB +F
+dessutom AB PLA
+få VB PLF
 upplysning NN OO
 om PP OA
 i PP RA
@@ -4961,14 +4961,14 @@ Postens PM DT
 pakettrafik NN PA
 . MAD IP
 
-Även AB +A
+Även AB PLA
 lantbrevbärare NN CJ
 och KN SS
 postombud NN CJ
 tar VB MS
 emot PL PL
 och KN ROOT
-lämnar VB +F
+lämnar VB PLF
 ut PL PL
 paket NN OO
 . MAD IP
@@ -5042,7 +5042,7 @@ Brevets NN DT
 snabbhet NN OO
 kan VB ROOT
 man PN SS
-emellertid AB +A
+emellertid AB PLA
 få VB VG
 om SN AA
 man PN SS
@@ -5104,7 +5104,7 @@ brådskande PC SP
 och KN TA
 varan NN SS
 inte AB NA
-tar VB +F
+tar VB PLF
 skada NN OO
 av PP OA
 några DT DT
@@ -5347,7 +5347,7 @@ har VB PA
 utkörning NN OO
 finner VB ROOT
 Ni PN SS
-också AB +A
+också AB PLA
 i PP RA
 ' PAD IC
 Förteckning NN PA
@@ -5363,7 +5363,7 @@ kostar VB MS
 5 RG DT
 kr NN OO
 och KN ROOT
-kan VB +F
+kan VB PLF
 rekvireras VB VG
 genom PP AA
 inbetalning NN CJ
@@ -5445,7 +5445,7 @@ mellan PP ET
 avlägsna JJ AT
 orter NN PA
 räcker VB ROOT
-emellertid AB +A
+emellertid AB PLA
 inte AB NA
 nattimmarna NN SS
 till PL PL
@@ -5508,8 +5508,8 @@ snabbt AB AA
 som KN KA
 möjligt JJ UA
 , MID IK
-dels KN +A
-delas VB +F
+dels KN PLA
+delas VB PLF
 ut PL PL
 till PP OA
 adressaten NN PA
@@ -5639,7 +5639,7 @@ har VB PA
 expressutdelning NN OO
 finner VB ROOT
 Ni PN SS
-också AB +A
+också AB PLA
 i PP RA
 ' PAD IC
 Förteckning NN PA
@@ -5655,7 +5655,7 @@ kostar VB MS
 5 RG DT
 kr NN OO
 och KN ROOT
-kan VB +F
+kan VB PLF
 rekvireras VB VG
 genom PP AA
 inbetalning NN CJ
@@ -5689,7 +5689,7 @@ menstruation NN SS
 
 Denna PN SS
 kan VB ROOT
-dock AB +A
+dock AB PLA
 utebli VB VG
 av PP AA
 andra JJ DT
@@ -5714,7 +5714,7 @@ på PP ET
 graviditet NN PA
 förekommer VB MS
 men KN ROOT
-kan VB +F
+kan VB PLF
 för PP OA
 kvinnan NN PA
 vara VB VG
@@ -5837,7 +5837,7 @@ på PP TA
 några DT DT
 timmar NN PA
 och KN ET
-med PP +F
+med PP PLF
 stor JJ AT
 säkerhet NN PA
 fastställa VB IF
@@ -5845,7 +5845,7 @@ om SN OO
 graviditet NN SS
 föreligger VB MS
 eller KN UA
-inte AB +F
+inte AB PLF
 . MAD IP
 
 Hur HA AA
@@ -6098,12 +6098,12 @@ lämnas VB TA
 
 De PN SS
 kan VB MS
-också AB +A
+också AB PLA
 rekvireras VB VG
 från PP RA
 laboratoriet NN PA
 eller KN ROOT
-hämtas VB +F
+hämtas VB PLF
 i PP RA
 RFSU-butiker NN PA
 . MAD IP
@@ -6142,7 +6142,7 @@ kl. AB DT
 9.30 RG CJ
 - MID PA
 18.00 RG CJ
-till PP +F
+till PP PLF
 RFSU-kliniken NN PA
 i PP ET
 Göteborg PM PA
@@ -6177,7 +6177,7 @@ kostar VB MS
 20 RG DT
 kronor NN OO
 och KN ROOT
-betalas VB +F
+betalas VB PLF
 när HA TA
 provet NN SS
 lämnas VB TA
@@ -6206,7 +6206,7 @@ kl. AB DT
 juni NN CJ
 , MID IK
 juli NN CJ
-, MID +F
+, MID PLF
 augusti NN CJ
 kl. AB DT
 15.00 RG TA
@@ -6215,7 +6215,7 @@ kl. AB DT
 ) PAD JC
 resp. AB VA
 tel. NN DT
-031/119840 RG +F
+031/119840 RG PLF
 mellan PP TA
 kl. AB DT
 14.30 RG CJ
@@ -6249,7 +6249,7 @@ provet NN OO
 per PP AA
 post NN PA
 eller KN UA
-från PP +F
+från PP PLF
 annat JJ DT
 inlämningsställe NN PA
 . MAD IP
@@ -6284,7 +6284,7 @@ kl. AB DT
 18.00 RG CJ
 , MID IK
 resp. AB ROOT
-i PP +F
+i PP PLF
 Göteborg PM PA
 , MID IK
 Sociala JJ RA
@@ -6302,7 +6302,7 @@ kl. AB DT
 
 Ni PN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 få VB VG
 det PN OO
 översänt PC OP
@@ -6321,7 +6321,7 @@ erhållit VB ET
 telefonsvar NN OO
 får VB ROOT
 obligatoriskt AB AA
-också AB +A
+också AB PLA
 laboratoriesvaret NN OO
 per PP AA
 post NN PA
@@ -6387,7 +6387,7 @@ menstruationsperiod NN OO
 
 Uppträder VB AA
 inte AB NA
-heller AB +A
+heller AB PLA
 denna DT DT
 menstruation NN SS
 bör VB ROOT
@@ -6472,11 +6472,11 @@ flera JJ CJ
 p-piller NN OO
 eller KN MS
 nyligen AB TA
-slutat VB +F
+slutat VB PLF
 med PP OA
 sådana PN PA
 och KN AA
-tror VB +F
+tror VB PLF
 att SN OO
 Ni PN SS
 är VB UA
@@ -6534,7 +6534,7 @@ vinna VB IF
 
 lotteriet NN SS
 har VB ROOT
-nämligen AB +A
+nämligen AB PLA
 två RG DT
 dragningar NN OO
 . MAD IP
@@ -6573,7 +6573,7 @@ miljon NN PA
 Vid PP AA
 båda JJ DT
 dragningarna NN PA
-dessutom AB +A
+dessutom AB PLA
 massor NN ROOT
 av PP ET
 andra JJ DT
@@ -6632,7 +6632,7 @@ stora JJ AT
 skattelotteriet NN PA
 deltar VB MS
 du PN SS
-också AB +A
+också AB PLA
 i PP OA
 ett DT DT
 särskilt PC AT
@@ -6687,8 +6687,8 @@ vinna VB IF
 skattefria JJ AT
 toppvinster NN OO
 utan KN ROOT
-får VB +F
-dessutom AB +A
+får VB PLF
+dessutom AB PLA
 högsta JJ AT
 bankränta NN OO
 plus AB ET
@@ -6720,7 +6720,7 @@ på PP RA
 ett DT DT
 premiesparkonto NN PA
 och KN UA
-låter VB +F
+låter VB PLF
 pengarna NN OO
 stå VB VO
 kvar PL PL
@@ -6768,7 +6768,7 @@ stora JJ AT
 vinstutlottningar NN PA
 och KN OO
 sedan AB TA
-få VB +F
+få VB PLF
 tillbaka PL PL
 lottpengarna NN OO
 med PP AA
@@ -6823,7 +6823,7 @@ skatteåterbäring NN OO
 Samma DT DT
 förmåner NN SS
 gäller VB ROOT
-även AB +A
+även AB PLA
 för PP OA
 oskiftade PC AT
 dödsbon NN PA
@@ -7001,7 +7001,7 @@ inlåningsräntan NN OO
 
 Du PN SS
 får VB ROOT
-dessutom AB +A
+dessutom AB PLA
 en DT DT
 skattefri JJ AT
 sparpremie NN OO
@@ -7073,7 +7073,7 @@ saldot NN SS
 på PP ET
 kontot NN PA
 därigenom AB AA
-kommer VB +F
+kommer VB PLF
 att IE VG
 understiga VB IF
 3000 RG DT
@@ -7092,10 +7092,10 @@ andelar NN ET
 i PP ET
 lotteriet NN PA
 minskar VB ROOT
-också AB +A
+också AB PLA
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 reduceras VB ROOT
 bankräntan NN SS
 efter PP AA
@@ -7154,7 +7154,7 @@ bankkontor NN CJ
 
 Spara VB MS
 och KN ROOT
-vinn VB +F
+vinn VB PLF
 på PP OA
 skatten NN PA
 
@@ -7230,7 +7230,7 @@ t_o_m AB CA
 7 RG TA
 , MID IK
 sedan AB TA
-frivilligt JJ +F
+frivilligt JJ PLF
 ) PAD JR
 . MAD IP
 
@@ -7259,7 +7259,7 @@ och KN PA
 9 RG CJ
 , MID IK
 teckning NN CJ
-och KN +F
+och KN PLF
 slöjd NN CJ
 i PP TA
 samtliga JJ DT
@@ -7302,7 +7302,7 @@ i PP TA
 årskurs NN DT
 7 RG PA
 och KN MS
-kunde VB +F
+kunde VB PLF
 sedan AB TA
 väljas VB VG
 frivilligt AB AA
@@ -7513,7 +7513,7 @@ eleverna NN OO
 
 Uppläggningen NN SS
 kommer VB ROOT
-alltså AB +A
+alltså AB PLA
 att IE VG
 växla VB IF
 från PP RA
@@ -7521,7 +7521,7 @@ kommun NN PA
 till PP RA
 kommun NN PA
 , MID IK
-från PP +F
+från PP PLF
 skola NN PA
 till PP RA
 skola NN PA
@@ -7599,7 +7599,7 @@ Kristendomskunskap NN SS
 byter VB MS
 namn NN OO
 och KN ROOT
-kallas VB +F
+kallas VB PLF
 religionskunskap NN SP
 . MAD IP
 
@@ -7658,7 +7658,7 @@ varje DT DT
 för PP ET
 sig PN PA
 eller KN ROOT
-samordnas VB +F
+samordnas VB PLF
 i PP OA
 lektioner NN PA
 med PP ET
@@ -7729,7 +7729,7 @@ varje DT DT
 termin NN TA
 . MAD IP
 
-I PP +A
+I PP PLA
 övrigt JJ HD
 kommer VB ROOT
 skolan NN SS
@@ -7754,7 +7754,7 @@ Den DT DT
 nya JJ AT
 läroplanen NN SS
 innebär VB ROOT
-också AB +A
+också AB PLA
 att SN OO
 ämnesinnehållet NN SS
 i PP ET
@@ -7763,7 +7763,7 @@ del NN HD
 ämnen NN PA
 förändras VB MS
 och KN UA
-förnyas VB +F
+förnyas VB PLF
 . MAD IP
 
 Här AB RA
@@ -7830,14 +7830,14 @@ erfarenheter NN CJ
 och KN PA
 föreställningar NN CJ
 och KN UA
-grundas VB +F
+grundas VB PLF
 på PP OA
 förståelse NN PA
 . MAD IP
 
 Eleverna NN SS
 kommer VB ROOT
-alltså AB +A
+alltså AB PLA
 att IE VG
 i PP AA
 större JJ AT
@@ -7962,7 +7962,7 @@ av PP ET
 sitt PS DT
 skolarbete NN PA
 men KN ROOT
-också AB +F
+också AB PLF
 vidgat PC AT
 ansvar NN OO
 för PP OA
@@ -7972,7 +7972,7 @@ det PN PA
 Varje DT DT
 skola NN SS
 får VB ROOT
-vidare AB +A
+vidare AB PLA
 ökat PC AT
 pedagogiskt JJ AT
 ansvar NN OO
@@ -8009,7 +8009,7 @@ får VB ROOT
 ett DT DT
 vidgat PC AT
 ansvar NN OO
-också AB +A
+också AB PLA
 för PP OA
 vissa JJ DT
 pedagogiska JJ AT
@@ -8044,7 +8044,7 @@ och KN VG
 till PP AA
 väsentlig JJ AT
 del NN PA
-bearbeta VB +F
+bearbeta VB PLF
 på PP AA
 egen JJ DT
 hand NN PA
@@ -8096,7 +8096,7 @@ sådant JJ AT
 arbetsområde NN PA
 kan VB ROOT
 man PN SS
-även AB +A
+även AB PLA
 tänka VB VG
 sig PN IO
 en DT DT
@@ -8163,8 +8163,8 @@ att IE PA
 individualisera VB IF
 undervisningen NN OO
 men KN ROOT
-också AB +A
-vid PP +F
+också AB PLA
+vid PP PLF
 att IE PA
 öva VB IF
 eleverna NN OO
@@ -8252,7 +8252,7 @@ i PP RA
 vanlig JJ AT
 klass NN PA
 men KN ROOT
-får VB +F
+får VB PLF
 vissa JJ DT
 timmar NN TA
 hjälp NN OO
@@ -8266,12 +8266,12 @@ klinik NN PA
 
 Specialläraren NN SS
 kan VB MS
-också AB +A
+också AB PLA
 komma VB VG
 till PP RA
 klassrummet NN PA
 och KN ROOT
-arbeta VB +F
+arbeta VB PLF
 tillsammans AB PL
 med PP OA
 läraren NN PA
@@ -8287,7 +8287,7 @@ skolledare NN CJ
 och KN SS
 lärare NN CJ
 får VB ROOT
-också AB +A
+också AB PLA
 ökade PC AT
 möjligheter NN OO
 att IE ET
@@ -8359,7 +8359,7 @@ lektion NN PA
 
 Man PN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 använda VB VG
 resurserna NN OO
 för PP CJ
@@ -8399,7 +8399,7 @@ ungdom NN CJ
 
 Man PN SS
 får VB ROOT
-också AB +A
+också AB PLA
 veta VB VG
 vart HA RA
 man PN SS
@@ -8409,12 +8409,12 @@ sig PN OO
 . MAD IP
 
 Se VB MS
-också AB +A
+också AB PLA
 Studier NN OO
 sida NN DT
 22 RG RA
 och KN ROOT
-Moderskap NN +F
+Moderskap NN PLF
 sida NN DT
 15 RG RA
 . MAD IP
@@ -8499,7 +8499,7 @@ att IE MS
 gripa VB IF
 in PL PL
 och KN ROOT
-hjälpa VB +F
+hjälpa VB PLF
 om SN AA
 barn NN CJ
 och KN SS
@@ -8513,7 +8513,7 @@ för PP CJ
 vanvård NN PA
 eller KN OA
 kommer VB CJ
-på PP +F
+på PP PLF
 villovägar NN PA
 , MID IK
 
@@ -8554,7 +8554,7 @@ fyller VB MS
 20 RG DT
 år NN OO
 ( PAD IR
-blir VB +F
+blir VB PLF
 myndiga JJ SP
 ) PAD UA
 . MAD IP
@@ -8669,7 +8669,7 @@ upp PL PL
 . MAD IP
 
 Se VB ROOT
-också AB +A
+också AB PLA
 Moderskap NN OO
 sida NN DT
 15 RG RA
@@ -8696,7 +8696,7 @@ barnavårdsman NN OO
 
 Ibland AB TA
 utses VB ROOT
-också AB +A
+också AB PLA
 barnavårdsman NN SS
 för PP OA
 barn NN PA
@@ -8752,7 +8752,7 @@ barnavårdsman NN OO
 . MAD IP
 
 Se VB ROOT
-också AB +A
+också AB PLA
 Underhållsbidrag NN OO
 sida NN DT
 23 RG RA
@@ -8780,7 +8780,7 @@ kvartalet NN PA
 som KN OP
 barnbidrag NN UA
 , MID IK
-alltså AB +A
+alltså AB PLA
 900 RG DT
 kr NN AN
 per PP ET
@@ -8806,8 +8806,8 @@ Det PN SS
 är VB MS
 skattefritt JJ SP
 och KN ROOT
-tas VB +F
-alltså AB +A
+tas VB PLF
+alltså AB PLA
 inte AB NA
 upp PL PL
 i PP RA
@@ -9078,7 +9078,7 @@ bestäms VB MS
 av PP AG
 kommunen NN PA
 och KN ROOT
-beror VB +F
+beror VB PLF
 oftast AB TA
 på PP OA
 hur HA AA
@@ -9143,7 +9143,7 @@ inkomsten NN SS
 
 Barntillsyn NN SS
 ordnas VB ROOT
-också AB +A
+också AB PLA
 genom PP AA
 
 Kommunalt AB AA
@@ -9324,7 +9324,7 @@ Stat NN CJ
 och KN SS
 kommun NN CJ
 stöder VB ROOT
-också AB +A
+också AB PLA
 ungdoms- NN CJ
 , MID IK
 idrotts- NN CJ
@@ -9404,7 +9404,7 @@ beskaffenhet NN CJ
 Beloppens NN DT
 storlek NN SS
 beror VB ROOT
-också AB +A
+också AB PLA
 på PP OA
 inkomsten NN PA
 . MAD IP
@@ -9569,7 +9569,7 @@ för PP AA
 högsta JJ AT
 tillägg NN PA
 bad NN CJ
-eller KN +F
+eller KN PLF
 duschrum NN CJ
 i PP RA
 huset NN PA
@@ -9608,7 +9608,7 @@ det DT DT
 kommunala JJ AT
 bostadstillägget NN OO
 fordras VB ROOT
-också AB +A
+också AB PLA
 att SN SS
 bostaden NN SS
 uppfyller VB UA
@@ -9854,12 +9854,12 @@ länsbostadsnämnden NN PA
 . MAD IP
 
 Se VB MS
-också AB +A
+också AB PLA
 Förbättringslån NN OO
 sida NN DT
 12 RG RA
 och KN ROOT
-Invalidbostadsbidrag NN +F
+Invalidbostadsbidrag NN PLF
 sida NN DT
 13 RG RA
 . MAD IP
@@ -9919,7 +9919,7 @@ I PP AA
 viss JJ DT
 utsträckning NN PA
 kan VB ROOT
-dock AB +A
+dock AB PLA
 de DT DT
 nya JJ AT
 statliga JJ AT
@@ -9972,7 +9972,7 @@ stärkts VB VG
 
 Lagen NN SS
 ger VB ROOT
-också AB +A
+också AB PLA
 hyresgästen NN IO
 rätt NN OO
 att IE ET
@@ -10007,7 +10007,7 @@ förlängts VB VG
 t.o.m. AB TA
 1971 RG PA
 och KN ROOT
-gäller VB +F
+gäller VB PLF
 på PP RA
 159 RG DT
 orter NN PA
@@ -10042,7 +10042,7 @@ efter PP TA
 år NN DT
 1968 RG PA
 undantas VB ROOT
-dock AB +A
+dock AB PLA
 från PP OA
 regleringen NN PA
 . MAD IP
@@ -10173,7 +10173,7 @@ samhället NN PA
 än KN ET
 löntagarna NN UA
 är VB ROOT
-också AB +A
+också AB PLA
 beroende PC SP
 av PP OA
 att SN PA
@@ -10196,7 +10196,7 @@ genom PP AA
 KPI NN PA
 . MAD IP
 
-Även AB +A
+Även AB PLA
 underhållsbidrag NN CJ
 , MID IK
 bidragsförskott NN CJ
@@ -10490,7 +10490,7 @@ roll NN OO
 
 Det PN FS
 finns VB ROOT
-också AB +A
+också AB PLA
 en DT DT
 särskild PC AT
 indexnämnd NN ES
@@ -10512,7 +10512,7 @@ kvalitetsvärderingar NN PA
 
 Nämnden NN SS
 avgör VB ROOT
-också AB +A
+också AB PLA
 frågor NN OO
 om PP ET
 tillämpningen NN PA
@@ -10734,7 +10734,7 @@ för PP OA
 januari NN PA
 1970 RG ET
 = MID IG
-228 RG +F
+228 RG PLF
 . MAD IP
 
 Prisstegringen NN SS
@@ -10752,7 +10752,7 @@ en DT DT
 uppgång NN OO
 med PP ET
 5/100 RG PA
-det PN +F
+det PN PLF
 vill VB HD
 säga VB HD
 med PP OO
@@ -10807,7 +10807,7 @@ köpas VB VG
 i PP RA
 bokhandeln NN PA
 eller KN ET
-rekvireras VB +F
+rekvireras VB PLF
 från PP RA
 Allmänna JJ PA
 Förlaget NN HD
@@ -10852,7 +10852,7 @@ mindre JJ SP
 
 Vi PN SS
 får VB ROOT
-också AB +A
+också AB PLA
 nya JJ AT
 femkronorsmynt NN OO
 . MAD IP
@@ -10995,7 +10995,7 @@ den DT DT
 juli NN PA
 1972 RG ET
 gäller VB ROOT
-nämligen AB +A
+nämligen AB PLA
 en DT DT
 lag NN SS
 om PP ET
@@ -11109,7 +11109,7 @@ kostat VB VG
 kan VB ROOT
 göra VB VG
 det PN OO
-också AB +A
+också AB PLA
 i PP TA
 fortsättningen NN PA
 . MAD IP
@@ -11184,11 +11184,11 @@ en DT DT
 limpa NN MS
 för PP OA
 2:57 RG PA
-och KN +F
+och KN PLF
 ett DT DT
 halvt JJ HD
 kilo NN DT
-margarin NN +F
+margarin NN PLF
 för PP OA
 2:87 RG PA
 gör VB ROOT
@@ -11212,7 +11212,7 @@ på PP OA
 2:88 RG PA
 och KN UA
 slutsumman NN SS
-blev VB +F
+blev VB PLF
 6:23 RG SP
 . MAD IP
 
@@ -11319,7 +11319,7 @@ mindre JJ SP
 
 Det PN FS
 har VB ROOT
-också AB +A
+också AB PLA
 visat VB VG
 sig PN OO
 att SN ES
@@ -11423,7 +11423,7 @@ noll RG DT
 . MAD IP
 
 Inte AB NA
-heller AB +A
+heller AB PLA
 ska VB ROOT
 sådant PN SS
 som KN ET
@@ -11525,7 +11525,7 @@ av PP ET
 trygghet NN PA
 . MAD IP
 
-Även AB +A
+Även AB PLA
 vuxna JJ SS
 borde VB ROOT
 i PP AA
@@ -11540,7 +11540,7 @@ Simkunnighet NN SS
 självklart AB MA
 bra JJ SP
 men KN ROOT
-förslår VB +F
+förslår VB PLF
 inte AB NA
 långt AB AA
 i PP RA
@@ -11587,7 +11587,7 @@ den PN SS
 som HP SS
 har VB ET
 fritidsbåt NN OO
-också AB +A
+också AB PLA
 ska VB UA
 ha VB VG
 flytvästar NN OO
@@ -11597,7 +11597,7 @@ antal NN PA
 att SN ET
 det PN SS
 räcker VB UA
-även AB +A
+även AB PLA
 för PP OA
 extra-passagerare NN PA
 . MAD IP
@@ -11633,13 +11633,13 @@ sig PN OO
 på PP RA
 bryggan NN PA
 eller KN ET
-leker VB +F
+leker VB PLF
 vid PP RA
 stranden NN PA
 bör VB ROOT
-för PP +A
+för PP PLA
 övrigt JJ HD
-också AB +A
+också AB PLA
 bära VB VG
 flytväst NN OO
 - MID IT
@@ -11800,7 +11800,7 @@ Reflexband NN SS
 en DT DT
 fördel NN SP
 , MID IK
-likaså AB +F
+likaså AB PLF
 en DT DT
 visselpipa NN SS
 för PP AA
@@ -12061,7 +12061,7 @@ instans NN SS
 VDN PM AN
 , MID IK
 ser VB ROOT
-emellertid AB +A
+emellertid AB PLA
 till PL PL
 att SN OO
 västar NN SS
@@ -12077,7 +12077,7 @@ Vilken HP SS
 som HP XX
 väljs VB SS
 är VB ROOT
-alltså AB +A
+alltså AB PLA
 en DT DT
 avvägning NN SP
 mellan PP ET
@@ -12155,7 +12155,7 @@ har VB MS
 celler NN OO
 ' PAD JC
 och KN ROOT
-användes VB +F
+användes VB PLF
 inte AB NA
 som KN CJ
 flytmaterial NN UA
@@ -12220,7 +12220,7 @@ litet JJ AT
 barn NN SS
 kan VB MS
 inte AB NA
-heller AB +A
+heller AB PLA
 själv JJ FP
 blåsa VB VG
 upp PL PL
@@ -12320,7 +12320,7 @@ olycksfåglar NN PA
 
 Det PN SS
 är VB ROOT
-tvärtom AB +A
+tvärtom AB PLA
 så AB AA
 att SN KA
 trafikmiljön NN SS
@@ -12406,7 +12406,7 @@ bilsäkerheten NN PA
 . MAD IP
 
 Men KN ROOT
-även AB +A
+även AB PLA
 de DT DT
 bilar NN SS
 som HP SS
@@ -12474,7 +12474,7 @@ säkerhetssynpunkt NN PA
 Men KN ROOT
 konsumenten NN SS
 bör VB MS
-också AB +A
+också AB PLA
 kunna VB VG
 få VB VG
 besked NN OO
@@ -12486,7 +12486,7 @@ alla DT DT
 bilar NN SS
 har VB PA
 - MID IT
-även AB +A
+även AB PLA
 de PN AN
 som HP SS
 är VB ET
@@ -12665,7 +12665,7 @@ var DT DT
 fjärde RO HD
 invånare NN PA
 och KN UA
-om PP +F
+om PP PLF
 femton RG DT
 år NN PA
 en DT DT
@@ -12688,7 +12688,7 @@ nu AB UA
 . MAD IP
 
 Men KN ROOT
-även AB +A
+även AB PLA
 i PP TA
 framtiden NN PA
 kommer VB MS
@@ -12951,7 +12951,7 @@ krav NN OO
 på PP OA
 trafikanten NN PA
 och KN ROOT
-minskar VB +F
+minskar VB PLF
 säkerheten NN OO
 . MAD IP
 
@@ -12983,7 +12983,7 @@ trafikanten NN PA
 och KN ROOT
 desto AB AA
 fler JJ DT
-regelbrott NN +F
+regelbrott NN PLF
 . MAD IP
 
 När HA TA
@@ -13126,7 +13126,7 @@ enklare JJ CJ
 , MID OP
 överskådligare JJ CJ
 och KN ET
-därmed AB +F
+därmed AB PLF
 säkrare JJ OP
 ? MAD I?
 
@@ -13178,7 +13178,7 @@ reglerna NN SS
 för PP ET
 cyklister NN PA
 är VB ROOT
-också AB +A
+också AB PLA
 bra JJ SP
 att IE OA
 känna VB IF
@@ -13261,7 +13261,7 @@ vänster NN HD
 vid PP RA
 korsning NN PA
 och KN ET
-vill VB +F
+vill VB PLF
 vara VB VG
 särskilt AB AA
 försiktig JJ SP
@@ -13271,14 +13271,14 @@ fram AB RA
 över PP RA
 korsningen NN PA
 och KN MS
-håller VB +F
+håller VB PLF
 därvid AB AA
 till PP RA
 höger NN HD
 , MID IK
-stannar VB +F
+stannar VB PLF
 och KN ROOT
-leder VB +F
+leder VB PLF
 cykeln NN OO
 över PP RA
 den DT DT
@@ -13290,7 +13290,7 @@ vägen NN CJ
 
 Cykelreglerna NN SS
 gäller VB ROOT
-också AB +A
+också AB PLA
 för PP OA
 mopedister NN PA
 . MAD IP
@@ -13330,7 +13330,7 @@ trafik NN PA
 
 Motortrafikleden NN SS
 behöver VB ROOT
-dock AB +A
+dock AB PLA
 till PP AA
 skillnad NN HD
 mot PP HD
@@ -13350,7 +13350,7 @@ en DT DT
 motortrafikled NN PA
 kan VB ROOT
 du PN SS
-alltså AB +A
+alltså AB PLA
 möta VB VG
 andra JJ DT
 motorfordon NN OO
@@ -13376,7 +13376,7 @@ mopedister NN CJ
 Man PN SS
 får VB ROOT
 inte AB NA
-heller AB +A
+heller AB PLA
 köra VB VG
 med PP OA
 traktor NN CJ
@@ -13388,7 +13388,7 @@ hästfordon NN CJ
 
 Det PN FS
 är VB ROOT
-också AB +A
+också AB PLA
 förbjudet PC SP
 att IE ES
 stanna VB IF
@@ -13402,7 +13402,7 @@ rastplats NN CJ
 ) PAD JR
 , MID IK
 vända VB CJ
-eller KN +F
+eller KN PLF
 backa VB CJ
 på PP RA
 sådana JJ DT
@@ -13485,7 +13485,7 @@ i PP TA
 god JJ AT
 tid NN PA
 och KN ROOT
-håll VB +F
+håll VB PLF
 väl AB AA
 ut AB RA
 till PP RA
@@ -13543,7 +13543,7 @@ förare NN PA
 
 Du PN SS
 får VB ROOT
-dock AB +A
+dock AB PLA
 inte AB NA
 köra VB VG
 över PL PL
@@ -13667,13 +13667,13 @@ som HP SS
 går VB MS
 långsamt AB AA
 eller KN ET
-står VB +F
+står VB PLF
 stilla AB PL
 . MAD IP
 
 Mittlinje NN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 användas VB VG
 för PP OA
 uppdelning NN PA
@@ -13708,7 +13708,7 @@ inte AB NA
 byta VB VG
 körfält NN OO
 eller KN ROOT
-köra VB +F
+köra VB PLF
 så AB AA
 att SN KA
 din PS DT
@@ -13742,7 +13742,7 @@ bör VB MS
 skaffa VB VG
 glasögon NN OO
 eller KN UA
-byta VB +F
+byta VB PLF
 till PP OA
 nya JJ PA
 . MAD IP
@@ -13819,7 +13819,7 @@ sprit NN PA
 i PP RA
 kroppen NN PA
 - MID IT
-även AB +A
+även AB PLA
 en RG DT
 enda JJ DT
 mellanöl NN SS
@@ -13915,7 +13915,7 @@ den DT DT
 december NN PA
 1970 RG ET
 har VB ROOT
-alltså AB +A
+alltså AB PLA
 rösträtt NN OO
 . MAD IP
 
@@ -13946,7 +13946,7 @@ tidigare AB TA
 , MID IK
 eller KN UA
 inte AB NA
-fått VB +F
+fått VB PLF
 det PN OO
 före PP TA
 den DT DT
@@ -13981,7 +13981,7 @@ röstning NN PA
 i PP ET
 vallokal NN PA
 och KN ROOT
-måste VB +F
+måste VB PLF
 tas VB VG
 med PL PL
 vid PP AA
@@ -14062,7 +14062,7 @@ röstberättigad PC CJ
 och KN UA
 myndig JJ CJ
 dvs AB CA
-har VB +F
+har VB PLF
 fyllt VB VG
 20 RG DT
 år NN OO
@@ -14128,7 +14128,7 @@ som HP SS
 blir VB ET
 vald PC SP
 måste VB ROOT
-således AB +A
+således AB PLA
 vara VB VG
 bosatt PC SP
 inom PP RA
@@ -14179,12 +14179,12 @@ I PP AA
 allmänhet NN PA
 finns VB ROOT
 de PN SS
-också AB +A
+också AB PLA
 vid PP RA
 vallokalerna NN PA
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 finns VB ROOT
 det PN FS
 valsedelsblanketter NN ES
@@ -14299,7 +14299,7 @@ märka VB IF
 dem PN OO
 ( PAD IR
 gäller VB MS
-även AB +A
+även AB PLA
 valkuverten NN OO
 ) PAD JR
 
@@ -14308,7 +14308,7 @@ de PN SS
 saknar VB MS
 partibeteckning NN OO
 eller KN UA
-har VB +F
+har VB PLF
 mer AB AA
 än KN HD
 en RG DT
@@ -14340,7 +14340,7 @@ i PP RA
 ett RG DT
 kuvert NN PA
 får VB MS
-dock AB +A
+dock AB PLA
 partiet NN SS
 en RG DT
 röst NN OO
@@ -14402,7 +14402,7 @@ man PN SS
 två RG DT
 val NN OO
 - MID IT
-inte AB +F
+inte AB PLF
 landstingsval NN OO
 . MAD IP
 
@@ -14456,7 +14456,7 @@ närmare JJ AT
 upplysningar NN OO
 . MAD IP
 
-Även AB +A
+Även AB PLA
 partierna NN SS
 brukar VB ROOT
 ordna VB OO
@@ -14490,7 +14490,7 @@ vallokalen NN SS
 . MAD IP
 
 Ta VB ROOT
-också AB +A
+också AB PLA
 med PL PL
 ditt PS DT
 röstkort NN OO
@@ -14623,12 +14623,12 @@ att SN OO
 du PN SS
 röstat VB UA
 , MID IK
-tar VB +F
+tar VB PLF
 emot PL PL
 dina PS DT
 valkuvert NN OO
 och KN ROOT
-lägger VB +F
+lägger VB PLF
 dem PN OO
 i PP RA
 de DT DT
@@ -14679,7 +14679,7 @@ Regeringsformen NN SS
 från PP SP
 1809 RG PA
 och KN ROOT
-riksdagsordningen NN +F
+riksdagsordningen NN PLF
 från PP SP
 1866 RG PA
 . MAD IP
@@ -14720,12 +14720,12 @@ förtroende NN PA
 
 Det PN SS
 är VB MS
-alltså AB +A
+alltså AB PLA
 riksdagen NN XX
 - MID IT
 och KN ROOT
 ytterst AB CA
-väljarna NN +F
+väljarna NN PLF
 - MID JT
 som HP SS
 har VB EF
@@ -14758,7 +14758,7 @@ av PP ET
 
 Parlamentarism NN SS
 har VB MS
-däremot AB +A
+däremot AB PLA
 inte AB NA
 varit VB VG
 bestämd PC SP
@@ -14766,7 +14766,7 @@ i PP RA
 lagen NN PA
 , MID IK
 men KN ROOT
-har VB +F
+har VB PLF
 i PP AA
 praktiken NN PA
 tillämpats VB VG
@@ -14950,7 +14950,7 @@ hela JJ DT
 regeringen NN SS
 , MID IK
 eller KN ROOT
-utlyses VB +F
+utlyses VB PLF
 nyval NN SS
 inom PP TA
 en RG DT
@@ -14962,7 +14962,7 @@ ska VB ROOT
 upplösas VB MS
 och KN VG
 nyval NN SS
-anordnas VB +F
+anordnas VB PLF
 när HA TA
 statsministern NN SS
 begär VB TA
@@ -15017,7 +15017,7 @@ landstings- NN CJ
 och KN PA
 kommunval NN CJ
 finns VB ROOT
-dock AB +A
+dock AB PLA
 bostadsbandet NN SS
 kvar PL PL
 . MAD IP
@@ -15041,7 +15041,7 @@ fyller VB ET
 Valbarhetsåldern NN SS
 sänks VB MS
 och KN ROOT
-blir VB +F
+blir VB PLF
 lika AB AA
 med PP HD
 myndighetsåldern NN SP
@@ -15148,7 +15148,7 @@ egna JJ DT
 lägenheter NN OO
 , MID IK
 men KN ROOT
-också AB +A
+också AB PLA
 andra PN SS
 vill VB MS
 ha VB VG
@@ -15167,7 +15167,7 @@ nettoinflyttning NN SP
 utan KN UA
 befolkningen NN SS
 bara AB CA
-skulle VB +F
+skulle VB PLF
 öka VB VG
 genom PP AA
 födelseöverskott NN PA
@@ -15208,7 +15208,7 @@ lägenheter NN SP
 
 Om SN AA
 befolkningen NN SS
-också AB +A
+också AB PLA
 skulle VB UA
 öka VB VG
 genom PP AA
@@ -15527,7 +15527,7 @@ från PP ET
 landet NN PA
 och KN MS
 15 RG DT
-procent NN +F
+procent NN PLF
 från PP SP
 utlandet NN PA
 . MAD IP
@@ -15610,7 +15610,7 @@ idag AB ET
 , MID IK
 varje DT DT
 mörkröd JJ AT
-kvadrat NN +F
+kvadrat NN PLF
 ett DT DT
 nytillskott NN OO
 av PP ET
@@ -15739,7 +15739,7 @@ otidsenliga JJ CJ
 arbetsplatser NN OO
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 växer VB ROOT
 antalet NN DT
 arbetande PC SS
@@ -15798,7 +15798,7 @@ ligga VB VS
 och KN ROOT
 de DT DT
 blå JJ AT
-prickarna NN +F
+prickarna NN PLF
 vilka HP SS
 som HP XX
 faller VB OO
@@ -15878,7 +15878,7 @@ till PP TA
 1985 RG PA
 , MID IK
 Norra JJ DT
-Järvafältet NN +F
+Järvafältet NN PLF
 ( PAD IR
 Hansta PM DT
 regioncentrum NN CJ
@@ -15894,7 +15894,7 @@ med PP SP
 arbetsplatser NN PA
 och KN ROOT
 Västra JJ DT
-Huddinge PM +F
+Huddinge PM PLF
 ( PAD IR
 Flemingsberg PM CJ
 och KN AN
@@ -15916,7 +15916,7 @@ med PP OA
 9000 RG PA
 , MID IK
 Märsta PM DT
-industriområde NN +F
+industriområde NN PLF
 ( PAD IR
 inklusive PP ET
 Arlanda PM PA
@@ -15924,11 +15924,11 @@ Arlanda PM PA
 med PP VS
 7000 RG PA
 , MID IK
-Jordbro PM +F
+Jordbro PM PLF
 med PP VS
 4000 RG PA
 , MID IK
-Triangeln NN +F
+Triangeln NN PLF
 ( PAD IR
 Nacka PM CJ
 - MID AN
@@ -15937,12 +15937,12 @@ Tyresö PM CJ
 med PP VS
 5000 RG PA
 och KN ROOT
-Botkyrka PM +F
+Botkyrka PM PLF
 med PP VS
 12000 RG PA
 . MAD IP
 
-För PP +A
+För PP PLA
 övrigt JJ HD
 förutsätts VB ROOT
 att SN SS
@@ -15989,7 +15989,7 @@ eller KN UA
 enligt PP XA
 fackspråket NN PA
 , MID IK
-klyvas VB +F
+klyvas VB PLF
 utan PP AA
 att SN PA
 man PN SS
@@ -16040,7 +16040,7 @@ två RG DT
 delar NN PA
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 frigörs VB ROOT
 några DT DT
 små JJ AT
@@ -16091,7 +16091,7 @@ kedjereaktion NN SS
 
 Härvid AB AA
 krävs VB ROOT
-emellertid AB +A
+emellertid AB PLA
 , MID IK
 att SN SS
 neutronerna NN SS
@@ -16137,7 +16137,7 @@ en DT DT
 utmärkt PC AT
 moderator NN SP
 men KN ROOT
-har VB +F
+har VB PLF
 den DT DT
 nackdelen NN OO
 , MID IK
@@ -16302,7 +16302,7 @@ ned PL PL
 av PP AG
 havsvatten NN PA
 och KN ROOT
-återgår VB +F
+återgår VB PLF
 i PP AA
 form NN HD
 av PP HD
@@ -16317,7 +16317,7 @@ huvudkylsystemet NN SS
 är VB MS
 slutet PC SP
 och KN ROOT
-kommer VB +F
+kommer VB PLF
 ej AB NA
 i PP OA
 beröring NN PA
@@ -16463,13 +16463,13 @@ grundförhållandena NN HD
 
 Man PN SS
 flygfotograferar VB ROOT
-också AB +A
+också AB PLA
 området NN OO
 . MAD IP
 
 Sötvatten NN SS
 krävs VB ROOT
-också AB +A
+också AB PLA
 för PP OA
 stationens NN DT
 drift NN PA
@@ -16549,7 +16549,7 @@ Vattnet NN SS
 tas VB MS
 in PL PL
 och KN ROOT
-släpps VB +F
+släpps VB PLF
 ut PL PL
 i PP RA
 Öregrundsgrepen PM PA
@@ -16751,7 +16751,7 @@ med PP AA
 fyra RG DT
 aggregat NN PA
 blir VB ROOT
-således AB +A
+således AB PLA
 ca AB AA
 2 RG DT
 miljarder NN DT
@@ -17013,7 +17013,7 @@ från PP ET
 brukets NN DT
 blomstringstid NN PA
 och KN ROOT
-kommer VB +F
+kommer VB PLF
 säkert AB MA
 att IE VG
 så AB AA
@@ -17135,7 +17135,7 @@ antal NN DT
 lokalkontor NN CJ
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 finns VB ROOT
 ambulerande PC AT
 förmedling NN SS
@@ -17163,7 +17163,7 @@ platslistor NN PA
 
 Den PN SS
 tillhandahåller VB ROOT
-också AB +A
+också AB PLA
 en DT DT
 omfattande PC AT
 information NN OO
@@ -17192,7 +17192,7 @@ yrke NN CJ
 och KN PA
 utbildningsväg NN CJ
 och KN ROOT
-hjälper VB +F
+hjälper VB PLF
 dig PN OO
 att IE OA
 kartlägga VB IF
@@ -17227,7 +17227,7 @@ dig PN PA
 på PP RA
 arbetsmarknaden NN PA
 och KN ROOT
-försöker VB +F
+försöker VB PLF
 finna VB CJ
 ett DT DT
 lämpligt JJ AT
@@ -17268,7 +17268,7 @@ kommer VB MS
 till PL PL
 och KN ROOT
 gamla JJ AT
-försvinner VB +F
+försvinner VB PLF
 . MAD IP
 
 Samtidigt AB TA
@@ -17463,7 +17463,7 @@ utbildningsval NN CJ
 
 Man PN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 få VB VG
 arbetsmarknadsutbildning NN OO
 inom PP CJ
@@ -17524,7 +17524,7 @@ gift PC SP
 och KN ROOT
 högst AB AA
 525 RG DT
-kr NN +F
+kr NN PLF
 / MID ET
 mån NN PA
 till PP ET
@@ -17552,7 +17552,7 @@ på PP RA
 annan JJ DT
 ort NN PA
 - MID JT
-bidrag NN +F
+bidrag NN PLF
 med PP ET
 150-200 RG DT
 kr NN PA
@@ -17613,7 +17613,7 @@ vissa JJ DT
 fall NN PA
 högst AB AA
 150 RG DT
-kr NN +F
+kr NN PLF
 / MID ET
 mån NN CJ
 och KN PA
@@ -17657,7 +17657,7 @@ det DT DT
 särskilda PC AT
 bidraget NN CJ
 utgår VB ROOT
-dock AB +A
+dock AB PLA
 i PP AA
 regel NN HD
 oförminskat AB AA
@@ -17683,7 +17683,7 @@ att IE ET
 bli VB IF
 arbetslös JJ SP
 eller KN UA
-har VB +F
+har VB PLF
 svårt JJ OO
 att IE OA
 finna VB IF
@@ -17699,7 +17699,7 @@ fyllt VB UA
 ( PAD IR
 undantag NN SS
 finns VB AN
-dock AB +A
+dock AB PLA
 från PP AA
 detta DT DT
 villkor NN PA
@@ -17767,7 +17767,7 @@ fyllt VB MS
 21 RG DT
 år NN OO
 och KN ET
-anses VB +F
+anses VB PLF
 kunna VB VS
 klara VB VG
 utbildningen NN OO
@@ -17777,12 +17777,12 @@ deltaga VB VG
 
 Man PN SS
 behöver VB ROOT
-alltså AB +A
+alltså AB PLA
 inte AB NA
 vara VB MS
 arbetslös JJ SP
 eller KN VG
-riskera VB +F
+riskera VB PLF
 att IE OO
 bli VB IF
 det PN SP
@@ -17837,7 +17837,7 @@ sysselsättning NN PA
 
 Motsvarande PC SS
 kan VB ROOT
-också AB +A
+också AB PLA
 gälla VB VG
 då HA TA
 företag NN SS
@@ -17865,7 +17865,7 @@ utbildningstiden NN PA
 
 Utbildningsbidrag NN SS
 utgår VB ROOT
-också AB +A
+också AB PLA
 till PP OA
 äldre JJ AT
 arbetstagare NN PA
@@ -17936,7 +17936,7 @@ så AB AA
 långt AB AA
 som KN KA
 möjligt JJ UA
-få VB +F
+få VB PLF
 sina PS DT
 kostnader NN OO
 i PP ET
@@ -17995,14 +17995,14 @@ att IE MS
 söka VB IF
 arbete NN OO
 och KN PA
-se VB +F
+se VB PLF
 på PP OA
 den DT DT
 nya JJ AT
 arbetsorten NN PA
 . MAD IP
 
-Även AB +A
+Även AB PLA
 make NN SS
 kan VB ROOT
 få VB VG
@@ -18148,7 +18148,7 @@ som HP SS
 300 RG DT
 kr NN OO
 , MID IK
-dock AB +A
+dock AB PLA
 högst AB AA
 450 RG DT
 kr NN AN
@@ -18156,7 +18156,7 @@ kr NN AN
 mån NN PA
 . MAD IP
 
-Även AB +A
+Även AB PLA
 detta DT DT
 bidrag NN SS
 nedsätts VB ROOT
@@ -18215,7 +18215,7 @@ den DT DT
 sökande PC SS
 är VB MS
 eller KN UA
-löper VB +F
+löper VB PLF
 risk NN OO
 att IE ET
 bli VB IF
@@ -18287,7 +18287,7 @@ resan NN SS
 anträds VB MS
 resp. AB UA
 flyttning NN SS
-sker VB +F
+sker VB PLF
 
 vid PP ROOT
 starthjälp NN CJ
@@ -18324,7 +18324,7 @@ nordligaste JJ AT
 länen NN PA
 och KN ET
 inte AB NA
-kan VB +F
+kan VB PLF
 sälja VB VG
 sin PS DT
 fastighet NN CJ
@@ -18335,7 +18335,7 @@ lägenhet NN CJ
 Ibland AB TA
 kan VB ROOT
 inlösen NN SS
-också AB +A
+också AB PLA
 ske VB VG
 i PP RA
 andra JJ DT
@@ -18353,7 +18353,7 @@ flytta VB IF
 
 Det PN FS
 kan VB ROOT
-också AB +A
+också AB PLA
 vara VB VG
 svårt JJ SP
 att IE ES
@@ -18365,7 +18365,7 @@ man PN SS
 måste VB MS
 flytta VB VG
 eller KN TA
-byta VB +F
+byta VB PLF
 yrke NN OO
 
 Allmänna JJ AT
@@ -18410,7 +18410,7 @@ arbete NN OO
 Allmänna JJ AT
 beredskapsarbeten NN SS
 används VB ROOT
-också AB +A
+också AB PLA
 för PP AA
 att IE PA
 ge VB IF
@@ -18478,7 +18478,7 @@ som HP SS
 år NN SP
 ( PAD IR
 ibland AB TA
-55 RG +F
+55 RG PLF
 ) PAD ET
 kan VB ROOT
 ersättningstiden NN SS
@@ -18545,7 +18545,7 @@ ett DT DT
 företag NN PA
 e.d. AB CJ
 kan VB ROOT
-också AB +A
+också AB PLA
 den PN SS
 som HP SS
 fyllt VB ET
@@ -18566,7 +18566,7 @@ ett DT DT
 avlönat PC AT
 arbete NN OO
 eller KN ROOT
-varit VB +F
+varit VB PLF
 egen JJ DT
 företagare NN SP
 
@@ -18608,7 +18608,7 @@ månader NN TA
 vara VB MS
 arbetsför JJ SP
 och KN ROOT
-beredd PC +F
+beredd PC PLF
 att IE OA
 ta VB IF
 ett DT DT
@@ -18690,7 +18690,7 @@ På PP TA
 senare JJ DT
 tid NN PA
 har VB ROOT
-också AB +A
+också AB PLA
 industriarbeten NN SS
 startats VB VG
 . MAD IP
@@ -18777,7 +18777,7 @@ regel NN HD
 av PP AG
 kommuner NN PA
 och KN ROOT
-äger VB +F
+äger VB PLF
 rum NN PL
 på PP RA
 särskilda PC AT
@@ -18873,7 +18873,7 @@ rörelse NN OO
 
 Bidrag NN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 utgå VB VG
 till PP OA
 handikappade PC PA
@@ -18982,7 +18982,7 @@ kanske AB MA
 läst VB VG
 platsannonser NN OO
 och KN ROOT
-försökt VB +F
+försökt VB PLF
 räkna VB OO
 ut PL PL
 om SN OO
@@ -18998,7 +18998,7 @@ jobb NN OO
 
 Det PN SS
 är VB ROOT
-dock AB +A
+dock AB PLA
 inte AB NA
 bara AB CA
 mängden NN XX
@@ -19018,7 +19018,7 @@ arbetsval NN OO
 : MAD IQ
 man PN SS
 bör VB MS
-också AB +A
+också AB PLA
 känna VB VG
 till PL PL
 löner NN CJ
@@ -19113,14 +19113,14 @@ arbetsförhållanden NN CJ
 
 Söker VB MS
 man PN SS
-däremot AB +A
+däremot AB PLA
 arbete NN OO
 på PP RA
 annan JJ DT
 ort NN PA
 och KN AA
 kanske AB MA
-i PP +F
+i PP PLF
 ett DT DT
 yrke NN PA
 som HP OO
@@ -19145,7 +19145,7 @@ med PP OA
 arbetsförmedlingen NN PA
 och KN ROOT
 kanske AB MA
-kontakta VB +F
+kontakta VB PLF
 både KN VA
 företaget NN CJ
 och KN OO
@@ -19165,7 +19165,7 @@ du PN SS
 väljer VB MS
 ut PL PL
 och KN TA
-jämför VB +F
+jämför VB PLF
 lediga JJ AT
 platser NN OO
 i PP CJ
@@ -19234,7 +19234,7 @@ dig PN PA
 
 Du PN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 använda VB VG
 de DT DT
 talonger NN OO
@@ -19377,7 +19377,7 @@ utbildningsval NN CJ
 
 Arbetsförmedlingen NN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 hjälpa VB VG
 dig PN OO
 med PP CJ
@@ -19537,7 +19537,7 @@ sa VB MS
 De DT SS
 Sex RG HD
 och KN ROOT
-slog VB +F
+slog VB PLF
 sig PN OO
 ihop PL PL
 med PP AA
@@ -19545,7 +19545,7 @@ stora JJ AT
 framtidsplaner NN PA
 , MID IK
 bl_a AB CA
-för PP +F
+för PP PLF
 att IE PA
 slippa VB IF
 sargas VB OO
@@ -19595,7 +19595,7 @@ associationsavtal NN PA
 
 Grekland PM SS
 är VB ROOT
-dock AB +A
+dock AB PLA
 tillfälligt AB AA
 avkopplat PC SP
 eftersom SN AA
@@ -19686,7 +19686,7 @@ sina PS DT
 intressen NN PA
 för PP AA
 att IE PA
-till PP +A
+till PP PLA
 slut NN HD
 kunna VB IF
 nå VB VG
@@ -19763,7 +19763,7 @@ vara VB VG
 med PL PL
 i PP OA
 Nato PM PA
-också AB +A
+också AB PLA
 . MAD IP
 
 ( PAD IR
@@ -19792,7 +19792,7 @@ Nato PM PA
 . MAD IP
 
 Inte AB NA
-heller AB +A
+heller AB PLA
 ville VB ROOT
 han PN SS
 att SN OO
@@ -19831,7 +19831,7 @@ nedåt AB CJ
 den DT SP
 organisation NN HD
 Sverige PM SS
-alltså AB +A
+alltså AB PLA
 kan VB ET
 komma VB VG
 in PL PL
@@ -19945,7 +19945,7 @@ EEC-länderna NN PA
 Varje DT DT
 ambassadör NN SS
 har VB ROOT
-i PP +A
+i PP PLA
 sin PS HD
 tur NN HD
 bakom PP AA
@@ -19975,7 +19975,7 @@ ministerrådet NN CJ
 och KN PA
 kommissionen NN CJ
 samt KN ROOT
-förbereder VB +F
+förbereder VB PLF
 en DT DT
 rad NN DT
 viktiga JJ AT
@@ -20013,19 +20013,19 @@ alla DT DT
 bestämmelser NN SS
 följs VB UA
 , MID IK
-löser VB +F
+löser VB PLF
 tvister NN OO
 mellan PP ET
 länderna NN PA
 , MID ET
-är VB +F
+är VB PLF
 auktoritativ JJ AT
 uttolkare NN SP
 av PP ET
 EEC:s PM DT
 olika JJ AT
 bestämmelser NN PA
-etc AB +F
+etc AB PLF
 . MAD IP
 
 Domstolen NN SS
@@ -20176,7 +20176,7 @@ tjänstemän NN CJ
 Efter PP TA
 hand NN HD
 har VB MS
-också AB +A
+också AB PLA
 kommissionen NN SS
 i PP CA
 huvudsak NN HD
@@ -20186,7 +20186,7 @@ ett DT DT
 utredande PC AT
 organ NN PA
 men KN ROOT
-är VB +F
+är VB PLF
 fortfarande AB TA
 ett DT DT
 förslagsställande PC CJ
@@ -20210,7 +20210,7 @@ Förbereda VB MS
 för PP OA
 ministerrådet NN PA
 och KN ROOT
-föreslå VB +F
+föreslå VB PLF
 beslut NN OO
 där AB RA
 . MAD IP
@@ -20300,7 +20300,7 @@ tomatpriser NN PA
 , MID IK
 man PN SS
 kan VB MS
-även AB +A
+även AB PLA
 tänka VB VG
 sig PN IO
 en DT OO
@@ -20500,7 +20500,7 @@ har VB MS
 röster NN OO
 var PN FP
 och KN ROOT
-Luxemburg PM +F
+Luxemburg PM PLF
 1 RG DT
 röst NN OO
 . MAD IP
@@ -20516,7 +20516,7 @@ De DT DT
 tre RG DT
 stora JJ SS
 kan VB ROOT
-sålunda AB +A
+sålunda AB PLA
 slå VB VG
 ut PL PL
 de DT DT
@@ -20525,7 +20525,7 @@ små JJ OO
 . MAD IP
 
 Men KN ROOT
-också AB +A
+också AB PLA
 två RG DT
 stora JJ CJ
 och KN SS
@@ -20602,7 +20602,7 @@ Luxemburg PM CJ
 Irland PM CJ
 , MID IK
 Danmark PM CJ
-och KN +F
+och KN PLF
 Norge PM CJ
 3 RG DT
 röster NN OO
@@ -20754,7 +20754,7 @@ för AB AA
 högt JJ AA
 räknat PC AN
 anser VB MA
-dock AB +A
+dock AB PLA
 en DT DT
 del NN SS
 ) PAD JR
@@ -20769,7 +20769,7 @@ in PL PL
 miljarder NN DT
 kr NN OO
 och KN ROOT
-i PP +F
+i PP PLF
 tullmedel NN PA
 7 RG DT
 miljarder NN DT
@@ -20784,7 +20784,7 @@ miljarder NN OO
 
 Det PN FS
 behövs VB ROOT
-alltså AB +A
+alltså AB PLA
 mer JJ DT
 pengar NN ES
 . MAD IP
@@ -20813,7 +20813,7 @@ i PP ET
 Bryssel PM PA
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 ska VB ROOT
 varje DT DT
 medlemsland NN SS
@@ -20874,7 +20874,7 @@ intressanta JJ SP
 är VB ROOT
 egentligen AB MA
 inte AB NA
-heller AB +A
+heller AB PLA
 det DT DT
 EEC PM CJ
 som HP SS
@@ -20998,7 +20998,7 @@ Den DT DT
 gemensamma JJ AT
 marknaden NN AN
 . MAD IP
-De DT +F
+De DT PLF
 sex RG HD
 ) PAD JR
 . MAD IP
@@ -21187,7 +21187,7 @@ proc NN PA
 i PP RA
 EEC PM PA
 , MID IK
-med PP +F
+med PP PLF
 58 RG DT
 proc. NN PA
 i PP RA
@@ -21229,7 +21229,7 @@ sjunkit VB VG
 betydligt AB AA
 , MID IK
 men KN ROOT
-är VB +F
+är VB PLF
 fortfarande AB TA
 god JJ SP
 , MID IK
@@ -21266,7 +21266,7 @@ EEC-länderna NN PA
 Men KN ROOT
 inflationen NN SS
 har VB MS
-också AB +A
+också AB PLA
 här AB RA
 rusat VB VG
 fram PL PL
@@ -21276,7 +21276,7 @@ har VB MS
 gått VB VG
 upp PL PL
 , MID IK
-dock AB +A
+dock AB PLA
 inte AB NA
 så AB AA
 mycket AB AA
@@ -21303,11 +21303,11 @@ av PP AG
 ) PAD HD
 USA PM CJ
 , MID IK
-2 RG +A
+2 RG PLA
 ) PAD HD
 Sovjet PM CJ
 och KN PA
-3 RG +A
+3 RG PLA
 ) PAD HD
 Japan PM CJ
 . MAD IP
@@ -21320,7 +21320,7 @@ kunna VB VG
 hävda VB VG
 sig PN OO
 och KN UA
-blomstra VB +F
+blomstra VB PLF
 i PP TA
 framtiden NN PA
 måste VB ROOT
@@ -21328,7 +21328,7 @@ det PN SS
 enas VB MS
 , MID IK
 EEC PM SS
-utvidgas VB +F
+utvidgas VB PLF
 , MID VG
 menar VB MA
 allt AB DT
@@ -21410,7 +21410,7 @@ hemma AB RA
 Men KN ROOT
 de PN SS
 betalar VB MS
-ändå AB +A
+ändå AB PLA
 kyrkoskatt NN OO
 . MAD IP
 
@@ -21533,7 +21533,7 @@ genomsnittet NN PA
 
 Det PN FS
 finns VB ROOT
-också AB +A
+också AB PLA
 de PN ES
 som HP SS
 ligger VB ET
@@ -21549,7 +21549,7 @@ av PP AG
 kyrkofullmäktige NN PA
 . MAD IP
 
-Alltså AB +A
+Alltså AB PLA
 de DT DT
 församlingar NN ROOT
 som HP OO
@@ -21571,7 +21571,7 @@ för PP OA
 om PP ET
 året NN PA
 och KN ET
-bor VB +F
+bor VB PLF
 i PP RA
 en DT DT
 kommun NN PA
@@ -21648,7 +21648,7 @@ Men KN ROOT
 det PN SS
 förutsätter VB MS
 att SN OO
-också AB +A
+också AB PLA
 den DT DT
 andra JJ DT
 parten NN SS
@@ -21708,7 +21708,7 @@ vana NN PA
 Men KN ROOT
 det PN FS
 finns VB MS
-också AB +A
+också AB PLA
 andra JJ DT
 motiv NN ES
 för PP ET
@@ -21779,7 +21779,7 @@ skriver VB MS
 några DT DT
 rader NN OO
 och KN ET
-skickar VB +F
+skickar VB PLF
 brevet NN OO
 till PP RA
 pastorsämbetet NN PA
@@ -21903,7 +21903,7 @@ ett DT DT
 par NN DT
 timmar NN OO
 och KN ROOT
-kostar VB +F
+kostar VB PLF
 inte AB NA
 särskilt AB CA
 mycket AB OO
@@ -21927,7 +21927,7 @@ tvätta VB IF
 av PP OA
 lacken NN PA
 och KN PA
-putsa VB +F
+putsa VB PLF
 bort PL PL
 de DT DT
 matta JJ AT
@@ -21981,13 +21981,13 @@ Ställa VB ROOT
 in PL PL
 ljuset NN OO
 , MID IK
-kontrollera VB +F
+kontrollera VB PLF
 bromsarna NN OO
 , MID IK
 ladda VB MS
 batteriet NN OO
-och KN +F
-se VB +F
+och KN PLF
+se VB PLF
 till PL PL
 att SN OO
 det PN SS
@@ -22084,7 +22084,7 @@ bilen NN OO
 mot PP RA
 garageväggen NN PA
 och KN ET
-kolla VB +F
+kolla VB PLF
 ljuset NN OO
 är VB ROOT
 värdelöst JJ SP
@@ -22100,7 +22100,7 @@ strålkastarna NN SS
 lyser VB MS
 , MID IK
 men KN UA
-inte AB +F
+inte AB PLF
 mycket AB DT
 mera AB OO
 . MAD IP
@@ -22128,7 +22128,7 @@ på PP AA
 halvljus NN PA
 jämt AB TA
 - MID IT
-också AB +A
+också AB PLA
 på PP AN
 dagen NN PA
 - MID JT
@@ -22256,7 +22256,7 @@ Dubbarna NN SS
 fungerar VB ROOT
 som KN SP
 balansvikter NN UA
-också AB +A
+också AB PLA
 vid PP AA
 tämligen AB AA
 låg JJ AT
@@ -22297,7 +22297,7 @@ servicestation NN PA
 
 Ljuskontroll NN ROOT
 ( PAD IR
-också AB +A
+också AB PLA
 ett DT DT
 jobb NN AN
 för PP ET
@@ -22320,7 +22320,7 @@ dubbas VB VG
 om PL PL
 och KN AA
 kompletteras VB CJ
-eller KN +F
+eller KN PLF
 balanseras VB CJ
 är VB MS
 detta PN SS
@@ -22491,7 +22491,7 @@ att IE OA
 handbromsvajern NN SS
 fryser VB MS
 fast PL PL
-o_s_v AB +F
+o_s_v AB PLF
 . MAD MS
 
 Det PN SS
@@ -22547,7 +22547,7 @@ ska VB ROOT
 intensivsalta VB VG
 våra PS DT
 vägar NN OO
-också AB +A
+också AB PLA
 i PP TA
 år NN PA
 . MAD IP
@@ -22632,7 +22632,7 @@ När HA TA
 fukten NN SS
 kommer VB MS
 och KN TA
-kylan NN +F
+kylan NN PLF
 fastnar VB ROOT
 dörrarna NN SS
 i PP RA
@@ -22839,8 +22839,8 @@ vägen NN PA
 måste VB MS
 bogsera VB VG
 , MID IK
-eller KN +F
-blir VB +F
+eller KN PLF
+blir VB PLF
 sittande PC SP
 i PP RA
 snön NN PA
@@ -22911,7 +22911,7 @@ Ljuset NN AA
 byt VB ROOT
 lampor NN OO
 - MID IT
-kontrollera VB +F
+kontrollera VB PLF
 inställningen NN OO
 . MAD IP
 
@@ -22938,20 +22938,20 @@ kompletteringsdubb NN OO
 Under PP ROOT
 huven NN PA
 : MID IQ
-glykol NN +F
+glykol NN PLF
 , MID IK
-T-sprit NN +F
+T-sprit NN PLF
 i PP ET
 vindrutespolaren NN PA
 , MID IK
-kolla VB +F
+kolla VB PLF
 batteriet NN OO
 ( PAD IR
 ev JJ AT
 uppladdning NN AN
 ) PAD JR
 , MID IK
-vinterolja NN +F
+vinterolja NN PLF
 i PP ET
 motorn NN PA
 . MAD IP
@@ -23132,7 +23132,7 @@ manager UO HD
 ' PAD JC
 , MID IK
 halvstatlig JJ PT
-dessutom AB +A
+dessutom AB PLA
 . MAD IP
 
 För PP TA
@@ -23254,7 +23254,7 @@ Borriggarna NN SS
 köps VB MS
 inte AB NA
 utan KN ROOT
-hyrs VB +F
+hyrs VB PLF
 . MAD IP
 
 Oljeprospektering NN SS
@@ -23443,7 +23443,7 @@ olja NN SS
 hittas VB MS
 och KN UA
 fynden NN SS
-är VB +F
+är VB PLF
 så AB AA
 stora JJ SP
 att SN KA
@@ -23543,7 +23543,7 @@ tidigare AB TA
 men KN ROOT
 inte AB NA
 djupare AB RA
-än KN +F
+än KN PLF
 2000 RG DT
 m NN UA
 . MAD IP
@@ -23588,7 +23588,7 @@ höst NN TA
 Men KN ROOT
 nu AB TA
 är VB MS
-alltså AB +A
+alltså AB PLA
 siktet NN SS
 inställt PC SP
 på PP AA
@@ -23660,7 +23660,7 @@ bra JJ SP
 . MAD IP
 
 Och KN ROOT
-även AB +A
+även AB PLA
 i PP RA
 Östersjön PM PA
 råder VB MS
@@ -23685,7 +23685,7 @@ dag NN TA
 och KN HD
 natt NN HD
 och KN ROOT
-kan VB +F
+kan VB PLF
 bullra VB VG
 som KN KA
 åtta RG DT
@@ -23726,12 +23726,12 @@ entreprenörens NN DT
 eget JJ DT
 folk NN SP
 och KN MS
-alltså AB +A
+alltså AB PLA
 inga DT DT
-lokalanställda PC +F
+lokalanställda PC PLF
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 knyts VB ROOT
 olika JJ AT
 serviceföretag NN SS
@@ -23825,7 +23825,7 @@ kr NN OO
 bogseras VB MS
 ut PL PL
 och KN ROOT
-förankras VB +F
+förankras VB PLF
 på PP RA
 botten NN PA
 . MAD IP
@@ -23906,7 +23906,7 @@ i PP MA
 bästa JJ AT
 fall NN PA
 t_o_m AB CA
-eliminera VB +F
+eliminera VB PLF
 . MAD IP
 
 Men KN ROOT
@@ -23917,7 +23917,7 @@ eller KN SS
 någon DT DT
 annan JJ CJ
 vet VB MS
-alltså AB +A
+alltså AB PLA
 om SN OO
 hasarden NN SS
 kommer VB UA
@@ -24452,7 +24452,7 @@ egen JJ HD
 hand NN HD
 flottiljen NN OO
 och KN ROOT
-ordnade VB +F
+ordnade VB PLF
 så AB AA
 att SN KA
 regementets NN DT
@@ -24526,7 +24526,7 @@ i PP ET
 det DT DT
 militära JJ PA
 är VB ROOT
-också AB +A
+också AB PLA
 bristfällig JJ SP
 . MAD IP
 
@@ -24547,7 +24547,7 @@ de DT DT
 överarbetande PC AT
 militärläkarna NN SS
 eller KN MS
-också AB +A
+också AB PLA
 begriper VB MS
 de PN SS
 sig PN IO
@@ -24885,7 +24885,7 @@ företagits VB ET
 om PP AA
 rökning NN PA
 och KN ROOT
-anlitas VB +F
+anlitas VB PLF
 av PP AG
 WHO PM PA
 , MID IK
@@ -24963,7 +24963,7 @@ cigarettrökning NN SS
 var VB UA
 skadligt JJ SP
 , MID IK
-tryckte VB +F
+tryckte VB PLF
 på PP OA
 alla DT DT
 upptänkliga JJ AT
@@ -24974,7 +24974,7 @@ skulle VB ET
 sluta VB VG
 röka VB OA
 , MID IK
-påpekade VB +F
+påpekade VB PLF
 vilka HD DT
 skadliga JJ AT
 effekter NN OO
@@ -25108,7 +25108,7 @@ halvt JJ HD
 sedan AB HD
 fick VB ROOT
 vi PN SS
-också AB +A
+också AB PLA
 tid NN OO
 i PP ET
 TV NN PA
@@ -25315,7 +25315,7 @@ det DT DT
 sättet NN PA
 är VB ROOT
 det PN FS
-också AB +A
+också AB PLA
 lättare JJ SP
 för PP OA
 dem PN PA
@@ -25329,7 +25329,7 @@ röka VB OA
 
 Regeringen NN SS
 har VB ROOT
-också AB +A
+också AB PLA
 börjat VB VG
 gripa VB OA
 in PL PL
@@ -25365,7 +25365,7 @@ och KN PA
 radio NN CJ
 . MAD IP
 
-Däremot AB +A
+Däremot AB PLA
 är VB ROOT
 denna DT DT
 reklam NN SS
@@ -25442,7 +25442,7 @@ i PP AA
 vissa JJ DT
 fall NN PA
 t_o_m AB CA
-eftersträvansvärt JJ +F
+eftersträvansvärt JJ PLF
 . MAD IP
 
 De DT DT
@@ -25573,12 +25573,12 @@ trappa NN PA
 i PP ET
 Moskva PM PA
 , MID IK
-skadade VB +F
+skadade VB PLF
 senan NN OO
 i PP ET
 knäskålen NN PA
 , MID IK
-fördes VB +F
+fördes VB PLF
 i PP AA
 ambulans NN PA
 till PP RA
@@ -25597,7 +25597,7 @@ upplevde VB MS
 enorma JJ AT
 kontaksvårigheter NN OO
 och KN ROOT
-kom VB +F
+kom VB PLF
 på PL PL
 en DT DT
 världside NN OO
@@ -25673,7 +25673,7 @@ få VB ROOT
 ett DT DT
 bäcken NN OO
 , MID IK
-bli VB +F
+bli VB PLF
 vänd PC SP
 i PP RA
 en DT DT
@@ -25695,7 +25695,7 @@ försökte VB MS
 med PP AA
 teckenspråk NN PA
 , MID IK
-försökte VB +F
+försökte VB PLF
 rita VB OO
 , MID IK
 men KN ROOT
@@ -25785,7 +25785,7 @@ att SN SS
 Medicinsk JJ SS
 bildtolk NN HD
 ' PAD JC
-också AB +A
+också AB PLA
 skall VB UA
 fungera VB VG
 som KN SP
@@ -26036,7 +26036,7 @@ ha VB VG
 en DT DT
 penna NN OO
 , MID IK
-på PP +F
+på PP PLF
 en DT DT
 präst NN PA
 när HA TA
@@ -26070,7 +26070,7 @@ på PP RA
 höger JJ DT
 sida NN PA
 , MID IK
-vill VB +F
+vill VB PLF
 ha VB VG
 glasögon NN CJ
 , MID IK
@@ -26109,7 +26109,7 @@ bad NN CJ
 
 Det PN SS
 går VB ROOT
-också AB +A
+också AB PLA
 bra AB AA
 . MAD IP
 
@@ -26166,7 +26166,7 @@ vid PP RA
 naveln NN PA
 och KN OO
 sedan AB TA
-spred VB +F
+spred VB PLF
 sig PN OO
 ner AB RA
 mot PP RA
@@ -26216,7 +26216,7 @@ gul JJ SP
 i PP RA
 ögonen NN PA
 , MID IK
-haft VB +F
+haft VB PLF
 gulsot NN OO
 eller KN OO
 om SN CJ
@@ -26258,7 +26258,7 @@ senare AB CJ
 , MID IK
 det PN DB
 går VB MS
-också AB +A
+också AB PLA
 hyggligt JJ SP
 att IE OA
 förstå VB IF
@@ -26389,7 +26389,7 @@ för PP OA
 utlänningar NN PA
 här AB RA
 och KN ROOT
-för PP +F
+för PP PLF
 svenskar NN PA
 utomlands AB RA
 . MAD IP
@@ -26482,10 +26482,10 @@ vill VB MS
 bli VB VG
 vänd PC SP
 och KN ROOT
-sova VB +F
+sova VB PLF
 på PP AA
 rygg NN HD
-i PP +A
+i PP PLA
 stället NN HD
 . MAD IP
 
@@ -26553,7 +26553,7 @@ redan AB CA
 valkvällen NN TA
 och KN MS
 slutresultatet NN SS
-varit VB +F
+varit VB PLF
 klart JJ SP
 till PP TA
 midnatt NN PA
@@ -26625,7 +26625,7 @@ färgblindas JJ DT
 hjälp NN PA
 får VB ROOT
 de PN SS
-också AB +A
+också AB PLA
 olika JJ AT
 streckmarkeringar NN OO
 . MAD IP
@@ -26694,7 +26694,7 @@ i PP RA
 röstlängden NN PA
 . MAD IP
 
-Likaså AB +A
+Likaså AB PLA
 överräcks VB ROOT
 kassetterna NN SS
 till PP OA
@@ -26745,7 +26745,7 @@ hög NN HD
 på PP RA
 bordet NN PA
 och KN ROOT
-hämtas VB +F
+hämtas VB PLF
 småningom AB TA
 tillbaka AB RA
 till PP RA
@@ -26865,7 +26865,7 @@ skillnaden NN SS
 i PP ET
 kostnad NN PA
 blir VB MS
-ändå AB +A
+ändå AB PLA
 avsevärd JJ SP
 . MAD IP
 
@@ -26912,7 +26912,7 @@ med PP ET
 dessa DT DT
 nyheter NN PA
 är VB MS
-ändå AB +A
+ändå AB PLA
 inte AB NA
 underlättandet NN CJ
 för PP ET
@@ -27002,7 +27002,7 @@ räknar VB MS
 in PL PL
 valsedlarna NN OO
 och KN MS
-vägrar VB +F
+vägrar VB PLF
 att IE OO
 ta VB IF
 emot PL PL
@@ -27034,7 +27034,7 @@ den PN SS
 en RG DT
 åtgärd NN OO
 , MID IK
-nämligen AB +A
+nämligen AB PLA
 att SN AN
 de PN SS
 gör VB UA
@@ -27064,7 +27064,7 @@ på PP TA
 kvällen NN PA
 och KN TA
 valet NN SS
-är VB +F
+är VB PLF
 slut JJ SP
 förs VB ROOT
 valboxarna NN SS
@@ -27078,7 +27078,7 @@ svälja VB MS
 1500 RG DT
 sedlar NN OO
 ( PAD IR
-dvs AB +F
+dvs AB PLF
 fler JJ OO
 än KN KA
 väljarna NN UA
@@ -27122,7 +27122,7 @@ vallokalrösterna NN PA
 , MID IK
 databehandlas VB ROOT
 de PN SS
-också AB +A
+också AB PLA
 först AB TA
 . MAD IP
 
@@ -27158,13 +27158,13 @@ framräknat PC SP
 Före PP TA
 midnatt NN PA
 är VB ROOT
-alltså AB +A
+alltså AB PLA
 valet NN SS
 klart JJ SP
 . MAD IP
 
 - MID IT
-Även AB +A
+Även AB PLA
 kommun- NN CJ
 och KN SS
 landstingsvalen NN CJ
@@ -27198,7 +27198,7 @@ den PN SS
 är VB MS
 ofrånkomlig JJ SP
 och KN MS
-går VB +F
+går VB PLF
 inte AB NA
 att IE OA
 helt AB AA
@@ -27215,7 +27215,7 @@ skett VB UA
 om SN CJ
 de DT DT
 poströstande PC SS
-också AB +A
+också AB PLA
 röstat VB UA
 i PP RA
 vallokal NN PA
@@ -27241,7 +27241,7 @@ Men KN ROOT
 denna DT DT
 procedur NN SS
 kommer VB MS
-ändå AB +A
+ändå AB PLA
 att IE VG
 gå VB IF
 oändligt AB AA
@@ -27261,7 +27261,7 @@ vanligt JJ AT
 postinbetalningskort NN UA
 , MID IK
 och KN ROOT
-med PP +F
+med PP PLF
 en DT DT
 kod NN PA
 noterad PC OP
@@ -27368,7 +27368,7 @@ sedan PP TA
 ett RG DT
 år NN PA
 tillbaka AB ET
-är VB +F
+är VB PLF
 chef NN SP
 för PP OA
 valsektionen NN PA
@@ -27532,7 +27532,7 @@ lägga VB IF
 om PL PL
 arbetsrutinen NN OO
 och KN VS
-planera VB +F
+planera VB PLF
 för PP OA
 ett DT DT
 helt AB AA
@@ -27571,7 +27571,7 @@ undan PL PL
 preliminära JJ AT
 makthavare NN OO
 och KN ET
-ge VB +F
+ge VB PLF
 en DT DT
 helt AB AA
 annan JJ DT
@@ -27585,7 +27585,7 @@ valvinden NN PA
 
 Vad HP OO
 rösterna NN SS
-än AB +A
+än AB PLA
 ropar VB AA
 i PP RA
 vinden NN PA
@@ -27720,7 +27720,7 @@ sina PS DT
 4 RG DT
 procent NN OO
 och KN ROOT
-blir VB +F
+blir VB PLF
 så AB AA
 stor JJ AT
 grupp NN SP
@@ -27766,7 +27766,7 @@ på PP ET
 20 RG DT
 procent NN PA
 och KN ROOT
-med PP +F
+med PP PLF
 stora JJ AT
 inbrytningar NN PA
 i PP RA
@@ -27785,7 +27785,7 @@ inget DT DT
 regeringsskifte NN MS
 , MID IK
 de DT DT
-borgerliga JJ +F
+borgerliga JJ PLF
 fortfarande AB TA
 i PP SP
 opposition NN PA
@@ -27841,7 +27841,7 @@ Moderaterna NN SS
 fortsatte VB MS
 bakåt AB RA
 och KN ROOT
-nådde VB +F
+nådde VB PLF
 bara AB CA
 10,9 RG DT
 procent NN OO
@@ -27983,7 +27983,7 @@ färdigräknat PC SP
 , MID IK
 den DT DT
 15 RG DT
-november NN +F
+november NN PLF
 kommunvalen NN SS
 . MAD IP
 
@@ -28047,7 +28047,7 @@ till PP RA
 riksdagen NN PA
 , MID IK
 cirka AB AA
-5400 RG +F
+5400 RG PLF
 till PP RA
 kommunen NN PA
 . MAD IP
@@ -28081,7 +28081,7 @@ håll NN PA
 men KN ROOT
 knappast AB NA
 så AB AA
-markerat AB +F
+markerat AB PLF
 . MAD IP
 
 Tillbaka AB ROOT
@@ -28114,7 +28114,7 @@ en DT DT
 hel JJ DT
 del NN SS
 har VB MS
-också AB +A
+också AB PLA
 vandrat VB VG
 till PP RA
 de DT DT
@@ -28161,7 +28161,7 @@ man PN SS
 en DT DT
 kassett NN OO
 och KN ROOT
-stoppar VB +F
+stoppar VB PLF
 valsedeln NN OO
 för PP ET
 riksdagsvalet NN PA
@@ -28227,7 +28227,7 @@ valkrets NN OO
 , MID IK
 de DT DT
 två RG DT
-vänstra JJ +F
+vänstra JJ PLF
 parti NN CJ
 respektive AB OO
 partifraktion NN CJ
@@ -28269,10 +28269,10 @@ Kassetten NN SS
 stannar VB MS
 kvar PL PL
 , MID IK
-tas VB +F
+tas VB PLF
 ut PL PL
 och KN ROOT
-går VB +F
+går VB PLF
 sedan AB TA
 ut AB RA
 i PP RA
@@ -28444,7 +28444,7 @@ liten JJ SP
 - MID IT
 endast AB CA
 2 RG DT
-procent NN +F
+procent NN PLF
 . MAD IP
 
 1980 RG TA
@@ -28578,7 +28578,7 @@ att IE VG
 förbli VB IF
 oförändrad PC SP
 eller KN ROOT
-att IE +F
+att IE PLF
 sjunka VB IF
 . MAD IP
 
@@ -28758,7 +28758,7 @@ tekniska JJ AT
 framstegen NN SS
 underlättar VB MS
 och KN MS
-driver VB +F
+driver VB PLF
 fram PL PL
 en DT DT
 utveckling NN OO
@@ -28784,7 +28784,7 @@ hjälp NN PA
 , MID IK
 man PN SS
 blir VB MS
-också AB +A
+också AB PLA
 kapabel JJ SP
 att IE OA
 minska VB IF
@@ -28802,7 +28802,7 @@ vid PP TA
 rätt JJ DT
 tidpunkt NN PA
 och KN ROOT
-sälja VB +F
+sälja VB PLF
 den PN OO
 på PP RA
 rätt JJ DT
@@ -29080,8 +29080,8 @@ för AB AA
 stora JJ AT
 kostnader NN PA
 men KN UA
-däremot AB +A
-få VB +F
+däremot AB PLA
+få VB PLF
 höga JJ AT
 vinster NN OO
 . MAD IP
@@ -29146,7 +29146,7 @@ koncentration NN SS
 dålig JJ SP
 och KN MS
 deras PS DT
-irritabilitet NN +F
+irritabilitet NN PLF
 stor JJ SP
 . MAD IP
 
@@ -29159,7 +29159,7 @@ de PN SS
 trivas VB VG
 bättre AB HD
 och KN MS
-fungera VB +F
+fungera VB PLF
 bättre AB AA
 och KN ROOT
 därför AB AA
@@ -29211,7 +29211,7 @@ upp PL PL
 tidigt AB TA
 kan VB ROOT
 inte AB NA
-heller AB +A
+heller AB PLA
 utnyttja VB VG
 sin PS DT
 fritid NN OO
@@ -29228,7 +29228,7 @@ tidigt AB TA
 i PP RA
 säng NN HD
 och KN ROOT
-går VB +F
+går VB PLF
 bl_a AB CA
 miste PL PL
 om PP OA
@@ -29259,7 +29259,7 @@ sömnskuld NN OO
 ' PAD JC
 och KN ROOT
 inte AB NA
-heller AB +A
+heller AB PLA
 då AB TA
 kan VB MS
 de PN SS
@@ -29365,7 +29365,7 @@ en DT DT
 utpräglad JJ AT
 kvällsmänniska NN SP
 men KN ET
-tvingas VB +F
+tvingas VB PLF
 att IE OA
 börja VB IF
 jobba VB OA
@@ -29435,7 +29435,7 @@ ska VB ET
 börja VB VG
 jobba VB OA
 tidigt AB TA
-också AB +A
+också AB PLA
 kan VB UA
 gå VB VG
 till PP RA
@@ -29569,7 +29569,7 @@ oftast AB TA
 tillräckligt JJ SP
 . MAD IP
 
-Däremot AB +A
+Däremot AB PLA
 är VB ROOT
 de DT DT
 morgonpigga JJ SS
@@ -29640,7 +29640,7 @@ har VB MS
 grupperna NN SS
 intervjuats VB VG
 och KN ROOT
-slutligen AB +A
+slutligen AB PLA
 har VB MS
 de PN SS
 under PP TA
@@ -29725,7 +29725,7 @@ upp PL PL
 en DT DT
 idealtyp NN OO
 men KN ROOT
-glömt VB +F
+glömt VB PLF
 bort PL PL
 minoriteter NN OO
 . MAD IP
@@ -29811,7 +29811,7 @@ denna DT DT
 anpassning NN SS
 kostar VB ET
 och KN ES
-försöka VB +F
+försöka VB PLF
 att IE OO
 ge VB IF
 de DT DT
@@ -29861,7 +29861,7 @@ procent NN PA
 
 Får VB ROOT
 vi PN SS
-alltså AB +A
+alltså AB PLA
 be VB VG
 arbetsgivarna NN OO
 om PP OA
@@ -29918,7 +29918,7 @@ oroad PC SP
 över PP OA
 läget NN PA
 och KN ROOT
-planerar VB +F
+planerar VB PLF
 , MID IK
 var PN FP
 på PP RA
@@ -29995,7 +29995,7 @@ vid PP RA
 6-8 RG DT
 procent NN PA
 men KN ROOT
-har VB +F
+har VB PLF
 nu AB TA
 stigit VB VG
 till PP CJ
@@ -30586,7 +30586,7 @@ sjuklighet NN OO
 
 Sjukfrånvaron NN SS
 är VB ROOT
-trots PP +A
+trots PP PLA
 allt PN HD
 inte AB NA
 större JJ SP
@@ -30635,7 +30635,7 @@ nyligen AB TA
 föreslagit VB MS
 och KN ET
 hårt AB AA
-angripits VB +F
+angripits VB PLF
 för PP OA
 . MAD IP
 
@@ -30859,7 +30859,7 @@ potatisen NN OO
 doppad PC PT
 i PP RA
 askorbinsyra NN PA
-i PP +A
+i PP PLA
 stället NN HD
 . MAD IP
 
@@ -31006,7 +31006,7 @@ hålla VB IF
 kvar PL PL
 och KN SS
 helst AB AA
-öka VB +F
+öka VB PLF
 mängden NN DT
 potatis NN OO
 i PP RA
@@ -31057,7 +31057,7 @@ den PN SS
 är VB MS
 oroad PC SP
 och KN UA
-vill VB +F
+vill VB PLF
 ha VB VG
 klart JJ AT
 besked NN OO
@@ -31068,10 +31068,10 @@ vi PN SS
 klappa VB VG
 igen PL PL
 och KN ROOT
-börja VB +F
+börja VB PLF
 göra VB OO
 köttbullar NN OO
-i PP +A
+i PP PLA
 stället NN HD
 ? MAD I?
 
@@ -31127,7 +31127,7 @@ Sverige PM PA
 
 Myndigheterna NN SS
 är VB ROOT
-alltså AB +A
+alltså AB PLA
 oskyldiga JJ SP
 till PP OA
 det DT DT
@@ -31309,7 +31309,7 @@ hinnan NN SS
 är VB MS
 oaptitlig JJ SP
 , MID IK
-konsistensen NN +F
+konsistensen NN PLF
 ofta AB TA
 sorglig JJ SP
 . MAD IP
@@ -31472,7 +31472,7 @@ i PP AA
 potatis-bisulfitsammanhanget NN PA
 : MAD IQ
 
-Även AB +A
+Även AB PLA
 potatis NN SS
 kokt PC PT
 med PP AA
@@ -31662,7 +31662,7 @@ bieffekter NN PA
 
 Björn PM SS
 Gillberg PM HD
-å PP +A
+å PP PLA
 sin PS HD
 sida NN HD
 hade VB ROOT
@@ -31697,7 +31697,7 @@ i PP RA
 massmedia NN PA
 och KN UA
 ' PAD IC
-skärrat VB +F
+skärrat VB PLF
 upp PL PL
 ' PAD JC
 en DT DT
@@ -31832,7 +31832,7 @@ januari NN PA
 I PP RA
 förslaget NN PA
 diskuteras VB ROOT
-också AB +A
+också AB PLA
 de DT DT
 ändringar NN SS
 som HP SS
@@ -31892,7 +31892,7 @@ slopa VB IF
 hyresregleringen NN OO
 1967 RG TA
 men KN ROOT
-ångrade VB +F
+ångrade VB PLF
 sig PN OO
 när HA TA
 de DT DT
@@ -32030,7 +32030,7 @@ att IE MS
 värdera VB IF
 lägenheterna NN OO
 och KN PA
-bestämma VB +F
+bestämma VB PLF
 hyrorna NN OO
 med PP AA
 hänsyn NN HD
@@ -32402,7 +32402,7 @@ sjunkit VB VG
 
 Lägenheterna NN SS
 säljs VB ROOT
-i PP +A
+i PP PLA
 stället NN HD
 som KN SP
 andelslägenheter NN UA
@@ -32413,7 +32413,7 @@ som HP SS
 börjat VB ET
 bli VB OA
 vanligt JJ SP
-också AB +A
+också AB PLA
 i PP RA
 Sverige PM PA
 , MID IK
@@ -32429,7 +32429,7 @@ veckan NN TA
 . MAD IP
 
 Eller KN ROOT
-också AB +A
+också AB PLA
 hyrs VB MS
 lägenheterna NN SS
 ut PL PL
@@ -32512,7 +32512,7 @@ den DT DT
 engelska JJ AT
 bostadsmarknaden NN PA
 och KN ROOT
-ockuperat VB +F
+ockuperat VB PLF
 tomma JJ CJ
 , MID AT
 rivningsfärdiga JJ CJ
@@ -32534,7 +32534,7 @@ rustat VB VG
 upp PL PL
 husen NN OO
 och KN ROOT
-öppnat VB +F
+öppnat VB PLF
 dem PN OO
 för PP OA
 några PN PA
@@ -32756,7 +32756,7 @@ i PP RA
 skolan NN PA
 , MID IK
 skolk NN CJ
-och KN +F
+och KN PLF
 studieavbrott NN CJ
 . MAD IP
 
@@ -32774,7 +32774,7 @@ i PP ET
 skolan NN PA
 . MAD IP
 
-Ändå AB +A
+Ändå AB PLA
 vet VB ROOT
 alla PN SS
 som HP SS
@@ -32895,7 +32895,7 @@ och KN OO
 Ulla PM CJ
 Hasselquist PM HD
 och KN UA
-bad VB +F
+bad VB PLF
 att IE OO
 få VB IF
 vara VB VG
@@ -32960,7 +32960,7 @@ orsak NN SP
 
 Studieavbrott NN SS
 förekommer VB ROOT
-också AB +A
+också AB PLA
 av PP AA
 taktiska JJ AT
 skäl NN PA
@@ -32974,7 +32974,7 @@ tillräckligt AB AA
 höga JJ AT
 betyg NN OO
 och KN ROOT
-slutar VB +F
+slutar VB PLF
 för PP AA
 att IE MS
 senare AB TA
@@ -32982,7 +32982,7 @@ gå VB IF
 i PP RA
 vuxengymnasium NN PA
 och KN PA
-konkurrera VB +F
+konkurrera VB PLF
 med PP OA
 mindre AB AA
 studievana JJ AT
@@ -33007,7 +33007,7 @@ positivt JJ OO
 av PP OA
 skolan NN PA
 , MID IK
-göra VB +F
+göra VB PLF
 något PN OO
 så AB AA
 att SN HD
@@ -33128,7 +33128,7 @@ en DT DT
 egen JJ DT
 vrå NN OO
 och KN ET
-sällan AB +F
+sällan AB PLF
 kontakt NN OO
 med PP OA
 sin PS DT
@@ -33140,7 +33140,7 @@ såg VB MS
 ingen DT DT
 trygghet NN OO
 men KN ROOT
-kom VB +F
+kom VB PLF
 med PP OA
 konkreta JJ AT
 förslag NN PA
@@ -33257,7 +33257,7 @@ pornografitidningar NN SS
 delades VB MS
 ut PL PL
 och KN ROOT
-slutligen AB +A
+slutligen AB PLA
 lästes VB MS
 en DT DT
 novell NN SS
@@ -33283,7 +33283,7 @@ gruppen NN PA
 
 Det PN FS
 kunde VB ROOT
-sålunda AB +A
+sålunda AB PLA
 fastlås VB VG
 att SN ES
 pornografin NN SS
@@ -33291,7 +33291,7 @@ har VB UA
 en DT DT
 kraftig JJ AT
 inverkan NN OO
-också AB +A
+också AB PLA
 på PP OA
 kvinnor NN PA
 . MAD IP
@@ -33398,8 +33398,8 @@ avsevärt AB AA
 
 Undersökningen NN SS
 har VB ROOT
-dock AB +A
-också AB +A
+dock AB PLA
+också AB PLA
 gett VB VG
 besked NN OO
 om PP OA
@@ -33433,7 +33433,7 @@ inrapporterade PC AT
 sådana JJ DT
 fall NN OO
 och KN ROOT
-jämfört VB +F
+jämfört VB PLF
 dem PN OO
 med PP OA
 en DT DT
@@ -33888,7 +33888,7 @@ Till PP AA
 proc NN PA
 berör VB ROOT
 de PN SS
-dock AB +A
+dock AB PLA
 kommissionen NN OO
 . MAD IP
 
@@ -34027,7 +34027,7 @@ jobba VB IF
 som KN KA
 förut AB UA
 och KN OA
-rapportera VB +F
+rapportera VB PLF
 om PP OA
 vad HP SS
 som HP XX
@@ -34279,7 +34279,7 @@ får VB MS
 alla DT DT
 fördelar NN OO
 men KN ROOT
-slipper VB +F
+slipper VB PLF
 betydande PC AT
 nackdelar NN OO
 . MAD IP
@@ -34425,7 +34425,7 @@ producentpriser NN PA
 Sveriges PM DT
 självförsörjning NN SS
 skulle VB ROOT
-dock AB +A
+dock AB PLA
 inte AB NA
 hotas VB VG
 . MAD IP
@@ -34486,7 +34486,7 @@ skulle VB ET
 innebära VB VG
 . MAD IP
 
-Istället AB +A
+Istället AB PLA
 kan VB ROOT
 man PN SS
 räkna VB VG
@@ -34502,8 +34502,8 @@ att IE ET
 flytta VB IF
 utomlands AB RA
 och KN UA
-alltså AB +A
-kan VB +F
+alltså AB PLA
+kan VB PLF
 bära VB VG
 lönehöjningar NN OO
 av PP ET
@@ -34549,7 +34549,7 @@ av PP AG
 . MAD IP
 
 Inte AB NA
-heller AB +A
+heller AB PLA
 behöver VB ROOT
 finansminister NN DT
 Gunnar PM SS
@@ -34614,7 +34614,7 @@ skelettdelarna NN SS
 undersökts VB VG
 närmare AB AA
 och KN ROOT
-befunnits VB +F
+befunnits VB PLF
 härröra VB VS
 från PP OA
 två RG DT
@@ -34798,7 +34798,7 @@ hon PN SS
 dog VB TA
 - MID IT
 d_v_s AB CA
-medelålders NN +F
+medelålders NN PLF
 med PP AA
 den DT DT
 tidens NN DT
@@ -34990,7 +34990,7 @@ i PP RA
 Sverige PM PA
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 innehöll VB ROOT
 skurupfynden NN SS
 en DT DT
@@ -35033,7 +35033,7 @@ Skurup PM PA
 
 Dubbdäck NN MS
 eller KN ROOT
-inte AB +F
+inte AB PLF
 dubbdäck NN SS
 ? MAD I?
 
@@ -35077,9 +35077,9 @@ i PP RA
 norr NN HD
 , MID IK
 utan KN ROOT
-även AB +A
+även AB PLA
 längst AB AA
-nere AB +F
+nere AB PLF
 i PP RA
 söder NN HD
 . MAD IP
@@ -35151,7 +35151,7 @@ de PN SS
 skall VB UA
 kunna VB VG
 köras VB VG
-även AB +A
+även AB PLA
 på PP RA
 barmark NN PA
 . MAD IP
@@ -35364,7 +35364,7 @@ slitbanegummit NN PA
 
 Det PN FS
 är VB ROOT
-också AB +A
+också AB PLA
 viktigt JJ SP
 att IE ES
 ha VB IF
@@ -35424,7 +35424,7 @@ på PP RA
 dubbarna NN PA
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 slits VB ROOT
 dessa DT DT
 långa JJ AT
@@ -35527,7 +35527,7 @@ De DT DT
 bredare JJ AT
 däcken NN SS
 skall VB ROOT
-vidare AB +A
+vidare AB PLA
 ha VB VG
 godkänts VB CJ
 och KN VG
@@ -35624,8 +35624,8 @@ blir VB MS
 yttrycket NN SS
 större JJ SP
 och KN ROOT
-därmed AB +F
-också AB +A
+därmed AB PLF
+också AB PLA
 väggreppet NN SS
 . MAD IP
 
@@ -35648,7 +35648,7 @@ gördeldäck NN CJ
 bältdäck NN CJ
 kallas VB MS
 de PN SS
-också AB +A
+också AB PLA
 ) PAD JR
 . MAD IP
 
@@ -35698,7 +35698,7 @@ låtit VB UA
 
 Bilen NN SS
 går VB ROOT
-också AB +A
+också AB PLA
 betydligt AB AA
 tystare JJ AA
 . MAD IP
@@ -35822,7 +35822,7 @@ rening NN PA
 
 Det PN FS
 finns VB ROOT
-även AB +A
+även AB PLA
 på PP RA
 marknaden NN PA
 kemiska JJ AT
@@ -35970,7 +35970,7 @@ använda VB VG
 kemtoaletter NN OO
 och KN ROOT
 sedan AB TA
-dumpa VB +F
+dumpa VB PLF
 avfallet NN OO
 inom PP RA
 vissa JJ DT
@@ -36017,11 +36017,11 @@ områden NN PA
 
 Hur HA AA
 bestämmelserna NN SS
-än AB +A
+än AB PLA
 är VB AA
 finns VB ROOT
 det PN FS
-dock AB +A
+dock AB PLA
 vid PP RA
 marina-anläggningarna NN PA
 uppsamlingstankar NN CJ
@@ -36047,7 +36047,7 @@ det DT DT
 ökade PC AT
 båtbeståndet NN PA
 komma VB VG
-även AB +A
+även AB PLA
 här AB RA
 hemma AB RA
 . MAD IP
@@ -36173,7 +36173,7 @@ Fördelen NN SS
 med PP ET
 systemet NN PA
 är VB ROOT
-vidare AB +A
+vidare AB PLA
 att SN SP
 det PN SS
 inte AB NA
@@ -36224,7 +36224,7 @@ fartyg NN CJ
 men KN ROOT
 det PN SS
 kan VB MS
-även AB +A
+även AB PLA
 passa VB VG
 in PL PL
 inom PP RA
@@ -36258,7 +36258,7 @@ man PN SS
 byggnadsjobbet NN OO
 själv JJ FP
 och KN ROOT
-fick VB +F
+fick VB PLF
 lägga VB VG
 ner PL PL
 c:a AB AA
@@ -36331,7 +36331,7 @@ vakuumtank NN SP
 och KN ROOT
 man PN SS
 kan VB MS
-således AB +A
+således AB PLA
 använda VB VG
 de DT DT
 flesta JJ DT
@@ -36506,7 +36506,7 @@ norr AB AA
 om PP RA
 Gullmarsplan PM PA
 och KN ROOT
-sträcker VB +F
+sträcker VB PLF
 sig PN OO
 över PP RA
 Skanstullsbron PM PA
@@ -36542,7 +36542,7 @@ söder AB AA
 om PP RA
 Ågestavägen PM PA
 och KN ROOT
-går VB +F
+går VB PLF
 fram AB RA
 till PP RA
 Forsbrovägen PM PA
@@ -36719,19 +36719,19 @@ hjälpa VB VG
 ungarna NN OO
 i PP TA
 fortsättningen NN PA
-också AB +A
+också AB PLA
 . MAD IP
 
 Vi PM SS
 vill VB MS
-också AB +A
+också AB PLA
 informera VB VG
 om PP OA
 den DT DT
 nya JJ AT
 matten NN PA
 och KN ROOT
-har VB +F
+har VB PLF
 av PP OA
 två RG DT
 lärde JJ PA
@@ -37214,7 +37214,7 @@ utan KN ROOT
 till AB CA
 och KN HD
 med AB HD
-i PP +F
+i PP PLF
 hela JJ DT
 världen NN PA
 ! MAD IU
@@ -37271,7 +37271,7 @@ forskning NN PA
 
 Piaget PM SS
 är VB ROOT
-också AB +A
+också AB PLA
 där AB RA
 ett DT DT
 mycket AB AA
@@ -37323,7 +37323,7 @@ därför AB AA
 knorras VB MS
 det PN SS
 och KN MS
-säjs VB +F
+säjs VB PLF
 en DT DT
 hel JJ AT
 del NN DT
@@ -37341,7 +37341,7 @@ låg- JJ CJ
 och KN PA
 mellanstadielärarna NN CJ
 utbildades VB ROOT
-nämligen AB +A
+nämligen AB PLA
 bara AB CA
 en DT DT
 tredjedel NN SS
@@ -37379,7 +37379,7 @@ den PN OO
 Men KN ROOT
 det PN FS
 finns VB MS
-också AB +A
+också AB PLA
 lärare NN ES
 som HP SS
 är VB MS
@@ -37388,7 +37388,7 @@ av PP AG
 det DT DT
 nya JJ PA
 och KN ET
-menar VB +F
+menar VB PLF
 att SN OO
 det PN SS
 kan VB UA
@@ -37502,7 +37502,7 @@ medelvärden NN OO
 
 Tar VB AA
 man PN SS
-däremot AB +A
+däremot AB PLA
 ut PL PL
 jämförbara JJ AT
 grupper NN OO
@@ -37525,7 +37525,7 @@ lättare JJ ROOT
 Men KN ROOT
 hur HA AA
 man PN SS
-än AB +A
+än AB PLA
 tolkar VB AA
 den PN OO
 så AB DB
@@ -37570,7 +37570,7 @@ mycket AB AA
 med PP OA
 matematiksvårigheter NN PA
 och KN ROOT
-menar VB +F
+menar VB PLF
 att SN OO
 man PN SS
 inte AB NA
@@ -37601,14 +37601,14 @@ med PP OA
 laborativt JJ AT
 material NN PA
 , MID IK
-låta VB +F
+låta VB PLF
 dem PN OO
 genom PP AA
 egen JJ DT
 verksamhet NN PA
 upptäcka VB MS
 och KN VO
-komma VB +F
+komma VB PLF
 underfund AB PL
 med PP OA
 begrepp NN CJ
@@ -37674,7 +37674,7 @@ klassrum NN PA
 
 I PP RA
 matematikklinikerna NN PA
-däremot AB +A
+däremot AB PLA
 har VB ROOT
 de PN SS
 blivit VB VG
@@ -38054,7 +38054,7 @@ djur NN CJ
 dockor NN CJ
 och KN AN
 - MID IT
-i PP +F
+i PP PLF
 någon DT HD
 mån NN HD
 - MID JT
@@ -38133,8 +38133,8 @@ ut PL PL
 utan PP AA
 kostnad NN PA
 , MID IK
-dels KN +A
-på PP +F
+dels KN PLA
+på PP PLF
 skärmar NN PA
 vid PP ET
 de DT DT
@@ -38149,7 +38149,7 @@ lekmaterial NN CJ
 Men KN ROOT
 den PN SS
 fyller VB MS
-också AB +A
+också AB PLA
 en DT DT
 annan JJ DT
 funktion NN OO
@@ -38324,15 +38324,15 @@ ur PL CJ
 och KN PL
 i PL CJ
 , MID IK
-sortera VB +F
+sortera VB PLF
 , MID IK
-lägga VB +F
+lägga VB PLF
 pussel NN OO
 , MID IK
-spela VB +F
+spela VB PLF
 spel NN OO
 , MID IK
-samla VB +F
+samla VB PLF
 saker NN OO
 i PP RA
 askar NN CJ
@@ -38608,7 +38608,7 @@ Många JJ DT
 bra JJ AT
 leksaker NN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 hänga VB VG
 med PL PL
 i PP TA
@@ -38644,7 +38644,7 @@ olika JJ AT
 
 Man PN SS
 får VB ROOT
-också AB +A
+också AB PLA
 veta VB VG
 ungefärliga JJ AT
 priser NN OO
@@ -38652,7 +38652,7 @@ priser NN OO
 
 - MID IT
 Men KN ROOT
-också AB +A
+också AB PLA
 fantasieggande PC AT
 ' PAD IC
 skräp NN CJ
@@ -38706,9 +38706,9 @@ kläder NN CJ
 . MAD IP
 
 Men KN ROOT
-också AB +A
+också AB PLA
 riktiga JJ AT
-redskap NN +F
+redskap NN PLF
 som KN CA
 hammare NN CJ
 och KN CJ
@@ -38863,7 +38863,7 @@ inriktas VB VG
 på PP CJ
 lekmaterial NN PA
 men KN OA
-också AB +A
+också AB PLA
 på PP CJ
 miljöfrågor NN PA
 . MAD IP
@@ -38999,11 +38999,11 @@ kan VB MS
 inte AB NA
 användas VB VG
 , MID IK
-rör VB +F
+rör VB PLF
 sig PN OO
 inte AB NA
 och KN ROOT
-är VB +F
+är VB PLF
 inte AB NA
 ens AB CA
 i PP SP
@@ -39045,7 +39045,7 @@ ofta AB TA
 bakom PP RA
 apparaten NN PA
 och KN ROOT
-kikar VB +F
+kikar VB PLF
 efter PL PL
 vad HP DT
 det PN SS
@@ -39064,11 +39064,11 @@ hunden NN SS
 hittar VB MS
 ingen PN OO
 , MID IK
-ger VB +F
+ger VB PLF
 upp PL PL
 och KN MS
 går VB CJ
-och KN +F
+och KN PLF
 lägger VB CJ
 sig PN OO
 igen AB AA
@@ -39086,7 +39086,7 @@ den PN SS
 
 Det PN SS
 lär VB MS
-dock AB +A
+dock AB PLA
 inte AB NA
 vara VB VG
 någon DT DT
@@ -39336,7 +39336,7 @@ dag NN PA
 
 Det PN FS
 finns VB ROOT
-också AB +A
+också AB PLA
 människor NN ES
 som HP SS
 klarar VB ET
@@ -39356,7 +39356,7 @@ mår VB MS
 bättre AB AA
 , MID IK
 och KN MS
-tillgodogör VB +F
+tillgodogör VB PLF
 sig PN IO
 näringsämnen NN OO
 bäst AB AA
@@ -39449,10 +39449,10 @@ en DT DT
 oerfaren JJ AT
 hund NN SP
 och KN ROOT
-alltså AB +A
+alltså AB PLA
 inte AB NA
 ' PAD IC
-klok JJ +F
+klok JJ PLF
 ' PAD JC
 . MAD IP
 
@@ -39489,7 +39489,7 @@ glasögon NN PA
 
 Här AB RA
 kan VB ROOT
-också AB +A
+också AB PLA
 hundens NN DT
 temperament NN CJ
 och KN SS
@@ -39544,7 +39544,7 @@ människa NN UA
 
 Synförmågan NN SS
 är VB ROOT
-dock AB +A
+dock AB PLA
 inte AB NA
 särskilt AB CA
 god JJ SP
@@ -39615,7 +39615,7 @@ hunden NN PA
 
 Vi PN SS
 måste VB ROOT
-också AB +A
+också AB PLA
 komma VB VG
 ihåg PL PL
 att SN OO
@@ -39626,7 +39626,7 @@ härstammar VB MS
 från PP OA
 vargen NN PA
 och KN UA
-är VB +F
+är VB PLF
 ett DT DT
 djur NN SP
 som HP SS
@@ -39760,7 +39760,7 @@ hunden NN SS
 Men KN ROOT
 den PN SS
 kan VB MS
-också AB +A
+också AB PLA
 ha VB VG
 klarat VB VG
 sig PN OO
@@ -39776,8 +39776,8 @@ Nu AB TA
 chansar VB MS
 hunden NN SS
 och KN ROOT
-förefaller VB +F
-alltså AB +A
+förefaller VB PLF
+alltså AB PLA
 oskyldig JJ SP
 . MAD IP
 
@@ -39800,7 +39800,7 @@ drömmer VB MS
 ju AB MA
 bl.a. AB CA
 men KN ROOT
-ofta AB +F
+ofta AB PLF
 efter PP TA
 stora JJ AT
 aktiviteter NN PA
@@ -39866,7 +39866,7 @@ skotten NN SS
 i PP RA
 land NN PA
 och KN ROOT
-anföll VB +F
+anföll VB PLF
 gårdens NN DT
 nya JJ CJ
 , MID IK
@@ -40101,11 +40101,11 @@ jordbrukarsamhället NN PA
 
 Barnen NN SS
 deltog VB MS
-också AB +A
+också AB PLA
 i PP OA
 arbetet NN PA
 och KN ROOT
-är VB +F
+är VB PLF
 i PP RA
 denna DT DT
 typ NN PA
@@ -40383,25 +40383,25 @@ familjer NN PA
 Monogami NN ROOT
 ... MID IG
 43 RG DT
-samhällen NN +F
+samhällen NN PLF
 
 Polygyni NN ROOT
 ... MID IG
-193 RG +F
+193 RG PLF
 
 Polyandri NN ROOT
 ... MID IG
-2 RG +F
+2 RG PLF
 
 Gruppäktenskap NN ROOT
 ... MID IG
-0 RG +F
+0 RG PLF
 
 Säkra JJ AT
 uppgifter NN SS
 saknas VB ROOT
 ... MID IG
-12 RG +F
+12 RG PLF
 
 Summa NN ROOT
 250 RG DT
@@ -40413,7 +40413,7 @@ storfamiljer NN CJ
 
 Det PN FS
 finns VB ROOT
-vidare AB +A
+vidare AB PLA
 enföräldersfamiljer NN ES
 , MID IK
 en DT DT
@@ -40422,7 +40422,7 @@ eller KN AN
 ( PAD IR
 vanligare JJ AA
 ) PAD JR
-mamma NN +F
+mamma NN PLF
 med PP ET
 ett RG CJ
 eller KN DT
@@ -40462,7 +40462,7 @@ barnen NN PA
 
 Det PN FS
 finns VB ROOT
-också AB +A
+också AB PLA
 storfamiljer NN ES
 som HP SS
 enbart AB CA
@@ -40553,7 +40553,7 @@ Abraham PM CJ
 och KN PA
 Isak PM CJ
 visar VB ROOT
-också AB +A
+också AB PLA
 familjefaderns NN DT
 makt NN OO
 över PP ET
@@ -40614,7 +40614,7 @@ hatt NN SS
 till PP RA
 , MID IK
 huva NN SS
-ifrån PP +F
+ifrån PP PLF
 . MAD IP
 ' PAD JC
 
@@ -40640,7 +40640,7 @@ representerar VB ROOT
 familjen NN OO
 utåt AB RA
 , MID IK
-är VB +F
+är VB PLF
 den PN SP
 som HP SS
 för VB ET
@@ -40669,7 +40669,7 @@ utväljer VB MS
 sina PS DT
 barn NN PA
 och KN ROOT
-även AB +A
+även AB PLA
 brudköp NN SS
 förekommer VB MS
 . MAD IP
@@ -40693,7 +40693,7 @@ om PL PL
 rollerna NN OO
 får VB ROOT
 vi PN SS
-i PP +A
+i PP PLA
 stället NN HD
 ett DT DT
 renodlat PC AT
@@ -40747,7 +40747,7 @@ mindre AB AA
 renodlad PC SP
 och KN ROOT
 därför AB AA
-svårare JJ +F
+svårare JJ PLF
 att IE OA
 beskriva VB IF
 . MAD IP
@@ -40758,11 +40758,11 @@ i PP AA
 många JJ DT
 fall NN PA
 inte AB NA
-heller AB +A
+heller AB PLA
 enbart AB CA
 eller KN MS
 ens AB CA
-i PP +F
+i PP PLF
 övervägande JJ AT
 grad NN PA
 av PP AG
@@ -40805,7 +40805,7 @@ och KN ROOT
 det DT DT
 omvända PC SS
 gäller VB MS
-också AB +A
+också AB PLA
 . MAD IP
 
 I PP RA
@@ -40813,7 +40813,7 @@ sådana JJ DT
 äktenskap NN PA
 är VB ROOT
 det PN SS
-alltså AB +A
+alltså AB PLA
 makarnas NN DT
 personlighetsdrag NN XX
 som HP SS
@@ -40966,7 +40966,7 @@ tydligt JJ SP
 att SN SS
 ungdomarnas NN DT
 biobesök NN SS
-också AB +A
+också AB PLA
 har VB UA
 stor JJ AT
 betydelse NN OO
@@ -40983,7 +40983,7 @@ könet NN PA
 
 De DT DT
 äldre JJ SS
-däremot AB +A
+däremot AB PLA
 sökte VB ROOT
 kanske AB MA
 i PP AA
@@ -41131,7 +41131,7 @@ få JJ DT
 varor NN OO
 hemma AB RA
 - MID IT
-däremot AB +A
+däremot AB PLA
 tillreder VB MS
 vi PN SS
 fortfarande AB TA
@@ -41193,7 +41193,7 @@ sker VB MS
 utanför PP RA
 familjen NN PA
 och KN ROOT
-med PP +F
+med PP PLF
 ett DT DT
 tydligt JJ AT
 mönster NN PA
@@ -41210,7 +41210,7 @@ från PP OA
 varandra PN PA
 . MAD IP
 
-Däremot AB +A
+Däremot AB PLA
 har VB ROOT
 familjen NN SS
 fortfarande AB TA
@@ -41292,7 +41292,7 @@ de DT DT
 typiska JJ AT
 tätortssamhällena NN PA
 , MID IK
-dels KN +F
+dels KN PLF
 ändrade PC AT
 attityder NN SS
 till PP ET
@@ -41301,7 +41301,7 @@ förbindelser NN HD
 utom PP ET
 äktenskapet NN PA
 och KN MS
-dels KN +F
+dels KN PLF
 bättre JJ AT
 metoder NN SS
 för PP ET
@@ -41343,7 +41343,7 @@ omkring AB AA
 3,42 RG DT
 miljarder NN PA
 och KN ROOT
-ökar VB +F
+ökar VB PLF
 årligen AB TA
 med PP OA
 ungefär AB AA
@@ -41375,7 +41375,7 @@ i PP RA
 utvecklingsländerna NN PA
 , MID IK
 allra AB AA
-störst JJ +F
+störst JJ PLF
 i PP RA
 Centralamerika PM PA
 med PP AA
@@ -41401,7 +41401,7 @@ in AB ET
 på PP TA
 2000-talet NN PA
 , MID IK
-alltså AB +A
+alltså AB PLA
 på PP TA
 mindre AB AA
 än KN HD
@@ -41434,7 +41434,7 @@ var VB MS
 folkökningen NN SS
 långsam JJ SP
 och KN ROOT
-reglerades VB +F
+reglerades VB PLF
 bl.a. AB CA
 genom PP AA
 en DT DT
@@ -41474,7 +41474,7 @@ Efter PP TA
 år NN DT
 1800 RG PA
 har VB ROOT
-även AB +A
+även AB PLA
 hygieniska JJ AT
 förbättringar NN CJ
 och KN SS
@@ -41501,7 +41501,7 @@ med PP ET
 västerländsk JJ AT
 civilisation NN PA
 har VB ROOT
-dock AB +A
+dock AB PLA
 en DT DT
 alltför AB AA
 våldsam JJ AT
@@ -41531,7 +41531,7 @@ I PP AA
 viss JJ DT
 utsträckning NN PA
 har VB MS
-även AB +A
+även AB PLA
 de PN SS
 blivit VB VG
 delaktiga JJ SP
@@ -41672,7 +41672,7 @@ experter NN SS
 djupt AB AA
 pessimistiska JJ SP
 , MID IK
-andra PN +F
+andra PN PLF
 mer AB AA
 optimistiska JJ SP
 . MAD IP
@@ -41698,7 +41698,7 @@ får VB MS
 inte AB NA
 skövlas VB VG
 utan KN ROOT
-måste VB +F
+måste VB PLF
 användas VB VG
 på PP AA
 ett DT DT
@@ -41720,7 +41720,7 @@ skadad PC AT
 mark NN SS
 om SN AA
 möjligt JJ UA
-restaureras VB +F
+restaureras VB PLF
 . MAD IP
 
 Föroreningen NN SS
@@ -41744,12 +41744,12 @@ den DT DT
 odlade PC AT
 arealen NN SS
 måste VB MS
-också AB +A
+också AB PLA
 ökas VB VG
 och KN MS
 rationella JJ AT
 brukningsmetoder NN SS
-tillämpas VB +F
+tillämpas VB PLF
 inom PP RA
 områden NN PA
 , MID IK
@@ -41879,7 +41879,7 @@ annat JJ DT
 lovande PC AT
 försök NN SS
 , MID IK
-också AB +A
+också AB PLA
 från PP ET
 Israel PM PA
 , MID IK
@@ -41956,7 +41956,7 @@ tio RG DT
 år NN AA
 senare AB TA
 ( PAD IR
-nederst AB +F
+nederst AB PLF
 ) PAD JR
 . MAD IP
 
@@ -41988,7 +41988,7 @@ saltstoft NN PA
 
 Metoden NN SS
 innebär VB ROOT
-dock AB +A
+dock AB PLA
 risken NN OO
 att SN ET
 angränsande PC AT
@@ -42033,7 +42033,7 @@ obetydlig JJ SP
 i PP RA
 u-länderna NN PA
 eller KN ROOT
-förekommer VB +F
+förekommer VB PLF
 inte AB NA
 alls AB AA
 där AB RA
@@ -42051,7 +42051,7 @@ dessa DT DT
 länder NN PA
 . MAD IP
 
-Även AB +A
+Även AB PLA
 behovet NN SS
 av PP ET
 spårelement NN PA
@@ -42209,7 +42209,7 @@ vetesorten NN SS
 är VB MS
 kortstråig JJ SP
 och KN ROOT
-tål VB +F
+tål VB PLF
 stora JJ AT
 givor NN OO
 av PP ET
@@ -42227,7 +42227,7 @@ hirs NN CJ
 och KN PA
 durra NN CJ
 bedrivs VB ROOT
-också AB +A
+också AB PLA
 växtförädling NN SS
 i PP RA
 Indien PM PA
@@ -42241,7 +42241,7 @@ odlarna NN OO
 till PP OA
 att IE PA
 vidta VB IF
-även AB +A
+även AB PLA
 andra JJ DT
 förbättringar NN OO
 inom PP RA
@@ -42271,7 +42271,7 @@ aminosyrasammansättning NN CJ
 i PP ET
 proteinet NN PA
 , MID IK
-alltså AB +A
+alltså AB PLA
 en DT DT
 kvalitetsförädling NN AN
 ( PAD IR
@@ -42292,7 +42292,7 @@ utbytet NN OO
 av PP ET
 odlingen NN PA
 och KN ROOT
-skadar VB +F
+skadar VB PLF
 produkterna NN OO
 under PP TA
 lagring NN CJ
@@ -42345,7 +42345,7 @@ den DT DT
 växande PC AT
 grödan NN PA
 måste VB ROOT
-också AB +A
+också AB PLA
 utarbetas VB VG
 . MAD IP
 
@@ -42377,7 +42377,7 @@ givit VB VG
 goda JJ AT
 resultat NN OO
 och KN ROOT
-torde VB +F
+torde VB PLF
 kunna VB VG
 få VB VG
 ännu AB AA
@@ -42453,7 +42453,7 @@ en DT DT
 del NN PA
 försvaras VB VG
 - MID IT
-även AB +A
+även AB PLA
 i PP RA
 en DT DT
 svältande PC AT
@@ -42492,7 +42492,7 @@ hög JJ PA
 produktivitet NN HD
 , MID IK
 och KN ROOT
-vidare JJ +F
+vidare JJ PLF
 forskning NN SS
 för PP ET
 att IE PA
@@ -42532,7 +42532,7 @@ kvävefixerande PC AT
 förmåga NN PA
 är VB ROOT
 baljväxterna NN SS
-också AB +A
+också AB PLA
 särskilt AB CA
 värdefulla JJ SP
 i PP RA
@@ -42564,8 +42564,8 @@ och KN AN
 Indonesien PM CJ
 , MID IK
 men KN ROOT
-även AB +A
-i PP +F
+även AB PLA
+i PP PLF
 tropiska JJ AT
 Afrika PM PA
 . MAD IP
@@ -42611,7 +42611,7 @@ antytts VB UA
 är VB ROOT
 havets NN DT
 resurser NN SS
-dock AB +A
+dock AB PLA
 begränsade PC SP
 . MAD IP
 
@@ -42674,7 +42674,7 @@ av PP ET
 Stilla JJ PA
 oceanen NN HD
 utan KN RA
-också AB +A
+också AB PLA
 i PP CJ
 övriga JJ DT
 delar NN PA
@@ -42707,7 +42707,7 @@ viss JJ DT
 utsträckning NN PA
 har VB ROOT
 de PN SS
-dock AB +A
+dock AB PLA
 kommit VB VG
 andra JJ DT
 behövande PC AT
@@ -42781,7 +42781,7 @@ USA PM CJ
 och KN PA
 Europa PM CJ
 och KN ROOT
-används VB +F
+används VB PLF
 där AB RA
 som KN SP
 fodermedel NN UA
@@ -42810,7 +42810,7 @@ fiskproteinet NN PA
 Samma DT DT
 sak NN SS
 gäller VB ROOT
-också AB +A
+också AB PLA
 till PP AA
 stor JJ AT
 del NN PA
@@ -42927,7 +42927,7 @@ En DT DT
 omfattande PC AT
 forskning NN SS
 bedrivs VB ROOT
-också AB +A
+också AB PLA
 över PP OA
 odlingsmetoder NN CJ
 och KN PA
@@ -43011,7 +43011,7 @@ tillräckliga JJ AT
 mängder NN PA
 låter VB ROOT
 sig PN OO
-dock AB +A
+dock AB PLA
 knappast AB NA
 göra VB VO
 . MAD IP
@@ -43056,7 +43056,7 @@ fett NN CJ
 och KN PA
 protein NN CJ
 och KN ROOT
-har VB +F
+har VB PLF
 visat VB VG
 sig PN OO
 lämplig JJ OP
@@ -43130,15 +43130,15 @@ odlingssubstrat NN UA
 , MID IK
 blir VB MS
 produkten NN SS
-även AB +A
+även AB PLA
 kvalitativt AB AA
 fullgod JJ SP
 och KN MS
-kan VB +F
+kan VB PLF
 användas VB VG
 som KN SP
 inblandning NN UA
-även AB +A
+även AB PLA
 i PP ET
 livsmedel NN PA
 för PP ET
@@ -43193,7 +43193,7 @@ förnyas VB CJ
 Men KN ROOT
 man PN SS
 känner VB MS
-också AB +A
+också AB PLA
 många JJ DT
 jästsvampar NN CJ
 , MID IK
@@ -43226,7 +43226,7 @@ melass NN CJ
 Vissa JJ DT
 bakterier NN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 utnyttjas VB VG
 för PP OA
 framställning NN PA
@@ -43276,7 +43276,7 @@ borgerliga JJ AT
 samhälle NN PA
 . MAD IP
 
-Ändå AB +A
+Ändå AB PLA
 betraktas VB ROOT
 den PN SS
 som KN CJ
@@ -43367,7 +43367,7 @@ samhället NN PA
 och KN ROOT
 bland PP CA
 annat PN HD
-undersökt VB +F
+undersökt VB PLF
 veckotidningarnas NN DT
 kvinnoideal NN OO
 . MAD IP
@@ -43393,7 +43393,7 @@ lätta VB IF
 livets NN DT
 mödor NN OO
 , MID IK
-mildra VB +F
+mildra VB PLF
 mötande PC AT
 bekymmer NN OO
 och KN AA
@@ -43401,7 +43401,7 @@ genom PP AA
 en DT DT
 sorgfällig JJ AT
 uppfostran NN PA
-bereda VB +F
+bereda VB PLF
 efterkommandes JJ DT
 välfärd NN OO
 . MAD IP
@@ -43417,7 +43417,7 @@ Heliga JJ SP
 dess PS DT
 förbindelser NN SS
 , MID IK
-heliga JJ +F
+heliga JJ PLF
 dess PS DT
 ändamål NN SS
 . MAD IP
@@ -43538,7 +43538,7 @@ väl AB HD
 bo VB MS
 tillsammans AB PL
 och KN VG
-skaffa VB +F
+skaffa VB PLF
 sig PN IO
 barn NN OO
 , MID IK
@@ -43700,7 +43700,7 @@ lag NN CJ
 bestämda PC AT
 rättigheter NN OO
 och KN ROOT
-är VB +F
+är VB PLF
 underkastade PC SP
 bestämda PC AT
 skyldigheter NN OO
@@ -43723,7 +43723,7 @@ ingående NN PA
 Samhällets NN DT
 äktenskapslagar NN SS
 innehåller VB ROOT
-också AB +A
+också AB PLA
 bestämmelser NN OO
 om PP ET
 engifte NN CJ
@@ -43740,7 +43740,7 @@ o_s_v AB CJ
 
 Samhället NN SS
 regleras VB ROOT
-också AB +A
+också AB PLA
 genom PP AA
 lag NN PA
 om PP ET
@@ -43791,11 +43791,11 @@ som HP SS
 bor VB MS
 tillsammans AB PL
 och KN ET
-har VB +F
+har VB PLF
 gemensamt JJ AT
 hushåll NN OO
 , MID IK
-dock AB +A
+dock AB PLA
 utan PP AA
 att IE PA
 ha VB IF
@@ -43841,7 +43841,7 @@ morföräldrarna NN CJ
 
 Äktenskapet NN SS
 är VB ROOT
-alltså AB +A
+alltså AB PLA
 en DT DT
 institution NN CJ
 eller KN SP
@@ -43852,7 +43852,7 @@ samhället NN PA
 
 Det PN SS
 fungerar VB ROOT
-dessutom AB +A
+dessutom AB PLA
 ofta AB TA
 i PP RA
 västerlandet NN PA
@@ -43979,14 +43979,14 @@ utan KN OO
 hela JJ DT
 familjen NN CJ
 ; MID IS
-och KN +F
+och KN PLF
 inte AB NA
 bara AB CA
 den DT DT
 enskilda JJ AT
 familjen NN CJ
-utan KN +F
-dessutom AB +A
+utan KN PLF
+dessutom AB PLA
 ofta AB TA
 storfamiljen NN CJ
 . MAD IP
@@ -44061,8 +44061,8 @@ alla PN PA
 accepterade PC CJ
 regler NN PA
 utan KN ROOT
-betydde VB +F
-dessutom AB +A
+betydde VB PLF
+dessutom AB PLA
 ofta AB TA
 personlig JJ AT
 isolering NN CJ
@@ -44179,7 +44179,7 @@ intressenter NN SP
 
 Äktenskapet NN SS
 har VB ROOT
-i PP +A
+i PP PLA
 stället NN HD
 mer AB AA
 och KN HD
@@ -44255,7 +44255,7 @@ Denna DT DT
 nya JJ AT
 inställning NN SS
 har VB ROOT
-också AB +A
+också AB PLA
 gett VB VG
 äktenskapet NN IO
 en DT DT
@@ -44290,7 +44290,7 @@ gamla JJ AT
 och KN PA
 underordning NN CJ
 utan KN ROOT
-kräver VB +F
+kräver VB PLF
 en DT DT
 rättvis JJ AT
 fördelning NN OO
@@ -44442,10 +44442,10 @@ moraliska JJ CJ
 frågorna NN SS
 in PL PL
 och KN ROOT
-med PP +F
+med PP PLF
 dem PN PA
 ibland AB TA
-också AB +A
+också AB PLA
 livsåskådningsfrågor NN SS
 . MAD IP
 
@@ -44537,7 +44537,7 @@ uppgifter NN CJ
 
 Man PN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 fråga VB VG
 : MAD IQ
 
@@ -44716,7 +44716,7 @@ kärlek NN OO
 Denna DT DT
 upplevelse NN SS
 innebär VB MS
-emellertid AB +A
+emellertid AB PLA
 inte AB NA
 bara AB CA
 lycka NN OO
@@ -44848,7 +44848,7 @@ för PP AA
 fortplantningens NN PA
 skull NN HD
 och KN PA
-därmed AB +F
+därmed AB PLF
 för PP AA
 människosläktets NN DT
 bestånd NN PA
@@ -44858,7 +44858,7 @@ Barnalstring NN CJ
 och KN SS
 uppfostran NN CJ
 skulle VB ROOT
-alltså AB +A
+alltså AB PLA
 enligt PP AA
 den DT DT
 ursprungliga JJ AT
@@ -44887,7 +44887,7 @@ medskapare NN CJ
 
 Efterhand AB TA
 har VB ROOT
-emellertid AB +A
+emellertid AB PLA
 det DT DT
 protestantiska JJ AT
 skapelseargumentet NN SS
@@ -44977,7 +44977,7 @@ sexuell JJ AT
 drift NN OO
 och KN PA
 därmed AB AA
-hindra VB +F
+hindra VB PLF
 människan NN OO
 från PP OA
 syndiga JJ AT
@@ -45207,7 +45207,7 @@ lag NN SS
 påbjuder VB MS
 monogami NN OO
 och KN ROOT
-förbjuder VB +F
+förbjuder VB PLF
 alla DT DT
 former NN OO
 av PP ET
@@ -45333,7 +45333,7 @@ den PN OO
 
 Vi PN SS
 kan VB ROOT
-alltså AB +A
+alltså AB PLA
 sätta VB MS
 oss PN OO
 ned PL PL
@@ -45348,7 +45348,7 @@ samlevnadsformen NN CJ
 och KN OO
 sexualmoralen NN CJ
 och KN VG
-se VB +F
+se VB PLF
 efter PL PL
 om SN OO
 den PN SS
@@ -45419,7 +45419,7 @@ konsekvenser NN PA
 ( PAD IR
 Garthon PM ROOT
 : MID IQ
-Äktenskapet NN +F
+Äktenskapet NN PLF
 fri JJ HD
 samlevnad NN HD
 . MAD IP
@@ -45477,7 +45477,7 @@ utsagt PC SP
 
 Monogamin NN SS
 är VB ROOT
-alltså AB +A
+alltså AB PLA
 påbjuden PC SP
 - MID IT
 med PP AA
@@ -45502,7 +45502,7 @@ lyckligt JJ AT
 äktenskap NN PA
 och KN ET
 samtidigt AB TA
-har VB +F
+har VB PLF
 ett DT DT
 lyckligt JJ AT
 förhållande NN OO
@@ -45519,7 +45519,7 @@ konflikt NN OO
 - MID IT
 det PN OO
 gör VB MS
-däremot AB +A
+däremot AB PLA
 hans PS DT
 hustru NN SS
 , MID IK
@@ -45704,7 +45704,7 @@ höger NN HD
 och KN HD
 vänster NN HD
 ( PAD IR
-för KN +F
+för KN PLF
 ännu AB TA
 har VB MS
 den DT DT
@@ -45719,7 +45719,7 @@ att SN CJ
 barnen NN SS
 ( PAD IR
 som HP SS
-ändå AB +A
+ändå AB PLA
 har VB ET
 rätt NN OO
 att IE ET
@@ -45824,7 +45824,7 @@ samhälle NN CJ
 
 Men KN ROOT
 onekligen AB MA
-typisk JJ +F
+typisk JJ PLF
 för PP OA
 köp- NN CJ
 och KN PA
@@ -45846,12 +45846,12 @@ våren NN DT
 
 Skilsmässa NN MS
 eller KN ROOT
-inte AB +F
+inte AB PLF
 ? MAD I?
 
 Det PN SS
 är VB ROOT
-sålunda AB +A
+sålunda AB PLA
 - MID IT
 både KN VA
 enligt PP MA
@@ -45942,7 +45942,7 @@ syn NN PA
 ett DT DT
 sakrament NN SP
 och KN ROOT
-kan VB +F
+kan VB PLF
 som KN AA
 sådant PN UA
 inte AB NA
@@ -45959,7 +45959,7 @@ eller KN PA
 misslyckanden NN CJ
 . MAD IP
 
-Däremot AB +A
+Däremot AB PLA
 händer VB ROOT
 det PN FS
 att SN ES
@@ -46013,7 +46013,7 @@ av PP ET
 gudomliga JJ AT
 förhållanden NN PA
 och KN ROOT
-är VB +F
+är VB PLF
 därför AB AA
 i PP AA
 princip NN PA
@@ -46049,7 +46049,7 @@ omgifte NN CJ
 
 Det PN SS
 blir VB ROOT
-sålunda AB +A
+sålunda AB PLA
 en DT DT
 klyfta NN SP
 mellan PP ET
@@ -46092,7 +46092,7 @@ i PP ET
 egentlig JJ AT
 mening NN PA
 och KN MS
-kan VB +F
+kan VB PLF
 därför AB AA
 upplösas VB VG
 
@@ -46137,7 +46137,7 @@ otukt NN PA
 skiljer VB MS
 sig PN OO
 och KN ET
-tager VB +F
+tager VB PLF
 sig PN IO
 en DT DT
 annan JJ DT
@@ -46196,8 +46196,8 @@ glädje NN OO
 av PP OA
 varandra PN PA
 utan KN ET
-tvärtom AB +A
-kränker VB +F
+tvärtom AB PLA
+kränker VB PLF
 varandra PN OO
 , MID IK
 kan VB MS
@@ -46286,7 +46286,7 @@ djup JJ AT
 disharmoni NN SS
 mellan PP ET
 föräldrarna NN PA
-dessutom AB +A
+dessutom AB PLA
 äventyrar VB UA
 barnens NN DT
 själsliga JJ AT
@@ -46308,7 +46308,7 @@ skilsmässa NN OO
 
 Många PN SS
 kommer VB ROOT
-dock AB +A
+dock AB PLA
 till PP OA
 rakt AB AA
 motsatt PC AT
@@ -46334,7 +46334,7 @@ bästa JJ PA
 
 Skilsmässa NN MS
 eller KN ROOT
-inte AB +F
+inte AB PLF
 - MID IT
 vad HP OO
 säger VB MS
@@ -46388,7 +46388,7 @@ berättigande NN PA
 
 Skilsmässa NN MS
 eller KN ROOT
-inte AB +F
+inte AB PLF
 ? MAD I?
 
 De DT DT
@@ -46757,7 +46757,7 @@ i PP TA
 varje DT DT
 enskilt JJ AT
 fall NN PA
-försöka VB +F
+försöka VB PLF
 komma VB OO
 fram AB RA
 till PP RA
@@ -46836,7 +46836,7 @@ spänts VB VG
 för PP OA
 jordbruksredskap NN PA
 och KN ROOT
-hjälpt VB +F
+hjälpt VB PLF
 till PL PL
 att IE OA
 driva VB IF
@@ -46968,7 +46968,7 @@ dieselmotorer NN CJ
 eller KN PA
 ångturbiner NN CJ
 och KN MS
-pumparna NN +F
+pumparna NN PLF
 av PP AG
 elektromotorer NN PA
 . MAD IP
@@ -47076,7 +47076,7 @@ Men KN ROOT
 nu AB TA
 kan VB MS
 vi PN SS
-också AB +A
+också AB PLA
 tillgodogöra VB VG
 oss PN IO
 den DT DT
@@ -47131,7 +47131,7 @@ världens NN DT
 energikonsumtion NN PA
 . MAD IP
 
-Också AB +A
+Också AB PLA
 på PP RA
 detta DT DT
 område NN PA
@@ -47207,7 +47207,7 @@ dessa DT DT
 balanser NN OO
 bör VB ROOT
 vi PN SS
-dock AB +A
+dock AB PLA
 känna VB VG
 till PL PL
 två RG DT
@@ -47261,7 +47261,7 @@ råolja NN MS
 till PP OA
 bensin NN PA
 och KN AN
-vattenkraft NN +F
+vattenkraft NN PLF
 till PP OA
 elektrisk JJ AT
 energi NN PA
@@ -47325,16 +47325,16 @@ koks NN PA
 , MID IK
 för PP OA
 ved NN PA
-0,17 RG +F
+0,17 RG PLF
 , MID IK
 för PP OA
 bensin NN PA
-1,60 RG +F
+1,60 RG PLF
 , MID IK
 och KN ROOT
 för PP OA
 brännolja NN PA
-1,50 RG +F
+1,50 RG PLF
 . MAD IP
 
 På PP RA
@@ -47360,7 +47360,7 @@ förändrats VB CJ
 
 Om SN AA
 man PN SS
-också AB +A
+också AB PLA
 tar VB UA
 med PL PL
 så AB AA
@@ -47401,7 +47401,7 @@ procent NN PA
 
 Räknar VB AA
 man PN SS
-däremot AB +A
+däremot AB PLA
 bara AB CA
 med PP OA
 de DT DT
@@ -47414,8 +47414,8 @@ verkningsgraden NN SS
 väsentligt AB AA
 högre JJ SP
 men KN ROOT
-överstiger VB +F
-dock AB +A
+överstiger VB PLF
+dock AB PLA
 inte AB NA
 50 RG DT
 % NN OO
@@ -47452,7 +47452,7 @@ stenkolston NN PA
 Diagrammet NN SS
 nedan AB ET
 åskådliggör VB ROOT
-också AB +A
+också AB PLA
 den DT DT
 fortgående PC AT
 förskjutningen NN OO
@@ -47476,7 +47476,7 @@ bekostnad NN PA
 
 Intressant JJ SP
 är VB ROOT
-också AB +A
+också AB PLA
 att IE SS
 se VB IF
 den DT DT
@@ -47524,7 +47524,7 @@ ca AB AA
 20 RG DT
 % NN OO
 och KN ROOT
-Sovjetunionen PM +F
+Sovjetunionen PM PLF
 ca AB AA
 16 RG DT
 % NN OO
@@ -47545,7 +47545,7 @@ världens NN DT
 folkmängd NN PA
 , MID IK
 svarar VB ROOT
-alltså AB +A
+alltså AB PLA
 för PP OA
 drygt AB AA
 70 RG DT
@@ -47557,15 +47557,15 @@ energikonsumtion NN PA
 
 Diagrammet NN SS
 avslöjar VB MS
-också AB +A
+också AB PLA
 de DT DT
 största JJ AT
 överskotts- NN CJ
 och KN OO
 underskottsområdena NN CJ
 och KN ROOT
-antyder VB +F
-också AB +A
+antyder VB PLF
+också AB PLA
 de DT DT
 stora JJ AT
 handelsvägarna NN OO
@@ -47634,7 +47634,7 @@ varit VB VG
 väsentligt AB AA
 högre JJ SP
 och KN ROOT
-utgjort VB +F
+utgjort VB PLF
 ca AB AA
 5 RG DT
 % NN OO
@@ -47682,7 +47682,7 @@ ett DT DT
 flertal NN DT
 faktorer NN PA
 och KN ROOT
-kan VB +F
+kan VB PLF
 därför AB AA
 bara AB CA
 bli VB VG
@@ -47762,7 +47762,7 @@ energibehovet NN PA
 Men KN ROOT
 människorna NN SS
 skall VB MS
-också AB +A
+också AB PLA
 beredas VB VG
 arbete NN OO
 i PP RA
@@ -47870,7 +47870,7 @@ till PP OA
 miljarder NN DT
 t NN PA
 och KN ROOT
-räcker VB +F
+räcker VB PLF
 med PP AA
 oförändrad PC AT
 brytningstakt NN PA
@@ -48097,7 +48097,7 @@ primär JJ AT
 energi NN PA
 b NN VA
 ) PAD JR
-nyttoenergi NN +F
+nyttoenergi NN PLF
 ? MAD I?
 
 Hur HA AA
@@ -48112,7 +48112,7 @@ a NN VA
 stenkol NN PA
 b NN VA
 ) PAD JR
-olja NN +F
+olja NN PLF
 att IE VG
 räcka VB IF
 med PP AA
@@ -48241,7 +48241,7 @@ kg NN PA
 ) PAD JR
 ger VB ROOT
 den PN IO
-också AB +A
+också AB PLA
 ett DT DT
 försteg NN OO
 framför PP OA
@@ -48270,7 +48270,7 @@ transport NN CJ
 och KN PA
 distribution NN CJ
 och KN ET
-lämpar VB +F
+lämpar VB PLF
 sig PN OO
 för PP OA
 alstring NN PA
@@ -48285,7 +48285,7 @@ rörelsekraft NN CJ
 
 Elkraften NN SS
 kan VB ROOT
-i PP +A
+i PP PLA
 sin PS HD
 tur NN HD
 vara VB VG
@@ -48378,8 +48378,8 @@ till PP RA
 hela JJ DT
 Västtyskland PM PA
 utan KN ROOT
-också AB +A
-till PP +F
+också AB PLA
+till PP PLF
 Beneluxländerna PM CJ
 och KN PA
 Frankrike PM CJ
@@ -48449,7 +48449,7 @@ de PN SS
 inte AB NA
 kan VB UA
 användas VB VG
-även AB +A
+även AB PLA
 för PP AA
 andra JJ DT
 ändamål NN PA
@@ -48514,7 +48514,7 @@ kolet NN PA
 
 Kolet NN SS
 har VB ROOT
-dessutom AB +A
+dessutom AB PLA
 höga JJ AT
 lastnings- NN CJ
 och KN OO
@@ -48591,7 +48591,7 @@ Stenungsundsverket PM AN
 
 Givetvis AB MA
 har VB ROOT
-också AB +A
+också AB PLA
 produktionskostnaderna NN SS
 en DT DT
 stor JJ AT
@@ -48652,7 +48652,7 @@ oljeletning NN CJ
 Stora JJ AT
 ansträngningar NN SS
 görs VB ROOT
-dock AB +A
+dock AB PLA
 för PP AA
 att IE PA
 nedbringa VB IF
@@ -48695,7 +48695,7 @@ rörledningar NN PA
 Lovande PC AT
 försök NN SS
 görs VB ROOT
-också AB +A
+också AB PLA
 att IE ET
 förgasa VB IF
 stenkolet NN OO
@@ -48842,11 +48842,11 @@ a NN PA
 ) PAD JR
 huvudsakligen AB CA
 vattenkraft NN CJ
-b NN +A
+b NN PLA
 ) PAD JR
 huvudsakligen AB CA
 värmekraft NN CJ
-c NN +A
+c NN PLA
 ) PAD JR
 ungefär AB AA
 lika AB AT
@@ -48970,7 +48970,7 @@ chaufför NN UA
 
 Han PN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 få VB VG
 sin PS DT
 status NN OO
@@ -49272,7 +49272,7 @@ könsrollskaraktär NN PA
 är VB MS
 inlärda PC SP
 och KN ROOT
-hör VB +F
+hör VB PLF
 samman PL PL
 med PP OA
 den DT DT
@@ -49295,7 +49295,7 @@ manligt JJ CJ
 respektive AB SP
 kvinnligt JJ CJ
 har VB ROOT
-också AB +A
+också AB PLA
 satts VB VG
 under PP PL
 debatt NN HD
@@ -49326,7 +49326,7 @@ roll NN OO
 
 Rollen NN SS
 påverkar VB ROOT
-också AB +A
+också AB PLA
 rollinnehavarens NN DT
 förväntningar NN OO
 på PP ET
@@ -49429,7 +49429,7 @@ fortsätter VB MS
 i PP RA
 skolan NN PA
 eller KN UA
-ej AB +F
+ej AB PLF
 . MAD IP
 
 att SN ROOT
@@ -49490,7 +49490,7 @@ flickorna NN CJ
 I PP OA
 undersökningen NN PA
 ingick VB ROOT
-också AB +A
+också AB PLA
 intelligenstest NN CJ
 och KN SS
 kunskapsprov NN CJ
@@ -49517,7 +49517,7 @@ fortsatta PC AT
 studier NN PA
 . MAD IP
 
-Icke AB +A
+Icke AB PLA
 desto AB HD
 mindre AB HD
 var VB ROOT
@@ -49555,7 +49555,7 @@ riktig JJ SP
 eller KN OA
 om SN CJ
 den PN SS
-också AB +A
+också AB PLA
 hade VB UA
 påverkats VB VG
 av PP AG
@@ -49575,7 +49575,7 @@ om PP OA
 
 De PN SS
 är VB ROOT
-emellertid AB +A
+emellertid AB PLA
 intressanta JJ SP
 som KN AA
 uttryck NN UA
@@ -49722,7 +49722,7 @@ Var PN SS
 och KN HD
 en PN HD
 hade VB ROOT
-alltså AB +A
+alltså AB PLA
 under PP TA
 bedömningarna NN PA
 utbildat VB VG
@@ -49818,8 +49818,8 @@ som HP SS
 utfördes VB ET
 individuellt AB AA
 , MID IK
-dels KN +A
-av PP +F
+dels KN PLA
+av PP PLF
 deras PS DT
 bedömningar NN PA
 vid PP ET
@@ -49909,11 +49909,11 @@ som KN HD
 helst AB HD
 . MAD IP
 
-Även AB +A
+Även AB PLA
 andra JJ DT
 resultat NN SS
 talar VB ROOT
-emellertid AB +A
+emellertid AB PLA
 för PP OA
 två RG DT
 viktiga JJ AT
@@ -50150,7 +50150,7 @@ de DT DT
 invigda PC SS
 fel AB AA
 , MID IK
-men KN +F
+men KN PLF
 fel AB CJ
 på PP AA
 ett DT DT
@@ -50205,7 +50205,7 @@ vara VB IF
 instruerade PC SP
 var VB ROOT
 det PN SS
-alltså AB +A
+alltså AB PLA
 6 RG XX
 som HP SS
 gjorde VB EF
@@ -50284,7 +50284,7 @@ de PN SS
 bedömt VB UA
 riktigt AB AA
 , MID IK
-(b) NN +A
+(b) NN PLA
 de PN CJ
 som HP SS
 trodde VB ET
@@ -50307,7 +50307,7 @@ en DT DT
 enda JJ DT
 person NN PA
 och KN AN
-(c) NN +A
+(c) NN PLA
 de PN CJ
 som HP SS
 faktiskt AB MA
@@ -50372,7 +50372,7 @@ den PN PA
 , MID IK
 styrs VB ROOT
 bedömningen NN SS
-ändå AB +A
+ändå AB PLA
 i PP AA
 hög JJ AT
 grad NN PA
@@ -50388,7 +50388,7 @@ experiment NN PA
 tyder VB ROOT
 på PP OA
 att SN PA
-också AB +A
+också AB PLA
 våra PS DT
 åsikter NN CJ
 och KN SS
@@ -50416,11 +50416,11 @@ påverkas VB ROOT
 av PP AG
 gruppen NN PA
 
-Också AB +A
+Också AB PLA
 för PP OA
 vårt PS DT
 beteende NN PA
-i PP +A
+i PP PLA
 övrigt JJ HD
 spelar VB ROOT
 den DT DT
@@ -50483,7 +50483,7 @@ endast AB CA
 en DT DT
 gång NN TA
 tillsammans AB AA
-med PP +F
+med PP PLF
 var PN PA
 och KN HD
 en PN HD
@@ -50597,7 +50597,7 @@ visar VB ROOT
 några DT DT
 förhållanden NN OO
 som HP SS
-också AB +A
+också AB PLA
 stöds VB ET
 av PP AG
 resultat NN PA
@@ -50748,7 +50748,7 @@ beteenden NN PA
 
 Därmed AB AA
 bestäms VB ROOT
-också AB +A
+också AB PLA
 vilka HD DT
 beteenden NN SS
 som HP XX
@@ -50769,7 +50769,7 @@ sammanhang NN PA
 samhället NN AN
 , MID IK
 som HP SS
-i PP +A
+i PP PLA
 sin PS HD
 tur NN HD
 har VB ET
@@ -50783,7 +50783,7 @@ prägel NN OO
 på PP OA
 föräldrarna NN PA
 och KN ET
-bestämt VB +F
+bestämt VB PLF
 deras PS DT
 attityder NN CJ
 och KN OO
@@ -50816,7 +50816,7 @@ Man PN SS
 visar VB ROOT
 lätt AB AA
 konformitet NN OO
-även AB +A
+även AB PLA
 i PP RA
 sina PS DT
 protester NN PA
@@ -50984,24 +50984,24 @@ har VB MS
 det PN OO
 bra JJ AA
 , MID IK
-har VB +F
+har VB PLF
 en DT DT
 relativt AB AA
 tillfredsställande PC AT
 inkomst NN OO
 , MID IK
-har VB +F
+har VB PLF
 bil NN CJ
 och KN CJ
 TV NN CJ
 och KN OO
 medel NN CJ
-därutöver AB +A
+därutöver AB PLA
 att IE ET
 köpa VB IF
 litet AB DT
 annat JJ OO
-också AB +A
+också AB PLA
 - MID IT
 och KN ROOT
 för PP OA
@@ -51208,7 +51208,7 @@ totalt AB AA
 Så AB AA
 många PN SS
 har VB MS
-alltså AB +A
+alltså AB PLA
 så AB AA
 klena JJ AT
 inkomster NN OO
@@ -51229,7 +51229,7 @@ att SN KA
 de PN SS
 drabbas VB UA
 hårt AB AA
-även AB +A
+även AB PLA
 av PP AG
 obetydliga JJ AT
 ekonomiska JJ AT
@@ -51357,7 +51357,7 @@ befinna VB MS
 oss PN OO
 i PP RA
 eller KN IF
-försätta VB +F
+försätta VB PLF
 oss PN OO
 i PP RA
 sådana JJ DT
@@ -51422,17 +51422,17 @@ få VB MS
 arbete NN OO
 , MID IK
 inte AB NA
-tillräckligt AB +F
-i PP +A
+tillräckligt AB PLF
+i PP PLA
 varje DT HD
 fall NN HD
 , MID IK
 inte AB NA
-har VB +F
+har VB PLF
 pension NN OO
 , MID VG
 inte AB NA
-är VB +F
+är VB PLF
 gifta PC SP
 - MID IT
 och KN MS
@@ -51460,7 +51460,7 @@ rätt NN OO
 till PP ET
 förtidspension NN PA
 men KN ROOT
-har VB +F
+har VB PLF
 inte AB NA
 kunnat VB VG
 utnyttja VB VG
@@ -51563,7 +51563,7 @@ ur PL PL
 sitt PS DT
 låglöneläge NN OO
 - MID IT
-att IE +F
+att IE PLF
 som KN OP
 påbröd NN UA
 på PP ET
@@ -51605,7 +51605,7 @@ socialhjälpen NN SS
 komma VB VG
 in PL PL
 och KN ROOT
-bygga VB +F
+bygga VB PLF
 på PL PL
 . MAD IP
 
@@ -51660,11 +51660,11 @@ man PN SS
 är VB MS
 sjuk JJ SP
 , MID IK
-har VB +F
+har VB PLF
 det PN OO
 bekymmersamt JJ AA
 eller KN UA
-är VB +F
+är VB PLF
 handikappad PC SP
 så AB AA
 att SN HD
@@ -51717,7 +51717,7 @@ paragraf NN OO
 
 Den PN SS
 ger VB ROOT
-också AB +A
+också AB PLA
 möjlighet NN OO
 att IE ET
 underlåta VB IF
@@ -51728,7 +51728,7 @@ hjälp NN OO
 
 Det PN SS
 kan VB ROOT
-alltså AB +A
+alltså AB PLA
 bero VB VG
 på PP OA
 om SN PA
@@ -51911,7 +51911,7 @@ ovanför AB RA
 den DT DT
 gruppen NN PA
 och KN ROOT
-riskerar VB +F
+riskerar VB PLF
 ständigt AB TA
 vid PP AA
 en DT DT
@@ -51933,7 +51933,7 @@ otrygghet NN OO
 vid PP TA
 arbetslöshet NN PA
 och KN ROOT
-skapar VB +F
+skapar VB PLF
 hälsorisker NN OO
 . MAD IP
 
@@ -52039,7 +52039,7 @@ ha VB VG
 arbete NN OO
 men KN ET
 inte AB NA
-kan VB +F
+kan VB PLF
 , MID IK
 därför HA AA
 att SN HD
@@ -52110,7 +52110,7 @@ få VB VG
 grundläggande PC AT
 yrkesutbildning NN OO
 eller KN ROOT
-gå VB +F
+gå VB PLF
 omskolnings- NN CJ
 och KN OO
 fortbildningskurser NN CJ
@@ -52138,10 +52138,10 @@ bilden NN ROOT
 Vår PS DT
 tillvaro NN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 förändras VB VG
 , MID IK
-rivas VB +F
+rivas VB PLF
 sönder PL PL
 av PP AG
 en DT DT
@@ -52205,7 +52205,7 @@ arbetsmarknaden NN PA
 
 Det PN SS
 synes VB ROOT
-dock AB +A
+dock AB PLA
 vara VB VS
 långt JJ SP
 kvar AB AA
@@ -52281,7 +52281,7 @@ politiken NN CJ
 och KN PA
 utvecklingen NN CJ
 har VB ROOT
-vidare AB +A
+vidare AB PLA
 en DT DT
 socialpolitisk JJ AT
 återverkan NN OO
@@ -52300,7 +52300,7 @@ viss JJ DT
 garanterad PC AT
 minimistandard NN PA
 och KN ROOT
-därmed AB +F
+därmed AB PLF
 en DT DT
 viss JJ DT
 trygghet NN OA
@@ -52388,7 +52388,7 @@ att SN OO
 otrygghet NN SS
 uppstår VB MS
 och KN UA
-därmed AB +F
+därmed AB PLF
 ett DT DT
 akut JJ AT
 hjälpbehov NN SS
@@ -52396,11 +52396,11 @@ hjälpbehov NN SS
 
 Om SN AA
 någon PN SS
-trots PP +A
+trots PP PLA
 allt PN HD
 passerar VB MS
 eller KN UA
-kommer VB +F
+kommer VB PLF
 nära PP RA
 otrygghetens NN DT
 tröskel NN RA
@@ -52527,7 +52527,7 @@ rad NN DT
 andra JJ DT
 länder NN CJ
 har VB MS
-också AB +A
+också AB PLA
 ett DT DT
 omfattande PC AT
 socialpolitiskt JJ AT
@@ -52580,7 +52580,7 @@ internationellt JJ HD
 perspektiv NN HD
 ' PAD JC
 måste VB ROOT
-också AB +A
+också AB PLA
 innefatta VB VG
 ett DT DT
 omnämnande NN OO
@@ -52624,7 +52624,7 @@ enligt PP MA
 SIDA PM PA
 , MID IK
 beräknad PC AT
-ämnesfördelning NN +F
+ämnesfördelning NN PLF
 . MAD IP
 
 Socialpolitiken NN ROOT
@@ -52711,8 +52711,8 @@ rörelser NN SS
 främst AB CA
 arbetarrörelsen NN MS
 men KN AN
-också AB +A
-liberalerna NN +F
+också AB PLA
+liberalerna NN PLF
 , MID IK
 framförde VB UA
 krav NN OO
@@ -52753,7 +52753,7 @@ har VB MS
 vuxit VB VG
 vidare AB AA
 och KN ROOT
-medfört VB +F
+medfört VB PLF
 att SN OO
 man PN SS
 vill VB UA
@@ -52958,7 +52958,7 @@ trygghetsunderlaget NN PA
 t.ex. AB CA
 socialförsäkringarna NN AN
 , MID IK
-dels KN +F
+dels KN PLF
 en DT DT
 allt AB AA
 starkare JJ AT
@@ -53076,7 +53076,7 @@ familjepolitiken NN CJ
 Denna DT DT
 integration NN SS
 måste VB ROOT
-dessutom AB +A
+dessutom AB PLA
 kompletteras VB VG
 med PP OA
 speciella JJ AT
@@ -53116,8 +53116,8 @@ större JJ SP
 nu AB UA
 och KN TA
 det PN SS
-alltså AB +A
-var VB +F
+alltså AB PLA
+var VB PLF
 stor JJ AT
 åldersskillnad NN SP
 mellan PP RA
@@ -53273,8 +53273,8 @@ välståndssamhällets NN DT
 alla DT DT
 grupper NN PA
 , MID IK
-också AB +A
-för PP +F
+också AB PLA
+för PP PLF
 dem PN PA
 som HP SS
 aldrig AB TA
@@ -53424,7 +53424,7 @@ behöver VB TA
 så AB DB
 trodde VB ROOT
 jag PN SS
-ändå AB +A
+ändå AB PLA
 att SN OO
 det PN FS
 skulle VB UA
@@ -53573,7 +53573,7 @@ upprätthåller VB MS
 ordning NN OO
 , MID IK
 bestraffar VB CJ
-och KN +F
+och KN PLF
 belönar VB CJ
 . MAD IP
 
@@ -53613,14 +53613,14 @@ hon PN SS
 medlar VB MS
 mellan PP OA
 dem PN PA
-osv AB +F
+osv AB PLF
 . MAD IP
 
 Se VB ROOT
 figuren NN OO
 , MID IK
 som HP SS
-också AB +A
+också AB PLA
 visar VB ET
 barnens NN DT
 placering NN OO
@@ -53725,7 +53725,7 @@ vanligare JJ SP
 kvinnlig JJ AT
 . MAD IP
 
-Också AB +A
+Också AB PLA
 pojkarna NN SS
 fick VB ROOT
 uttala VB VG
@@ -53788,7 +53788,7 @@ så AB AA
 
 Det PN FS
 skulle VB ROOT
-för PP +A
+för PP PLA
 övrigt JJ HD
 vara VB VG
 intressant JJ SP
@@ -53822,7 +53822,7 @@ Deras PS DT
 teoretiska JJ AT
 schema NN SS
 har VB ROOT
-dock AB +A
+dock AB PLA
 kritiserats VB VG
 som KN SP
 alltför AB AA
@@ -53856,7 +53856,7 @@ hårt AB AA
 rollbundna PC AT
 familjen NN SS
 är VB ROOT
-dessutom AB +A
+dessutom AB PLA
 på PP SP
 avskrivning NN PA
 . MAD IP
@@ -53915,7 +53915,7 @@ dominerar VB ROOT
 där AB RA
 . MAD IP
 
-Vidare AB +A
+Vidare AB PLA
 är VB ROOT
 det PN SS
 inte AB NA
@@ -53932,7 +53932,7 @@ för PP ET
 varandra PN PA
 . MAD IP
 
-Också AB +A
+Också AB PLA
 barnens NN DT
 ställning NN SS
 är VB ROOT
@@ -54092,12 +54092,12 @@ Småland PM CJ
 och KN TA
 inget DT DT
 annat JJ OO
-kan VB +F
+kan VB PLF
 än KN KA
 hugga VB MS
 skog NN OO
 och KN UA
-hjälpa VB +F
+hjälpa VB PLF
 till PL PL
 i PP RA
 lantbruk NN PA
@@ -54129,7 +54129,7 @@ få VB IF
 litet JJ DT
 klädpengar NN OO
 och KN PA
-komma VB +F
+komma VB PLF
 ut PL PL
 litet AB AA
 . MAD IP
@@ -54148,7 +54148,7 @@ de PN SS
 vistas VB MS
 där AB RA
 men KN MS
-brukar VB +F
+brukar VB PLF
 den PN OO
 inte AB NA
 ... MAD IG
@@ -54284,10 +54284,10 @@ vackra JJ AT
 hem NN PA
 , MID IK
 ibland AB TA
-dessutom AB +A
+dessutom AB PLA
 hårt AB AA
 arbetande PC AT
-hemslavinnor NN +F
+hemslavinnor NN PLF
 eftersom SN AA
 hemhjälp NN SS
 tryter VB UA
@@ -54306,7 +54306,7 @@ med PP OA
 sitt PS DT
 arbete NN PA
 men KN UA
-får VB +F
+får VB PLF
 för AB AA
 litet JJ AT
 tid NN OO
@@ -54448,7 +54448,7 @@ lägre JJ AT
 lönegrad NN PA
 , MID IK
 men KN ROOT
-båda PN +F
+båda PN PLF
 välbeställda JJ AT
 kvalificerade PC AT
 yrkesmänniskor NN SP
@@ -54490,7 +54490,7 @@ sömn NN CJ
 och KN PA
 mat NN CJ
 och KN ROOT
-tvingat VB +F
+tvingat VB PLF
 mamman NN OO
 att IE OA
 ta VB IF
@@ -54648,7 +54648,7 @@ smula NN AA
 åt PP RA
 modersdominans NN PA
 ( PAD IR
-också AB +A
+också AB PLA
 i PP RA
 de DT DT
 välintegrerade PC PA
@@ -54793,7 +54793,7 @@ storstädning NN CJ
 
 Det PN SS
 är VB ROOT
-dock AB +A
+dock AB PLA
 långt AB NA
 ifrån PP HD
 fråga NN SP
@@ -54908,8 +54908,8 @@ etologisk JJ AT
 mening NN PA
 räknar VB ROOT
 man PN SS
-emellertid AB +A
-också AB +A
+emellertid AB PLA
+också AB PLA
 fortplantningsbeteende NN CJ
 , MID OO
 vård NN CJ
@@ -54920,20 +54920,20 @@ till PP OA
 socialt JJ AT
 beteende NN PA
 , MID IK
-även AB +A
+även AB PLA
 när HA AA
 det PN HD
 gäller VB HD
 arter NN PA
 som HP SS
-i PP +A
+i PP PLA
 övrigt JJ HD
 lever VB ET
 solitärt JJ AA
 , MID IK
 dvs AB CA
 inte AB NA
-bildar VB +F
+bildar VB PLF
 samhällen NN OO
 . MAD IP
 
@@ -54984,12 +54984,12 @@ dödar VB MS
 en DT DT
 fjärilslarv NN OO
 , MID IK
-för VB +F
+för VB PLF
 den PN OO
 till PP RA
 boet NN PA
 och KN ROOT
-lägger VB +F
+lägger VB PLF
 ett DT DT
 ägg NN OO
 på PP RA
@@ -55058,7 +55058,7 @@ kapsel NN OO
 med PP ET
 sädesceller NN PA
 och KN ROOT
-lockar VB +F
+lockar VB PLF
 med PP AA
 rörelsemönster NN CJ
 och KN PA
@@ -55172,7 +55172,7 @@ matning NN CJ
 av PP ET
 ungarna NN PA
 utgör VB ROOT
-också AB +A
+också AB PLA
 ett DT DT
 nedärvt PC AT
 system NN OO
@@ -55194,7 +55194,7 @@ ett DT DT
 socialt JJ AT
 beteende NN PA
 är VB ROOT
-alltså AB +A
+alltså AB PLA
 ett DT DT
 visst JJ DT
 samspel NN SP
@@ -55244,7 +55244,7 @@ individerna NN PA
 Socialt JJ AT
 beteende NN SS
 kan VB ROOT
-även AB +A
+även AB PLA
 resultera VB VG
 i PP OA
 samverkan NN PA
@@ -55313,7 +55313,7 @@ måsar NN PA
 
 Exempel NN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 hämtas VB VG
 från PP RA
 fiskarna NN CJ
@@ -55351,7 +55351,7 @@ vattnet NN PA
 vid PP ET
 fara NN PA
 är VB ROOT
-också AB +A
+också AB PLA
 en DT DT
 varningssignal NN SP
 för PP OA
@@ -55386,7 +55386,7 @@ skadas VB UA
 genom PP AA
 kollision NN PA
 är VB ROOT
-nämligen AB +A
+nämligen AB PLA
 mycket AB AA
 stor JJ SP
 om SN AA
@@ -55452,7 +55452,7 @@ minimalt JJ SP
 För PP OA
 sångfåglar NN PA
 brukar VB ROOT
-däremot AB +A
+däremot AB PLA
 reviret NN SS
 bestå VB HD
 av PP OA
@@ -55478,7 +55478,7 @@ men KN ROOT
 denna PN SS
 verkar VB MS
 sannolikt AB MA
-även AB +A
+även AB PLA
 attraherande PC SP
 på PP OA
 honan NN PA
@@ -55487,7 +55487,7 @@ honan NN PA
 Efter PP TA
 parbildningen NN PA
 deltar VB ROOT
-även AB +A
+även AB PLA
 honan NN SS
 i PP OA
 hävdandet NN PA
@@ -55556,7 +55556,7 @@ halvapor NN SP
 underlättar VB ROOT
 sådana JJ DT
 doftstaket NN SS
-även AB +A
+även AB PLA
 djurets NN DT
 orientering NN OO
 inom PP ET
@@ -55591,7 +55591,7 @@ sin PS DT
 egen JJ DT
 urin NN PA
 och KN ROOT
-gnider VB +F
+gnider VB PLF
 sig PN OO
 mot PP RA
 trädstammen NN PA
@@ -55633,8 +55633,8 @@ byte NN PA
 
 Det PN FS
 finns VB ROOT
-emellertid AB +A
-även AB +A
+emellertid AB PLA
+även AB PLA
 ' PAD IC
 lågspänningsfiskar NN ES
 ' PAD JC
@@ -55692,7 +55692,7 @@ orientering NN PA
 Möjligen AB MA
 tjänstgör VB ROOT
 de PN SS
-även AB +A
+även AB PLA
 som KN SP
 ett DT DT
 kommunikationssystem NN UA
@@ -55715,7 +55715,7 @@ vattnet NN SS
 är VB MS
 grumligt JJ SP
 och KN ET
-sikten NN +F
+sikten NN PLF
 obetydlig JJ SP
 . MAD IP
 
@@ -55738,7 +55738,7 @@ liksom PP KA
 kräftdjur NN CJ
 och KN UA
 valar NN CJ
-även AB +A
+även AB PLA
 akustiska JJ AT
 signaler NN OO
 . MAD IP
@@ -55790,7 +55790,7 @@ dessa DT DT
 gruppers NN DT
 ljudsignaler NN PA
 torde VB ROOT
-alltså AB +A
+alltså AB PLA
 inte AB NA
 förekomma VB VG
 . MAD IP
@@ -55827,7 +55827,7 @@ metallstav NN PA
 , MID IK
 i PP RA
 naturen NN PA
-djurkroppar NN +F
+djurkroppar NN PLF
 - MID IT
 konvergerar VB ROOT
 kraftlinjerna NN SS
@@ -56010,7 +56010,7 @@ individuella JJ AT
 borevir NN PA
 har VB ROOT
 trutarna NN SS
-även AB +A
+även AB PLA
 ' PAD IC
 kommunala JJ AT
 ' PAD JC
@@ -56130,7 +56130,7 @@ fläck NN PA
 Det PN FS
 visade VB ROOT
 sig PN OO
-även AB +A
+även AB PLA
 , MID IK
 att SN ES
 röd JJ AT
@@ -56182,7 +56182,7 @@ lever VB MS
 djuren NN SS
 parvis AB AA
 och KN ROOT
-kommunicerar VB +F
+kommunicerar VB PLF
 med PP OA
 varandra PN PA
 genom PP AA
@@ -56206,7 +56206,7 @@ båda JJ DT
 föräldrarna NN SS
 ute AB RA
 och KN AA
-fiskar VB +F
+fiskar VB PLF
 , MID IK
 hålls VB ROOT
 inkräktare NN SS
@@ -56256,10 +56256,10 @@ hastighet NN CJ
 vid PP TA
 förflyttning NN PA
 , MID IK
-väcker VB +F
+väcker VB PLF
 alarmberedskap NN OO
 , MID IK
-tar VB +F
+tar VB PLF
 initiativ NN OO
 till PP OA
 betning NN PA
@@ -56373,7 +56373,7 @@ generation NN PA
 till PP OA
 generation NN PA
 och KN MS
-är VB +F
+är VB PLF
 därmed AB PA
 föremål NN SP
 för PP OA
@@ -56435,7 +56435,7 @@ lever VB ET
 i PP AA
 samhällen NN PA
 och KN ROOT
-faller VB +F
+faller VB PLF
 därför AB AA
 lättare AB AA
 offer NN PL
@@ -56465,12 +56465,12 @@ storlek NN SS
 sjunker VB UA
 . MAD IP
 
-Även AB +A
+Även AB PLA
 i PP AA
 detta DT DT
 fall NN PA
 gynnas VB ROOT
-alltså AB +A
+alltså AB PLA
 arten NN SS
 av PP AG
 kolonibildningen NN PA
@@ -56535,7 +56535,7 @@ arterna NN PA
 
 Gruppbildning NN SS
 ger VB ROOT
-också AB +A
+också AB PLA
 möjlighet NN OO
 till PP ET
 en DT DT
@@ -56559,7 +56559,7 @@ beteendet NN SS
 hos PP ET
 insekter NN PA
 är VB MS
-dock AB +A
+dock AB PLA
 mera AB AA
 stereotypt JJ SP
 än KN KA
@@ -56579,7 +56579,7 @@ samhällsbildande PC AT
 insekter NN PA
 , MID IK
 som HP SS
-för PP +A
+för PP PLA
 övrigt JJ HD
 endast AB CA
 omfattar VB ET
@@ -56749,7 +56749,7 @@ under PP TA
 hela JJ DT
 livet NN PA
 utan KN ROOT
-nedärvs VB +F
+nedärvs VB PLF
 fixt AB CJ
 och KN AA
 färdigt AB CJ
@@ -56776,7 +56776,7 @@ relativt AB AA
 kort JJ SP
 och KN UA
 inlärning NN SS
-är VB +F
+är VB PLF
 en DT DT
 tidskrävande PC AT
 procedur NN SP
@@ -56786,7 +56786,7 @@ Risken NN SS
 för PP ET
 felprestationer NN PA
 blir VB ROOT
-också AB +A
+också AB PLA
 mindre JJ SP
 . MAD IP
 
@@ -56911,7 +56911,7 @@ nödvändig JJ AT
 förutsättning NN SP
 , MID IK
 men KN ROOT
-även AB +A
+även AB PLA
 aggressionen NN SS
 mot PP ET
 individer NN PA
@@ -56932,7 +56932,7 @@ djur NN SS
 från PP OA
 fortplantning NN PA
 och KN ROOT
-kan VB +F
+kan VB PLF
 t.o.m. AB CA
 ibland AB TA
 dödas VB VG
@@ -56990,7 +56990,7 @@ inte AB NA
 längre AB TA
 tänderna NN OO
 utan KN ROOT
-vänder VB +F
+vänder VB PLF
 bort PL PL
 huvudet NN OO
 . MAD IP
@@ -57030,7 +57030,7 @@ som HA MA
 tidigare AB TA
 nämnts VB UA
 , MID IK
-även AB +A
+även AB PLA
 en DT DT
 social JJ AT
 rangordning NN OO
@@ -57061,7 +57061,7 @@ samhället NN PA
 
 Detta PN SS
 är VB ROOT
-emellertid AB +A
+emellertid AB PLA
 ett DT DT
 område NN SP
 där HA RA
@@ -57084,7 +57084,7 @@ mellan PP ET
 olika JJ AT
 arter NN PA
 har VB MS
-även AB +A
+även AB PLA
 stor JJ AT
 betydelse NN OO
 för PP OA
@@ -57093,7 +57093,7 @@ förekomst NN PA
 i PP ET
 naturen NN PA
 och KN ROOT
-ger VB +F
+ger VB PLF
 vad HP XA
 man PN SS
 i PP AA
@@ -57168,13 +57168,13 @@ olika JJ AT
 sociala JJ AT
 utlösningsmekanismer NN PA
 är VB MS
-även AB +A
+även AB PLA
 en DT DT
 form NN SP
 av PP ET
 isolering NN PA
 och KN ROOT
-kan VB +F
+kan VB PLF
 ha VB VG
 liknande PC AT
 betydelse NN OO
@@ -57209,7 +57209,7 @@ igenkänningssignal NN OO
 inom PP ET
 arten NN PA
 och KN ROOT
-utgör VB +F
+utgör VB PLF
 därför AB AA
 en DT DT
 barriär NN OO
@@ -57316,7 +57316,7 @@ klorörelser NN SS
 Honorna NN SS
 identifierar VB MS
 och KN ROOT
-lockas VB +F
+lockas VB PLF
 av PP AG
 den DT DT
 egna JJ DT
@@ -57486,7 +57486,7 @@ ur PP AA
 historisk JJ AT
 synpunkt NN PA
 och KN ROOT
-sökt VB +F
+sökt VB PLF
 peka VB VG
 på PP OA
 några DT DT
@@ -57509,7 +57509,7 @@ staden NN CJ
 och KN PA
 dess PS DT
 miljö NN CJ
-också AB +A
+också AB PLA
 från PP AA
 andra JJ DT
 utgångspunkter NN PA
@@ -57646,7 +57646,7 @@ Till PP OA
 denna DT DT
 typ NN PA
 kan VB ROOT
-också AB +A
+också AB PLA
 räknas VB VG
 den DT DT
 socialistiska JJ AT
@@ -57856,7 +57856,7 @@ trakter NN PA
 Södra JJ AT
 stambanan NN SS
 passerar VB ROOT
-således AB +A
+således AB PLA
 varken KN VA
 genom PP CJ
 Jönköping PM CJ
@@ -57874,7 +57874,7 @@ gamla JJ AT
 städer NN PA
 . MAD IP
 
-I PP +A
+I PP PLA
 stället NN HD
 uppkom VB ROOT
 nya JJ AT
@@ -58008,14 +58008,14 @@ och KN AT
 formell JJ CJ
 monumentalitet NN PA
 , MID IK
-saknar VB +F
+saknar VB PLF
 den DT DT
 naturvuxna JJ AT
 medeltida JJ AT
 stadens NN DT
 intimitet NN OO
 , MID IK
-har VB +F
+har VB PLF
 öppna JJ AT
 platser NN OO
 , MID IK
@@ -58036,7 +58036,7 @@ folktomma JJ CJ
 , MID SP
 livlösa JJ CJ
 , MID IK
-har VB +F
+har VB PLF
 husen NN OO
 grupperade PC OP
 i PP AA
@@ -58115,7 +58115,7 @@ bara AB CA
 av PP CJ
 monumentalitetsidealet NN PA
 utan KN OA
-också AB +A
+också AB PLA
 av PP CJ
 de DT DT
 höga JJ AT
@@ -58125,7 +58125,7 @@ som HP SS
 framtvingade VB MS
 exploateringen NN OO
 och KN ET
-gav VB +F
+gav VB PLF
 upphov NN OO
 till PP OA
 de DT DT
@@ -58192,7 +58192,7 @@ Medeltidens NN DT
 trånga JJ AT
 städer NN SS
 hade VB ROOT
-emellertid AB +A
+emellertid AB PLA
 inget DT DT
 rum NN OO
 för PP OA
@@ -58271,7 +58271,7 @@ ena JJ HD
 sidan NN HD
 och KN AN
 allmänningarna NN CJ
-å PP +A
+å PP PLA
 den DT HD
 andra JJ HD
 . MAD IP
@@ -58308,7 +58308,7 @@ fritt AB AA
 vuxen PC AT
 natur NN SP
 och KN ROOT
-gett VB +F
+gett VB PLF
 mönster NN OO
 åt PP OA
 den DT DT
@@ -58410,7 +58410,7 @@ oaser NN UA
 genom PP RA
 städerna NN PA
 och KN ROOT
-håller VB +F
+håller VB PLF
 isär PL PL
 bebyggelseområdena NN OO
 . MAD IP
@@ -58524,7 +58524,7 @@ ett DT DT
 hyreshus NN PA
 , MID IK
 en DT DT
-hyreskasern NN +F
+hyreskasern NN PLF
 intill PP RA
 en DT DT
 villa NN PA
@@ -58718,7 +58718,7 @@ av PP OA
 kroppsliga JJ AT
 olikheter NN PA
 utan KN OO
-också AB +A
+också AB PLA
 de DT DT
 skilda PC AT
 roller NN CJ
@@ -58828,7 +58828,7 @@ i PP RA
 olika JJ AT
 skolor NN PA
 och KN UA
-fick VB +F
+fick VB PLF
 olika JJ AT
 utbildning NN OO
 . MAD IP
@@ -58840,7 +58840,7 @@ i PP RA
 samma DT DT
 skolor NN PA
 och KN ROOT
-erbjuds VB +F
+erbjuds VB PLF
 samma DT DT
 utbildning NN OO
 . MAD IP
@@ -58889,7 +58889,7 @@ huvudansvaret NN OO
 för PP OA
 försörjningen NN PA
 , MID IK
-kvinnorna NN +F
+kvinnorna NN PLF
 huvudansvaret NN OO
 för PP OA
 hushåll NN CJ
@@ -58919,7 +58919,7 @@ t.ex. AB CA
 laga VB IF
 mat NN OO
 och KN ES
-sy VB +F
+sy VB PLF
 och KN EO
 att SN CJ
 därför AB AA
@@ -58950,7 +58950,7 @@ till PP OA
 könsrollen NN PA
 , MID IK
 och KN ROOT
-menar VB +F
+menar VB PLF
 , MID IK
 att SN OO
 pojkar NN SS
@@ -59137,13 +59137,13 @@ kvinna NN CJ
 ingår VB MS
 äktenskap NN OO
 och KN UA
-bildar VB +F
+bildar VB PLF
 familj NN OO
 har VB ROOT
 alltid AB TA
 ansetts VB MS
 och KN VG
-anses VB +F
+anses VB PLF
 av PP AG
 de DT DT
 flesta JJ PA
@@ -59220,7 +59220,7 @@ arbetskraft NN PA
 Men KN ROOT
 den PN SS
 kan VB MS
-också AB +A
+också AB PLA
 innebära VB VG
 en DT DT
 ekonomisk JJ AT
@@ -59258,7 +59258,7 @@ industrialiseringen NN SS
 som HP SS
 tränger VB ET
 fram PL PL
-även AB +A
+även AB PLA
 där AB RA
 , MID IK
 medför VB MS
@@ -59313,7 +59313,7 @@ man NN PA
 
 Man PN SS
 kan VB ROOT
-också AB +A
+också AB PLA
 fråga VB VG
 , MID IK
 om SN OO
@@ -59384,7 +59384,7 @@ polygami NN PA
 
 Vanligare JJ SP
 är VB ROOT
-emellertid AB +A
+emellertid AB PLA
 monogami NN SS
 : MID IQ
 en RG DT
@@ -59463,7 +59463,7 @@ monogami NN SS
 den DT DT
 vanligaste JJ AT
 familjeformen NN SP
-även AB +A
+även AB PLA
 utanför PP RA
 den DT DT
 kristna JJ AT
@@ -59474,7 +59474,7 @@ Den DT DT
 monogama JJ AT
 familjeformen NN SS
 medför VB ROOT
-dock AB +A
+dock AB PLA
 många JJ DT
 problem NN OO
 , MID IK
@@ -59670,7 +59670,7 @@ Familjen NN SS
 var VB ROOT
 i PP AA
 regel NN PA
-också AB +A
+också AB PLA
 stor JJ SP
 , MID IK
 inte AB NA
@@ -59691,14 +59691,14 @@ till PP OA
 gårdens NN DT
 sysslor NN PA
 utan KN AA
-också AB +A
+också AB PLA
 genom PP CJ
 att SN PA
 äldre JJ AT
 generationer NN SS
 , MID IK
-kanske AB +F
-också AB +A
+kanske AB PLF
+också AB PLA
 ogifta JJ AT
 syskon NN SS
 , MID IK
@@ -59743,7 +59743,7 @@ i PP RA
 hemmet NN PA
 och KN ROOT
 inte AB NA
-i PP +F
+i PP PLF
 gemenskap NN PA
 mellan PP ET
 familjens NN DT
@@ -59752,7 +59752,7 @@ medlemmar NN PA
 
 Där AB RA
 har VB ROOT
-också AB +A
+också AB PLA
 den DT DT
 enskildes JJ DT
 läggning NN CJ
@@ -59770,7 +59770,7 @@ att SN OO
 familjens NN DT
 medlemmar NN SS
 splittras VB UA
-också AB +A
+också AB PLA
 i PP CJ
 fråga NN HD
 om PP HD
@@ -59798,7 +59798,7 @@ sover VB ET
 
 Samtidigt AB TA
 upplever VB ROOT
-dock AB +A
+dock AB PLA
 de DT DT
 flesta JJ SS
 ett DT DT
@@ -59913,7 +59913,7 @@ har VB RA
 upphört VB VG
 , MID IK
 har VB CJ
-också AB +A
+också AB PLA
 äktenskapet NN SS
 upphört VB VG
 . MAD IP
@@ -59937,7 +59937,7 @@ kunde VB MS
 överta VB VG
 gården NN OO
 och KN ET
-försörja VB +F
+försörja VB PLF
 föräldrarna NN OO
 på PP TA
 deras PS DT
@@ -60012,7 +60012,7 @@ arvingar NN UA
 Sexuellt JJ AT
 samliv NN SS
 har VB ROOT
-emellertid AB +A
+emellertid AB PLA
 till PP OP
 syfte NN PA
 inte AB NA
@@ -60026,7 +60026,7 @@ barn NN PA
 
 Det PN SS
 är VB ROOT
-också AB +A
+också AB PLA
 i PP AA
 sig PN PA
 själv JJ PT
@@ -60044,7 +60044,7 @@ kvinna NN CJ
 
 Det PN SS
 innebär VB ROOT
-vidare AB +A
+vidare AB PLA
 njutning NN OO
 för PP OA
 den DT DT
@@ -60090,7 +60090,7 @@ barn NN PA
 , MID IK
 kan VB ROOT
 man PN SS
-dock AB +A
+dock AB PLA
 göra VB VG
 tillkomsten NN OO
 av PP ET
@@ -60112,7 +60112,7 @@ utanför PP ET
 etiskt AB AA
 rätt JJ SP
 eller KN UA
-inte AB +F
+inte AB PLF
 , MID IK
 i PP RA
 ett DT DT
@@ -60151,7 +60151,7 @@ orätt JJ SP
 
 Det PN FS
 finns VB ROOT
-också AB +A
+också AB PLA
 de PN ES
 som HP SS
 anser VB ET
@@ -60194,14 +60194,14 @@ hindrar VB ROOT
 ingenting PN SS
 att SN OO
 man PN SS
-också AB +A
+också AB PLA
 ligger VB UA
 tillsammans AB AA
 . MAD IP
 
 De PN SS
 gör VB ROOT
-alltså AB +A
+alltså AB PLA
 ingen DT DT
 klar JJ AT
 skillnad NN OO
@@ -60329,14 +60329,14 @@ fram AB AA
 till PP ET
 äktenskapet NN PA
 , MID IK
-2 RG +A
+2 RG PLA
 ) PAD JR
 sexuellt JJ AT
 samliv NN CJ
 före PP ET
 äktenskapet NN PA
 , MID IK
-3 RG +A
+3 RG PLA
 ) PAD JR
 äktenskap NN CJ
 redan AB CA
@@ -60352,7 +60352,7 @@ praktiseras VB ROOT
 alla PN FP
 medför VB MS
 de PN SS
-också AB +A
+också AB PLA
 svårigheter NN OO
 . MAD IP
 
@@ -60379,7 +60379,7 @@ välståndet NN SS
 ökat VB MS
 och KN UA
 folkbildningen NN SS
-blivit VB +F
+blivit VB PLF
 allt AB AA
 mer AB HD
 omfattande PC SP
@@ -60424,7 +60424,7 @@ ca AB AA
 ) PAD JR
 , MID IK
 dvs. AB CA
-med PP +F
+med PP PLF
 ca AB AA
 60 RG DT
 % NN PA
@@ -60493,7 +60493,7 @@ största JJ AT
 andelen NN PA
 , MID IK
 men KN ROOT
-även AB +A
+även AB PLA
 våldsbrotten NN SS
 ( PAD IR
 misshandel NN CJ
@@ -60563,7 +60563,7 @@ brottsligheten NN PA
 Troligen AB MA
 finns VB ROOT
 det PN FS
-dock AB +A
+dock AB PLA
 i PP AA
 stort AB HD
 sett PC HD
@@ -60610,7 +60610,7 @@ kan VB ROOT
 i PP AA
 detta DT DT
 sammanhang NN PA
-alltså AB +A
+alltså AB PLA
 tala VB VG
 om PP OA
 barnbrottslighet NN PA
@@ -60728,7 +60728,7 @@ mindre JJ AT
 del NN SS
 blir VB ROOT
 kriminella JJ SP
-också AB +A
+också AB PLA
 som KN TA
 äldre JJ AT
 ungdomar NN CJ
@@ -60743,7 +60743,7 @@ att IE MS
 förebygga VB IF
 brottslighet NN OO
 och KN ET
-ingripa VB +F
+ingripa VB PLF
 mot PP OA
 lagöverträdare NN PA
 måste VB ROOT
@@ -60849,7 +60849,7 @@ ersatte VB ROOT
 strafflag NN OO
 , MID IK
 som HP SS
-i PP +A
+i PP PLA
 sin PS HD
 tur NN HD
 hade VB ET
@@ -60881,16 +60881,16 @@ med PP OA
 svåra JJ AT
 kroppsstraff NN PA
 , MID IK
-dråp NN +F
+dråp NN PLF
 med PP OA
 dödsstraff NN PA
-osv AB +F
+osv AB PLF
 . MAD IP
 
 Upplysningstidens NN DT
 ideer NN SS
 medförde VB ROOT
-dock AB +A
+dock AB PLA
 en DT DT
 humanisering NN OO
 av PP ET
@@ -60980,7 +60980,7 @@ begå VB IF
 nya JJ AT
 brott NN OO
 och KN UA
-återinpassas VB +F
+återinpassas VB PLF
 i PP RA
 ett DT DT
 normalt JJ AT
@@ -61074,7 +61074,7 @@ allt AB AA
 större JJ AT
 utsträckning NN PA
 tillämpas VB ROOT
-dock AB +A
+dock AB PLA
 kriminalvård NN SS
 i PP ET
 frihet NN PA
@@ -61116,7 +61116,7 @@ intagna PC SS
 isoleras VB MS
 socialt AB AA
 och KN ROOT
-återfaller VB +F
+återfaller VB PLF
 i PP AA
 stor JJ AT
 utsträckning NN PA
@@ -61129,7 +61129,7 @@ kriminalvården NN SS
 i PP ET
 frihet NN PA
 medför VB MS
-också AB +A
+också AB PLA
 svåra JJ AT
 problem NN OO
 . MAD IP
@@ -61212,7 +61212,7 @@ Statistisk JJ PA
 . MAD IP
 
 Se VB ROOT
-vidare AB +A
+vidare AB PLA
 Brottsbalken NN OO
 kap. NN DT
 8 RG ET
@@ -61336,7 +61336,7 @@ SOS NN AN
 . MAD IP
 
 Se VB ROOT
-också AB +A
+också AB PLA
 Sveri PM OO
 m.fl. AB CJ
 , MID IK
@@ -61351,7 +61351,7 @@ förebygga VB IF
 ungdomsbrottslighet NN OO
 finns VB MS
 eller KN ROOT
-borde VB +F
+borde VB PLF
 finnas VB VG
 ? MAD I?
 
@@ -61420,7 +61420,7 @@ teori NN SS
 haft VB MS
 ( PAD IR
 och KN VG
-har VB +F
+har VB PLF
 den PN SS
 fortfarande AB TA
 ) PAD JR
@@ -61529,7 +61529,7 @@ samlevnadssvårigheter NN PA
 ligger VB UA
 djupare JJ AA
 , MID IK
-är VB +F
+är VB PLF
 beroende PC SP
 av PP OA
 fundamentala JJ AT
@@ -61576,7 +61576,7 @@ av PP OA
 arvsmässiga JJ AT
 faktorer NN PA
 om SN AA
-än AB +A
+än AB PLA
 i PP UA
 obetydlig JJ AT
 grad NN PA
@@ -61690,7 +61690,7 @@ har VB ROOT
 tillåtit VB MS
 eller KN VG
 snarare AB XA
-främjat VB +F
+främjat VB PLF
 framväxten NN OO
 av PP ET
 enorma JJ AT
@@ -61789,7 +61789,7 @@ och KN SP
 påfallande JJ CJ
 är VB ROOT
 kanske AB MA
-ändå AB +A
+ändå AB PLA
 kubmentaliteten NN SS
 i PP ET
 förorterna NN PA
@@ -61802,7 +61802,7 @@ varandra PN PA
 men KN PA
 utan PP OP
 kontakt NN PA
-med PP +F
+med PP PLF
 varandra PN PA
 . MAD IP
 
@@ -62018,10 +62018,10 @@ till PL PL
 med PP OA
 tvätten NN PA
 och KN MS
-lägger VB +F
+lägger VB PLF
 barnen NN OO
 och KN ROOT
-slår VB +F
+slår VB PLF
 sig PN OO
 sedan AB TA
 till PP PL
@@ -62033,7 +62033,7 @@ medan SN TA
 mamma NN SS
 diskar VB MS
 och KN UA
-kommer VB +F
+kommer VB PLF
 med PP AA
 vatten NN PA
 när HA TA
@@ -62133,7 +62133,7 @@ för PP ET
 alla PN PA
 och KN ET
 sedan AB TA
-utspelas VB +F
+utspelas VB PLF
 i PP RA
 en DT DT
 miljö NN PA
@@ -62176,7 +62176,7 @@ och KN PT
 underbeskyddade PC MS
 av PP AG
 och KN CJ
-kontaktoförmögna JJ +F
+kontaktoförmögna JJ PLF
 på PP AA
 ett DT DT
 normalt AB AT
@@ -62225,7 +62225,7 @@ sina PS DT
 förutsättningar NN CJ
 och KN UA
 inte AB NA
-i PP +F
+i PP PLF
 enlighet NN HD
 med PP HD
 det DT DT
@@ -62268,7 +62268,7 @@ och KN AT
 känslomässigt JJ CJ
 begåvningsmönster NN PA
 , MID OO
-inte AB +F
+inte AB PLF
 som KN CJ
 kvinna NN UA
 lika AB CA
@@ -62361,7 +62361,7 @@ känna VB OO
 varandra PN OO
 och KN UA
 samman PL PL
-i PP +F
+i PP PLF
 ett DT DT
 inbördes JJ AT
 förtroende NN PA
@@ -62435,7 +62435,7 @@ mänskliga JJ AT
 relationer NN UA
 . MAD IP
 
-Emellertid AB +A
+Emellertid AB PLA
 ger VB ROOT
 varken KN VA
 Kristus PM CJ
@@ -62530,7 +62530,7 @@ konsekvenser NN CJ
 
 Därför AB AA
 måste VB ROOT
-också AB +A
+också AB PLA
 överenskommelsen NN SS
 göras VB VG
 offentligt AB CJ
@@ -62609,7 +62609,7 @@ ingående NN CJ
 , MID IK
 finns VB ROOT
 det PN FS
-också AB +A
+också AB PLA
 olika JJ AT
 möjligheter NN ES
 att IE MS
@@ -62620,7 +62620,7 @@ ett DT DT
 bestående PC AT
 äktenskap NN OO
 och KN ET
-ingå VB +F
+ingå VB PLF
 ett DT DT
 nytt JJ OO
 . MAD IP
@@ -62666,7 +62666,7 @@ problem NN UA
 
 Det PN SS
 är VB ROOT
-nämligen AB +A
+nämligen AB PLA
 ingen DT DT
 tvekan NN SP
 om PP OA
@@ -62710,7 +62710,7 @@ på PP CJ
 hans PS DT
 motståndare NN PA
 utan KN OA
-också AB +A
+också AB PLA
 på PP CJ
 dem PN PA
 som HP SS
@@ -62884,7 +62884,7 @@ samlivet NN PA
 Därför AB AA
 går VB ROOT
 det PN FS
-heller AB +A
+heller AB PLA
 inte AB NA
 att IE ES
 stämpla VB IF
@@ -62947,7 +62947,7 @@ fördjupas VB MS
 i PP AA
 stabilitet NN PA
 och KN UA
-leder VB +F
+leder VB PLF
 till PP OA
 äktenskap NN PA
 . MAD IP
@@ -63016,7 +63016,7 @@ aktiviteten NN SS
 är VB MS
 särpräglad PC SP
 och KN ROOT
-betingad PC +F
+betingad PC PLF
 av PP AG
 drifts- NN CJ
 och KN PA
@@ -63032,7 +63032,7 @@ etisk JJ AT
 besinning NN OO
 . MAD IP
 
-Också AB +A
+Också AB PLA
 detta PN OO
 måste VB ROOT
 den DT DT
@@ -63063,7 +63063,7 @@ Den DT DT
 sexuella JJ AT
 handlingen NN SS
 är VB ROOT
-också AB +A
+också AB PLA
 betingad PC SP
 av PP AG
 faktorer NN PA
@@ -63200,7 +63200,7 @@ lyckligt JJ AT
 äktenskap NN PA
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 innebär VB ROOT
 den PN SS
 ofta AB TA
@@ -63240,7 +63240,7 @@ Exemplet NN SS
 från PP ET
 Utah PM PA
 ger VB ROOT
-också AB +A
+också AB PLA
 anledning NN OO
 att IE OA
 ställa VB IF
@@ -63314,7 +63314,7 @@ avgörelse NN PA
 i PP ET
 sann JJ AT
 d.v.s. AB CA
-personlig JJ +F
+personlig JJ PLF
 mening NN PA
 . MAD IP
 
@@ -63367,7 +63367,7 @@ En DT DT
 social JJ AT
 gemenskap NN SS
 kan VB ROOT
-å PP +A
+å PP PLA
 andra JJ HD
 sidan NN HD
 inte AB NA
@@ -63378,7 +63378,7 @@ av PP ET
 social JJ AT
 kontroll NN PA
 som HP SS
-också AB +A
+också AB PLA
 inbegriper VB ET
 ett DT DT
 sanktionssystem NN OO
@@ -63393,7 +63393,7 @@ det PN SS
 kärleken NN XX
 , MID IK
 inte AB NA
-fruktan NN +F
+fruktan NN PLF
 för PP ET
 sanktioner NN PA
 som HP SS
@@ -63433,7 +63433,7 @@ ont NN CJ
 
 Vi PN SS
 har VB ROOT
-också AB +A
+också AB PLA
 gett VB VG
 exempel NN OO
 på PP OA
@@ -63560,7 +63560,7 @@ sexualmoralen NN PA
 
 Den PN SS
 kommer VB ROOT
-tvärtom AB +A
+tvärtom AB PLA
 att IE VG
 ge VB IF
 enskilda JJ IO
@@ -63663,7 +63663,7 @@ mycket AB AA
 åt PP OA
 barnen NN PA
 och KN ROOT
-kan VB +F
+kan VB PLF
 omöjligt AB AA
 komma VB VG
 på PL PL
@@ -63701,18 +63701,18 @@ vore VB MS
 försumlig JJ SP
 , MID IK
 inte AB NA
-tyckte VB +F
+tyckte VB PLF
 om PL PL
 mina PS DT
 barn NN OO
 , MID IK
 inte AB NA
-vore VB +F
+vore VB PLF
 kompetent JJ SP
 eller KN UA
 något DT DT
 dylikt JJ DT
-oförskämt JJ +F
+oförskämt JJ PLF
 . MAD IP
 
 Men KN ROOT
@@ -63733,7 +63733,7 @@ lika AB AA
 
 Det PN SS
 är VB ROOT
-också AB +A
+också AB PLA
 tiden NN CJ
 ute AB ET
 , MID IK
@@ -63756,7 +63756,7 @@ föredra VB VG
 barn NN OO
 och KN ROOT
 den DT DT
-andre JJ +F
+andre JJ PLF
 yrkesarbete NN OO
 ? MAD I?
 
@@ -63817,7 +63817,7 @@ Vi PN SS
 båda JJ FP
 studenter NN SP
 och KN ROOT
-kan VB +F
+kan VB PLF
 planera VB VG
 vår PS DT
 tid NN OO
@@ -63975,7 +63975,7 @@ annan JJ DT
 storleksordning NN PA
 , MID IK
 kanske AB MA
-oöverstigliga JJ +F
+oöverstigliga JJ PLF
 . MAD IP
 
 Men KN ROOT
@@ -64047,7 +64047,7 @@ de PN SS
 väljer VB UA
 fritt AB AA
 och KN ROOT
-hänvisar VB +F
+hänvisar VB PLF
 till PP OA
 ' PAD IC
 läggning NN CJ
@@ -64192,7 +64192,7 @@ hjälper VB MS
 en PN OO
 tillrätta PL PL
 och KN ET
-försöker VB +F
+försöker VB PLF
 hindra VB OO
 en PN OO
 från PP OA
@@ -64213,7 +64213,7 @@ ens PS DT
 fru NN SS
 håller VB PA
 hus NN PL
-, MID +F
+, MID PLF
 alla DT DT
 registreringstillfällen NN CJ
 där HA RA
@@ -64256,7 +64256,7 @@ nya JJ AT
 faderskapets NN DT
 evangelium NN OO
 och KN ET
-ge VB +F
+ge VB PLF
 några DT DT
 konkreta JJ AT
 bevis NN OO
@@ -64280,7 +64280,7 @@ erbjöd VB ET
 sig PN OO
 att IE VO
 byta VB IF
-även AB +A
+även AB PLA
 på PP OA
 mitt PS DT
 barn NN PA
@@ -64295,8 +64295,8 @@ in PL PL
 ett DT DT
 extra JJ AT
 kol NN OO
-och KN +F
-hade VB +F
+och KN PLF
+hade VB PLF
 bytt VB CJ
 och KN VG
 klätt VB CJ
@@ -64416,7 +64416,7 @@ till PP SP
 min PS DT
 förmån NN PA
 eller KN UA
-ej AB +F
+ej AB PLF
 . MAD IP
 
 Det PN SS
@@ -64492,7 +64492,7 @@ på PP OA
 sin PS DT
 pappa-roll NN PA
 och KN UA
-låter VB +F
+låter VB PLF
 mamman NN OO
 ta VB VO
 över PL PL
@@ -64509,7 +64509,7 @@ tröstandet NN UA
 Visst AB MA
 måste VB ROOT
 man PN SS
-också AB +A
+också AB PLA
 vara VB VG
 beredd PC SP
 på PP OA
@@ -64548,10 +64548,10 @@ av PP AG
 mamman NN PA
 ( PAD IR
 och KN UA
-vice UO +A
+vice UO PLA
 versa UO HD
 , MID IK
-naturligtvis AB +F
+naturligtvis AB PLF
 ) PAD JR
 . MAD IP
 
@@ -64569,7 +64569,7 @@ som HP PA
 den DT DT
 i PP RA
 könsrollsfrågan NN PA
-för PP +A
+för PP PLA
 övrigt JJ HD
 progressive JJ AT
 professor NN DT
@@ -64707,8 +64707,8 @@ olämplig JJ SP
 som KN KA
 barnavårdare NN UA
 och KN UA
-alltså AB +A
-kan VB +F
+alltså AB PLA
+kan VB PLF
 fråndömas VB VG
 vårdarskapet NN OO
 så AB DB
@@ -64805,7 +64805,7 @@ barnet NN UA
 . MAD IP
 
 Om SN AA
-alltså AB +A
+alltså AB PLA
 en DT DT
 barnpsykolog NN SS
 är VB UA
@@ -64888,7 +64888,7 @@ gett VB MS
 stöd NN OO
 åt PP OA
 och KN VG
-förstärkt VB +F
+förstärkt VB PLF
 mera AB AA
 yrkesvänliga JJ AT
 hustrurollnormer NN PA
@@ -65039,7 +65039,7 @@ harmoniska JJ AT
 utveckling NN PA
 - MID IT
 ett DT DT
-behov NN +F
+behov NN PLF
 som HP OO
 det PN FS
 huvudsakligen AB AA
@@ -65212,7 +65212,7 @@ familjemedlemmarnas NN DT
 inre JJ AT
 relationer NN CJ
 och KN AN
-å PP +A
+å PP PLA
 andra JJ HD
 sidan NN HD
 familjemedlemmarnas NN DT
@@ -65486,7 +65486,7 @@ relationer NN OO
 
 Sociologer NN SS
 har VB ROOT
-också AB +A
+också AB PLA
 uttryckt VB VG
 farhågor NN OO
 för PP OA
@@ -65625,7 +65625,7 @@ den DT DT
 officiella JJ SP
 och KN VS
 därvid AB AA
-den PN +F
+den PN PLF
 som HP PA
 samhället NN SS
 grundar VB ET
@@ -65678,7 +65678,7 @@ flera JJ DT
 områden NN PA
 aktivera VB IF
 och KN CJ
-dra VB +F
+dra VB PLF
 in PL PL
 familjemedlemmarna NN OO
 i PP RA
@@ -65703,7 +65703,7 @@ familjerna NN PA
 
 Om SN CJ
 kvinnorna NN SS
-även AB +A
+även AB PLA
 i PP TA
 fortsättningen NN PA
 inriktas VB UA
@@ -65772,7 +65772,7 @@ den DT DT
 förändrade PC AT
 gruppstrukturen NN SS
 har VB MS
-också AB +A
+också AB PLA
 en DT DT
 annan JJ DT
 effekt NN OO
@@ -65803,7 +65803,7 @@ andra JJ DT
 sekundära JJ AT
 grupprelationer NN CJ
 och KN ROOT
-riskerar VB +F
+riskerar VB PLF
 att IE OO
 hämmas VB IF
 i PP AA
@@ -65967,7 +65967,7 @@ bestånd NN PA
 
 Sedan SN TA
 det PN FS
-sålunda AB +A
+sålunda AB PLA
 fastslagits VB UA
 , MID IK
 att SN ES
@@ -66055,8 +66055,8 @@ med PP ET
 äktenskapets NN DT
 stiftelse NN PA
 som HP XX
-härutöver AB +A
-än AB +A
+härutöver AB PLA
+än AB PLA
 kan VB SS
 anges VB VG
 , MID IK
@@ -66068,7 +66068,7 @@ ett DT DT
 andrahandssyfte NN SP
 . MAD IP
 
-Å PP +A
+Å PP PLA
 andra JJ HD
 sidan NN HD
 följer VB ROOT
@@ -66175,7 +66175,7 @@ såsom HA KA
 uppenbart JJ SP
 är VB UA
 - MID JT
-skapat VB +F
+skapat VB PLF
 man NN CJ
 och KN OO
 kvinna NN CJ
@@ -66195,14 +66195,14 @@ skulle VB UA
 hålla VB VG
 samman PL PL
 , MID IK
-vara VB +F
+vara VB PLF
 fruktsamma JJ SP
 , MID IK
-föda VB +F
+föda VB PLF
 barn NN OO
 , MID IK
 försörja VB CJ
-och KN +F
+och KN PLF
 uppfostra VB CJ
 dem PN OO
 till PP AA
@@ -66230,7 +66230,7 @@ samhället NN OO
 till PP SP
 gagn NN PA
 och KN ET
-främja VB +F
+främja VB PLF
 Guds PM DT
 kunskap NN CJ
 , MID IK
@@ -66264,7 +66264,7 @@ barnafödandet NN CJ
 och KN SS
 barnuppfostrandet NN CJ
 är VB ROOT
-alltså AB +A
+alltså AB PLA
 äktenskapets NN DT
 primära JJ AT
 syftning NN SP
@@ -66279,14 +66279,14 @@ läroframställningar NN PA
 om PP ET
 äktenskapet NN PA
 brukar VB ROOT
-dessutom AB +A
+dessutom AB PLA
 tre RG DT
 andra JJ DT
 syften NN SS
 anges VB OO
 , MID IK
 tillsammans AB AA
-alltså AB +A
+alltså AB PLA
 fyra RG DT
 syften NN AN
 : MAD IQ
@@ -66360,7 +66360,7 @@ tid NN PA
 är VB ROOT
 det PN FS
 nog AB MA
-däremot AB +A
+däremot AB PLA
 inte AB NA
 vanligt JJ SP
 , MID IK
@@ -66388,7 +66388,7 @@ otukt NN OO
 ' PAD JC
 
 Och KN ROOT
-dock AB +A
+dock AB PLA
 är VB MS
 denna DT DT
 motivering NN SS
@@ -66535,9 +66535,9 @@ sin PS DT
 egen JJ DT
 hustru NN OO
 , MID IK
-och KN +F
+och KN PLF
 var DT DT
-kvinna NN +F
+kvinna NN PLF
 sin PS DT
 egen JJ DT
 man NN OO
@@ -66594,7 +66594,7 @@ skriver VB ROOT
 : MAD IQ
 
 ' PAD IC
-Ty KN +A
+Ty KN PLA
 där HA RA
 naturen NN SS
 har VB RA
@@ -66617,7 +66617,7 @@ utanför PP RA
 förbliva VB IF
 kysk JJ SP
 , MID IK
-ty KN +A
+ty KN PLA
 kött NN CJ
 och KN SS
 blod NN CJ
@@ -66673,7 +66673,7 @@ undvika VB IF
 okyskhet NN OO
 , MID IK
 har VB ROOT
-också AB +A
+också AB PLA
 Gud PM SS
 befallt VB VG
 det DT DT
@@ -66691,14 +66691,14 @@ sin PS DT
 beskärda JJ AT
 del NN OO
 och KN UA
-låta VB +F
+låta VB PLF
 nöja VB VS
 sig PN OO
 därmed AB OA
 , MID IK
 ehuruväl SN AA
 härvid AB AA
-även AB +A
+även AB PLA
 Guds PM DT
 nåd NN SS
 är VB UA
@@ -66706,7 +66706,7 @@ nödvändig JJ SP
 , MID IK
 för PP AA
 att SN HD
-också AB +A
+också AB PLA
 hjärtat NN SS
 må VB UA
 bevaras VB VG
@@ -66789,7 +66789,7 @@ tycker VB MS
 om PL PL
 och KN MS
 ' PAD IC
-älskar VB +F
+älskar VB PLF
 ' PAD JC
 det PN OO
 som HP SS
@@ -66887,7 +66887,7 @@ Kristi PM DT
 kärlek NN PA
 . MAD IP
 
-Däremot AB +A
+Däremot AB PLA
 kan VB ROOT
 man PN SS
 i PP MA
@@ -66937,7 +66937,7 @@ det PN SS
 bör VB MS
 förverkligas VB VG
 och KN UA
-ges VB +F
+ges VB PLF
 självständig JJ AT
 ställning NN OO
 . MAD IP
@@ -66972,7 +66972,7 @@ kärlek NN PA
 
 Det PN SS
 är VB ROOT
-i PP +A
+i PP PLA
 stället NN HD
 i PP XX
 den DT DT
@@ -67101,7 +67101,7 @@ någon DT DT
 sorts NN DT
 självständighet NN PA
 eller KN ROOT
-gömmas VB +F
+gömmas VB PLF
 under PP RA
 någon PN DT
 annans PS DT
@@ -67125,8 +67125,8 @@ som HP SS
 skall VB ET
 självständigförklaras VB VG
 , MID IK
-ömsom KN +A
-kuvas VB +F
+ömsom KN PLA
+kuvas VB PLF
 under PP RA
 varandra PN PA
 . MAD IP
@@ -67147,7 +67147,7 @@ Syftet NN SS
 med PP ET
 äktenskapet NN PA
 kan VB ROOT
-alltså AB +A
+alltså AB PLA
 enligt PP MA
 bibeln NN PA
 aldrig AB TA
@@ -67159,7 +67159,7 @@ sig PN OO
 själv JJ PT
 ' PAD JC
 eller KN SP
-vara VB +F
+vara VB PLF
 medel NN SP
 till PP OA
 att SN PA
@@ -67255,7 +67255,7 @@ vara VB IF
 livsvaraktig JJ SP
 . MAD IP
 
-Däremot AB +A
+Däremot AB PLA
 är VB ROOT
 det PN SS
 inte AB NA
@@ -67441,7 +67441,7 @@ sig PN PA
 
 Det PN SS
 betyder VB ROOT
-också AB +A
+också AB PLA
 att SN OO
 det PN SS
 inte AB NA
@@ -67456,7 +67456,7 @@ skapar VB EF
 , MID IK
 det PN OO
 gör VB MS
-i PP +A
+i PP PLA
 stället NN HD
 de DT DT
 båda JJ DT
@@ -67467,7 +67467,7 @@ själva JJ PT
 Nu AB TA
 kan VB ROOT
 man PN SS
-emellertid AB +A
+emellertid AB PLA
 inte AB NA
 som HA KA
 vi PN SS
@@ -67512,7 +67512,7 @@ allmänmänskliga JJ SP
 Här AB RA
 visar VB ROOT
 sig PN OO
-tvärtom AB +A
+tvärtom AB PLA
 ' PAD IC
 andligt JJ CJ
 ' PAD JC
@@ -67834,11 +67834,11 @@ ett DT DT
 sakrament NN UA
 . MAD IP
 
-Även AB +A
+Även AB PLA
 där AB RA
 är VB ROOT
 det PN SS
-dock AB +A
+dock AB PLA
 de DT DT
 båda JJ DT
 makarna NN XX
@@ -67847,7 +67847,7 @@ har VB EF
 huvudrollen NN OO
 , MID IK
 inte AB NA
-prästen NN +F
+prästen NN PLF
 . MAD IP
 
 Det PN FS
@@ -67963,7 +67963,7 @@ ett DT DT
 
 Här AB RA
 bör VB ROOT
-alltså AB +A
+alltså AB PLA
 rent AB AA
 terminologiskt AB AA
 gränsen NN SS
@@ -68117,7 +68117,7 @@ kristen JJ AT
 etik NN PA
 . MAD IP
 
-Också AB +A
+Också AB PLA
 där AB RA
 måste VB ROOT
 denna DT DT
@@ -68138,7 +68138,7 @@ kort AB AA
 sagt PC XA
 social JJ AT
 välfärd NN CJ
-också AB +A
+också AB PLA
 för PP ET
 det DT DT
 väntade PC AT
@@ -68346,7 +68346,7 @@ ett DT DT
 nytt JJ PA
 . MAD IP
 
-Slutligen AB +A
+Slutligen AB PLA
 finns VB ROOT
 det PN FS
 säkert AB MA
@@ -68393,7 +68393,7 @@ Här AB RA
 visar VB ROOT
 det PN FS
 sig PN OO
-nämligen AB +A
+nämligen AB PLA
 kort AB AA
 sagt PC XA
 , MID IK
@@ -68553,7 +68553,7 @@ måste VB EF
 redovisas VB VG
 . MAD IP
 
-Däremot AB +A
+Däremot AB PLA
 är VB ROOT
 det PN FS
 ett DT DT
@@ -68583,7 +68583,7 @@ konsekvenser NN SP
 av PP ET
 detta PN PA
 blir VB ROOT
-alltså AB +A
+alltså AB PLA
 inte AB NA
 att SN CJ
 man PN SS
@@ -68615,7 +68615,7 @@ accepterar VB ET
 de DT DT
 kristna JJ AT
 villkoren NN OO
-istället AB +A
+istället AB PLA
 skall VB UA
 ingå VB VG
 sitt PS DT
@@ -68728,7 +68728,7 @@ måste VB ROOT
 erkänna VB VG
 värdet NN OO
 av PP ET
-också AB +A
+också AB PLA
 den DT DT
 rent AB AA
 sexuella JJ AT
@@ -68748,7 +68748,7 @@ och KN PA
 lycka NN CJ
 . MAD IP
 
-Dock AB +A
+Dock AB PLA
 är VB ROOT
 det PN FS
 samtidigt AB TA
@@ -68814,7 +68814,7 @@ människor NN SS
 utbildar VB MS
 vanor NN OO
 och KN UA
-därmed AB +F
+därmed AB PLF
 behov NN OO
 . MAD IP
 
@@ -68994,7 +68994,7 @@ att IE MS
 växa VB IF
 samman PL PL
 och KN ET
-anpassa VB +F
+anpassa VB PLF
 sig PN OO
 till PP OA
 varann PN PA
@@ -69046,7 +69046,7 @@ ett DT DT
 ideal NN PA
 , MID IK
 inte AB NA
-något PN +F
+något PN PLF
 som HP SS
 skall VB ET
 vara VB VG
@@ -69088,7 +69088,7 @@ en DT DT
 vital JJ AT
 tillgång NN UA
 , MID IK
-dels KN +A
+dels KN PLA
 måste VB MS
 vi PN SS
 självklart AB AA
@@ -69122,7 +69122,7 @@ skilsmässan NN SS
 finnas VB VG
 , MID IK
 men KN ROOT
-också AB +A
+också AB PLA
 då AB TA
 finns VB MS
 förlåtelsen NN SS
@@ -69164,7 +69164,7 @@ kristna JJ AT
 etiken NN PA
 i PP RA
 denna PN PA
-också AB +A
+också AB PLA
 kan VB UA
 finna VB VG
 den DT DT
@@ -69234,7 +69234,7 @@ ansvaret NN OO
 för PP OA
 barnens NN DT
 uppfostran NN PA
-och KN +F
+och KN PLF
 att SN CJ
 de PN SS
 endast AB CA
@@ -69275,7 +69275,7 @@ inställning NN OO
 till PP OA
 och KN MS
 större JJ AT
-förståelse NN +F
+förståelse NN PLF
 för PP OA
 det DT DT
 motsatta PC AT
@@ -69307,7 +69307,7 @@ mödrar NN UA
 , MID IK
 kommer VB ROOT
 det PN FS
-också AB +A
+också AB PLA
 att IE VG
 bli VB IF
 lättare JJ SP
@@ -69324,7 +69324,7 @@ förskollärare NN CJ
 
 Detta PN SS
 kommer VB ROOT
-i PP +A
+i PP PLA
 sin PS HD
 tur NN HD
 att IE VG
@@ -69346,7 +69346,7 @@ genom PP AA
 att SN PA
 de PN SS
 då AB TA
-i PP +A
+i PP PLA
 stället NN HD
 kan VB UA
 få VB VG
@@ -69421,7 +69421,7 @@ extraknäck NN OO
 och KN ET
 nästan AB AA
 aldrig AB TA
-träffar VB +F
+träffar VB PLF
 sina PS DT
 barn NN OO
 . MAD IP
@@ -69479,7 +69479,7 @@ men KN ROOT
 så AB AA
 gott AB HD
 som KN HD
-ingen PN +F
+ingen PN PLF
 om PP OA
 effekterna NN PA
 av PP ET
@@ -69521,7 +69521,7 @@ utifrån PP RA
 enstaka JJ DT
 fall NN PA
 och KN ROOT
-tar VB +F
+tar VB PLF
 till PL PL
 moraliserande PC AT
 brösttoner NN OO
@@ -69554,7 +69554,7 @@ de DT DT
 förvärvsarbetande PC AT
 mödrarna NN OO
 ser VB ROOT
-i PP +A
+i PP PLA
 stället NN HD
 dessa DT DT
 kvinnors NN DT
@@ -69576,7 +69576,7 @@ och KN SP
 osäkra JJ CJ
 . MAD IP
 
-Också AB +A
+Också AB PLA
 bland PP RA
 barnpsykiater NN CJ
 , MID IK
@@ -69693,7 +69693,7 @@ Rätt AB AA
 snart AB TA
 fick VB ROOT
 Bowlby PM SS
-emellertid AB +A
+emellertid AB PLA
 delvis AB AA
 revidera VB VG
 sina PS DT
@@ -69751,7 +69751,7 @@ rent AB AA
 fysiska JJ AT
 behov NN OO
 utan KN OO
-också AB +A
+också AB PLA
 den PN CJ
 som HP SS
 tillfredsställer VB ET
@@ -69812,7 +69812,7 @@ knappast AB NA
 någon DT DT
 seriös JJ AT
 modern JJ AT
-forskare NN +F
+forskare NN PLF
 som HP SS
 sagt VB EF
 - MID JT
@@ -69828,7 +69828,7 @@ står VB EF
 för PP OA
 kontakten NN PA
 , MID OO
-2. RG +A
+2. RG PLA
 det PN SS
 måste VB CJ
 vara VB VG
@@ -69840,7 +69840,7 @@ som HP SS
 vårdar VB EF
 barnet NN OO
 , MID IK
-3. RG +F
+3. RG PLF
 att SN OO
 den PN CJ
 eller KN SS
@@ -69911,7 +69911,7 @@ varit VB MS
 så AB AA
 - MID IT
 och KN VG
-är VB +F
+är VB PLF
 väl AB MA
 fortfarande AB TA
 i PP RA
@@ -69964,7 +69964,7 @@ tidigaste JJ AT
 barnaåren NN PA
 och KN SS
 därav AB AA
-dra VB +F
+dra VB PLF
 slutsatsen NN OO
 att SN ET
 mamma NN SS
@@ -70029,7 +70029,7 @@ för PP ET
 sitt PS DT
 ställningstagande NN PA
 , MID OA
-dels KN +A
+dels KN PLA
 till PP CJ
 deras PS DT
 möjligheter NN PA
@@ -70052,7 +70052,7 @@ dem PN PA
 
 Man PN SS
 måste VB ROOT
-också AB +A
+också AB PLA
 ta VB VG
 hänsyn NN OO
 till PP CJ
@@ -70130,7 +70130,7 @@ det PN SS
 mycket AB AA
 litet AB AA
 och KN ROOT
-forskas VB +F
+forskas VB PLF
 ännu AB AA
 mindre AB AA
 . MAD IP
@@ -70199,7 +70199,7 @@ i PP TA
 3-årsåldern NN PA
 . MAD IP
 
-Också AB +A
+Också AB PLA
 i PP TA
 småskoleåldern NN PA
 behöver VB ROOT
@@ -70246,7 +70246,7 @@ där AB RA
 vilken HD DT
 väg NN OO
 de PN SS
-än AB +A
+än AB PLA
 väljer VB AA
 , MID IK
 om SN AA
@@ -70289,7 +70289,7 @@ daghem NN CJ
 och KN OO
 lekskolor NN CJ
 och KN ES
-låta VB +F
+låta VB PLF
 samma DT DT
 institution NN OO
 ha VB VO
@@ -70354,7 +70354,7 @@ utökas VB VG
 
 Arbetsmarknaden NN SS
 måste VB ROOT
-också AB +A
+också AB PLA
 visa VB VG
 mer JJ DT
 förståelse NN OO
@@ -70390,7 +70390,7 @@ sköta VB VG
 barnen NN OO
 själv JJ FP
 måste VB ROOT
-också AB +A
+också AB PLA
 ges VB VG
 . MAD IP
 
@@ -70435,7 +70435,7 @@ med PP ET
 föräldrarnas NN DT
 heltidsarbete NN PA
 kunde VB ROOT
-emellertid AB +A
+emellertid AB PLA
 minskas VB VG
 om SN AA
 det PN FS
@@ -70447,7 +70447,7 @@ man PN SS
 på PP AA
 annat JJ DT
 sätt NN PA
-hjälpte VB +F
+hjälpte VB PLF
 föräldrarna NN OO
 att IE OA
 ha VB IF
@@ -70474,7 +70474,7 @@ slut NN PA
 Båda JJ DT
 föräldrarna NN SS
 skulle VB ROOT
-också AB +A
+också AB PLA
 ha VB VG
 möjlighet NN OO
 till PP OA
@@ -70489,7 +70489,7 @@ barnen NN SS
 små JJ SP
 . MAD IP
 
-Även AB +A
+Även AB PLA
 den DT DT
 förälder NN SS
 som HP SS
@@ -70515,7 +70515,7 @@ avkoppling NN OO
 från PP OA
 barnen NN PA
 och KN ROOT
-borde VB +F
+borde VB PLF
 inte AB NA
 behöva VB VG
 släpa VB VG
@@ -70658,7 +70658,7 @@ som HP SS
 förpestade VB MS
 familjelivet NN OO
 och KN ET
-därigenom AB +F
+därigenom AB PLF
 hela JJ DT
 samhället NN OO
 . MAD IP
@@ -70738,7 +70738,7 @@ roll NN OO
 som KN AN
 familjeförsörjare NN UA
 skulle VB MS
-i PP +A
+i PP PLA
 stället NN HD
 skapas VB VG
 ett DT DT
@@ -70779,7 +70779,7 @@ respekt NN CJ
 
 Det PN FS
 uppstår VB ROOT
-emellertid AB +A
+emellertid AB PLA
 en DT DT
 konfliktsituation NN ES
 då HA TA
@@ -70820,7 +70820,7 @@ från PP OA
 den DT DT
 uppgiften NN PA
 och KN SS
-låta VB +F
+låta VB PLF
 sköterskor NN OO
 ta VB VO
 hand NN PL
@@ -70921,7 +70921,7 @@ fast JJ AT
 punkt NN PA
 . MAD IP
 
-Även AB +A
+Även AB PLA
 kibbutzbarn NN SS
 kan VB MS
 utsättas VB VG
@@ -70947,7 +70947,7 @@ personer NN OO
 som HP SS
 känner VB MS
 och KN ET
-tar VB +F
+tar VB PLF
 hand NN PL
 om PP OA
 dem PN OO
@@ -70956,7 +70956,7 @@ svåra JJ AT
 situationer NN PA
 . MAD IP
 
-Å PP +A
+Å PP PLA
 andra JJ HD
 sidan NN HD
 kan VB ROOT
@@ -71009,7 +71009,7 @@ inte AB NA
 bara AB CA
 barnen NN CJ
 utan KN IO
-även AB +A
+även AB PLA
 kvinnorna NN CJ
 ett DT DT
 ekonomiskt JJ AT
@@ -71096,7 +71096,7 @@ barnen NN OO
 ; MID IQ
 det PN SS
 blir VB MS
-i PP +A
+i PP PLA
 stället NN HD
 en DT SP
 uppgift NN PA
@@ -71236,7 +71236,7 @@ barnsköterska NN SP
 till PP AA
 yrket NN PA
 är VB ROOT
-däremot AB +A
+däremot AB PLA
 en DT DT
 omtyckt JJ CJ
 och KN AT
@@ -71263,7 +71263,7 @@ barnskötare NN SS
 tycks VB MS
 vara VB VS
 otänkbara JJ SP
-även AB +A
+även AB PLA
 på PP RA
 kibbutzerna NN PA
 . MAD IP
@@ -71306,7 +71306,7 @@ sysslorna NN SS
 inom PP ET
 kollektivet NN PA
 kvarstår VB MS
-dock AB +A
+dock AB PLA
 att IE AA
 utföras VB IF
 och KN ROOT
@@ -71340,7 +71340,7 @@ de DT DT
 mer AB AA
 produktiva JJ AT
 och KN PA
-kvinnorna NN +F
+kvinnorna NN PLF
 i PP RA
 de DT DT
 mer AB AA
@@ -71473,10 +71473,10 @@ sig PN OO
 från PP OA
 andra PN PA
 och KN ROOT
-i PP +F
+i PP PLF
 så AB HD
 fall NN HD
-på PP +F
+på PP PLF
 vilket HD DT
 sätt NN PA
 ? MAD I?
@@ -71505,7 +71505,7 @@ omgivning NN PA
 
 De PN SS
 kan VB MS
-också AB +A
+också AB PLA
 verka VB VG
 rätt AB AA
 högljudda JJ CJ
@@ -71518,7 +71518,7 @@ med PP AA
 föräldrarna NN PA
 mycket AB AA
 respektlösa JJ CJ
-och KN +F
+och KN PLF
 tillgivna JJ CJ
 . MAD IP
 
@@ -71535,7 +71535,7 @@ de DT DT
 positiva JJ AT
 dragen NN OO
 och KN MS
-upptäcker VB +F
+upptäcker VB PLF
 inte AB NA
 variationer NN OO
 mellan PP ET
@@ -71565,7 +71565,7 @@ längre JJ AT
 tid NN PA
 och KN ROOT
 helst AB MA
-jämföra VB +F
+jämföra VB PLF
 dem PN OO
 med PP OA
 barn NN PA
@@ -71649,7 +71649,7 @@ jämförelsegrupper NN UA
 En DT DT
 moshav NN SS
 är VB ROOT
-också AB +A
+också AB PLA
 ett DT DT
 jordbrukskollektiv NN SP
 , MID IK
@@ -71675,7 +71675,7 @@ kvar AB RA
 hos PP RA
 föräldrarna NN PA
 och KN MS
-uppfostras VB +F
+uppfostras VB PLF
 av PP AG
 dessa PN PA
 på PP AA
@@ -71683,7 +71683,7 @@ vanligt JJ AT
 sätt NN PA
 , MID IK
 men KN ROOT
-för PP +A
+för PP PLA
 övrigt JJ HD
 är VB MS
 de DT DT
@@ -71725,7 +71725,7 @@ undersöker VB ET
 tillräckligt AB AA
 stora JJ SP
 och KN UA
-utvalda PC +F
+utvalda PC PLF
 på PP AA
 riktigt JJ AT
 sätt NN PA
@@ -71984,7 +71984,7 @@ handikapp NN SP
 för PP OA
 kibbutzbarnen NN PA
 och KN OO
-fördröja VB +F
+fördröja VB PLF
 deras PS DT
 utveckling NN OO
 , MID IK
@@ -72092,7 +72092,7 @@ med PP OA
 jämnåriga JJ AT
 moshavbarn NN PA
 och KN ROOT
-fick VB +F
+fick VB PLF
 som KN OP
 resultat NN UA
 en DT DT
@@ -72143,7 +72143,7 @@ hinder NN OO
 och KN ET
 mer AB MA
 än KN HD
-kompenserar VB +F
+kompenserar VB PLF
 för PP OA
 de DT DT
 brister NN PA
@@ -72184,7 +72184,7 @@ av PP ET
 år NN PA
 eller KN ROOT
 olika JJ AT
-barn NN +F
+barn NN PLF
 på PP ET
 varje DT DT
 åldersnivå NN PA
@@ -72201,7 +72201,7 @@ sena JJ AT
 utveckling NN SS
 trodde VB ROOT
 han PN SS
-dock AB +A
+dock AB PLA
 kunde VB OO
 bero VB VG
 delvis AB AA
@@ -72279,7 +72279,7 @@ men KN ET
 inte AB NA
 alltid AB TA
 helt AB AA
-tillförlitliga JJ +F
+tillförlitliga JJ PLF
 . MAD IP
 
 De DT DT
@@ -72351,7 +72351,7 @@ uppfostran NN PA
 , MID OA
 att SN CJ
 de PN SS
-tvärtom AB +A
+tvärtom AB PLA
 verkar VB UA
 välanpassade PC CJ
 , MID IK
@@ -72691,7 +72691,7 @@ män NN CJ
 
 Detta PN SS
 skedde VB ROOT
-nämligen AB +A
+nämligen AB PLA
 vid PP TA
 1919 RG DT
 års NN DT
@@ -72735,7 +72735,7 @@ att SN HD
 rösträtten NN SS
 blev VB UA
 allmän JJ SP
-även AB +A
+även AB PLA
 för PP OA
 männen NN PA
 . MAD IP
@@ -72777,7 +72777,7 @@ i PP ET
 vårt PS DT
 land NN PA
 liksom PP KA
-också AB +A
+också AB PLA
 den DT DT
 gifta PC AT
 kvinnans NN DT
@@ -72953,12 +72953,12 @@ inte AB NA
 bättre JJ SP
 , MID IK
 snarare AB MA
-sämre JJ +F
+sämre JJ PLF
 . MAD IP
 
 Kvinnan NN SS
 har VB ROOT
-sålunda AB +A
+sålunda AB PLA
 långt AB OO
 att IE OA
 gå VB IF
@@ -72980,7 +72980,7 @@ motiverar VB ET
 
 Det PN FS
 kanske AB MA
-också AB +A
+också AB PLA
 bör VB ROOT
 påpekas VB VG
 att SN ES
@@ -73054,7 +73054,7 @@ förvaltningar NN CJ
 . MAD IP
 
 Inte AB NA
-heller AB +A
+heller AB PLA
 i PP AA
 fråga NN HD
 om PP HD
@@ -73106,7 +73106,7 @@ på PP HD
 kön NN PA
 . MAD IP
 
-Å PP +A
+Å PP PLA
 andra JJ HD
 sidan NN HD
 föreligger VB ROOT
@@ -73133,7 +73133,7 @@ Nedslående PC SP
 är VB ROOT
 att SN SS
 de PN DT
-i PP +A
+i PP PLA
 övrigt JJ HD
 aktiva JJ AT
 löntagarorganisationerna NN SS
@@ -73151,7 +73151,7 @@ aktioner NN HD
 
 Det PN FS
 bör VB ROOT
-nämligen AB +A
+nämligen AB PLA
 kraftigt AB AA
 understrykas VB VG
 att SN ES
@@ -73169,7 +73169,7 @@ de DT DT
 minst AB AA
 ansvariga JJ AT
 och KN UA
-därmed AB +F
+därmed AB PLF
 lägst AB AA
 avlönade PC AT
 funktionerna NN OO
@@ -73268,7 +73268,7 @@ skolutbildning NN PA
 
 Detta PN SS
 återspeglas VB ROOT
-också AB +A
+också AB PLA
 i PP RA
 siffrorna NN PA
 för PP ET
@@ -73336,7 +73336,7 @@ lönsamma JJ CJ
 yrkena NN PA
 . MAD IP
 
-Också AB +A
+Också AB PLA
 i PP AA
 fråga NN HD
 om PP HD
@@ -73377,7 +73377,7 @@ För PP OA
 dem PN PA
 tycks VB ROOT
 inte AB NA
-heller AB +A
+heller AB PLA
 de DT DT
 s.k. AB XT
 typiska JJ AT
@@ -73446,7 +73446,7 @@ på PP ET
 alla DT PA
 stadier NN HD
 , MID IK
-dock AB +A
+dock AB PLA
 med PP HD
 tonvikten NN OO
 på PP RA
@@ -73462,7 +73462,7 @@ barn NN PA
 i PP ET
 förskolåldern NN PA
 och KN AN
-på PP +F
+på PP PLF
 lågstadiet NN PA
 där HA RA
 män NN SS
@@ -73564,7 +73564,7 @@ ett DT DT
 motsvarande PC DT
 ointresse NN SS
 finns VB MS
-också AB +A
+också AB PLA
 inom PP RA
 arbetsmarknadens NN DT
 stora JJ CJ
@@ -73589,7 +73589,7 @@ som HP SS
 förklarar VB MS
 men KN ET
 inte AB NA
-ursäktar VB +F
+ursäktar VB PLF
 : MAD IQ
 
 Den DT DT
@@ -73652,7 +73652,7 @@ kvinnan NN SS
 blir VB MS
 moder NN SP
 eller KN UA
-ej AB +F
+ej AB PLF
 , MID AA
 oavsett PP CJ
 det DT DT
@@ -73817,7 +73817,7 @@ eller KN ET
 av PP AG
 naturens NN DT
 ordning NN PA
-förnekas VB +F
+förnekas VB PLF
 barn NN OO
 . MAD IP
 
@@ -73834,7 +73834,7 @@ utsatt PC SP
 mannen NN UA
 inte AB NA
 endast AB CA
-biologiskt AB +F
+biologiskt AB PLF
 . MAD IP
 
 Konventionerna NN SS
@@ -73859,13 +73859,13 @@ ska VB MS
 gifta VB VG
 sig PN OO
 och KN UA
-helst AB +F
+helst AB PLF
 tidigt AB TA
 . MAD IP
 
 De PN SS
 kräver VB ROOT
-också AB +A
+också AB PLA
 att SN OO
 varje DT DT
 kvinna NN SS
@@ -73880,7 +73880,7 @@ undantag NN PA
 
 Äktenskapet NN SS
 omges VB ROOT
-också AB +A
+också AB PLA
 med PP OA
 romantiska JJ AT
 föreställningar NN PA
@@ -73926,7 +73926,7 @@ skull NN HD
 
 Det PN SS
 måste VB ROOT
-också AB +A
+också AB PLA
 bli VB VG
 en DT DT
 mer AB AA
@@ -74081,7 +74081,7 @@ vill VB MS
 ha VB VG
 barn NN OO
 eller KN UA
-ej AB +F
+ej AB PLF
 har VB ROOT
 den DT DT
 kanske AB MA
@@ -74214,7 +74214,7 @@ och KN UA
 kvinnorna NN SS
 mera AB AA
 allmänt AB AA
-inser VB +F
+inser VB PLF
 värdet NN OO
 av PP ET
 en DT DT
@@ -74222,7 +74222,7 @@ god JJ CJ
 och KN AT
 krävande PC CJ
 utbildning NN PA
-även AB +A
+även AB PLA
 när HA TA
 de PN SS
 hunnit VB TA
@@ -74285,7 +74285,7 @@ bli VB IF
 avgörande PC SP
 och KN OO
 därmed AB AA
-vanebildande PC +F
+vanebildande PC PLF
 förr AB TA
 eller KN HD
 senare AB HD
@@ -74328,7 +74328,7 @@ ska VB UA
 ha VB VG
 rätt NN OO
 att IE MS
-även AB +A
+även AB PLA
 som KN AA
 ensamstående JJ UA
 välja VB IF
@@ -74338,7 +74338,7 @@ ett DT DT
 huvudyrke NN UA
 eller KN ET
 en DT DT
-kombination NN +F
+kombination NN PLF
 mellan PP ET
 detta DT DT
 yrke NN CJ
@@ -74353,7 +74353,7 @@ personliga JJ AT
 relationer NN CJ
 och KN SS
 samhällsrelationer NN CJ
-i PP +A
+i PP PLA
 övrigt JJ HD
 annorlunda AB AA
 än KN KA
@@ -74386,7 +74386,7 @@ en DT DT
 individ NN UA
 , MID IK
 inte AB NA
-som KN +F
+som KN PLF
 något DT DT
 slags NN DT
 biologiskt JJ AT
@@ -74427,7 +74427,7 @@ till PP OA
 biologiska JJ AT
 realiteter NN CJ
 men KN PA
-också AB +A
+också AB PLA
 individens NN DT
 rättigheter NN CJ
 . MAD IP
@@ -74492,7 +74492,7 @@ tid NN HD
 inser VB ET
 detta PN OO
 har VB ROOT
-också AB +A
+också AB PLA
 störst JJ AT
 utsikt NN OO
 att IE ET
@@ -74548,7 +74548,7 @@ emancipation NN PA
 ? MAD I?
 
 Och KN ROOT
-dessutom AB +A
+dessutom AB PLA
 en DT DT
 emancipation NN OA
 som HP OO
@@ -74591,7 +74591,7 @@ Jo IN ROOT
 kvinnorna NN SS
 måste VB MS
 betrakta VB VG
-även AB +A
+även AB PLA
 detta PN OO
 som KN OP
 sin PS DT
@@ -74600,7 +74600,7 @@ angelägenhet NN UA
 
 Målet NN SS
 är VB ROOT
-alltså AB +A
+alltså AB PLA
 att SN CJ
 kvinnan NN SS
 skall VB UA
@@ -74635,7 +74635,7 @@ utöva VB IF
 ett DT DT
 yrke NN OO
 och KN ET
-ha VB +F
+ha VB PLF
 hem NN CJ
 och KN OO
 barn NN CJ
@@ -74810,7 +74810,7 @@ som HP SS
 utplånar VB MS
 sig PN OO
 och KN ET
-blir VB +F
+blir VB PLF
 trotjänarinnor NN SP
 ( PAD IR
 för PP AA
@@ -74866,7 +74866,7 @@ undantagsfall NN SP
 regel NN UA
 . MAD IP
 
-Även AB +A
+Även AB PLA
 i PP RA
 de DT DT
 fall NN PA
@@ -74937,7 +74937,7 @@ håller VB MS
 av PL PL
 mannen NN OO
 och KN UA
-vill VB +F
+vill VB PLF
 hålla VB VG
 ihop PL PL
 äktenskapet NN OO
@@ -75030,14 +75030,14 @@ pojkarnas NN DT
 gunst NN PA
 . MAD IP
 
-Också AB +A
+Också AB PLA
 en DT DT
 form NN ROOT
 av PP ET
 naturligt JJ AT
 förräderi NN PA
 , MID IK
-alltså AB +A
+alltså AB PLA
 . MAD IP
 
 Men KN ROOT
@@ -75059,10 +75059,10 @@ sin PS DT
 man NN OO
 lycklig JJ OP
 , MID IK
-barnen NN +F
+barnen NN PLF
 välskötta PC OP
 och KN PA
-hemmet NN +F
+hemmet NN PLF
 trivsamt JJ OP
 , MID IK
 förkväver VB ET
@@ -75075,7 +75075,7 @@ intressen NN CJ
 Mannen NN SS
 uppbygger VB ROOT
 henne PN OO
-också AB +A
+också AB PLA
 gärna AB MA
 med PP AA
 att SN PA
@@ -75141,15 +75141,15 @@ klättra VB MS
 på PP RA
 samhällststegen NN PA
 , MID IK
-avancera VB +F
+avancera VB PLF
 , MID IK
-få VB +F
+få VB PLF
 befordran NN OO
 , MID IK
-göra VB +F
+göra VB PLF
 karriär NN OO
 , MID VG
-höja VB +F
+höja VB PLF
 familjens NN DT
 levnadsstandard NN OO
 . MAD IP
@@ -75464,7 +75464,7 @@ måste VB MS
 framhålla VB VG
 att SN OO
 vi PN SS
-dessutom AB +A
+dessutom AB PLA
 har VB UA
 uppgifter NN OO
 , MID IK
@@ -75555,7 +75555,7 @@ könen NN PA
 
 Han PN SS
 påpekar VB ROOT
-också AB +A
+också AB PLA
 att SN OO
 psykoanalytiker NN SS
 hävdar VB UA
@@ -75693,7 +75693,7 @@ inte AB NA
 lusten NN SS
 att IE ET
 vårda VB IF
-i PP +A
+i PP PLA
 stället NN HD
 ses VB VG
 som KN SP
@@ -75723,7 +75723,7 @@ får VB MS
 datastyrda PC AT
 fabriker NN OO
 och KN TA
-måste VB +F
+måste VB PLF
 sysselsätta VB VG
 allt AB DT
 fler JJ HD
@@ -75751,7 +75751,7 @@ sig PN OO
 efter PP AA
 manssamhället NN PA
 och KN UA
-anamma VB +F
+anamma VB PLF
 dess PS DT
 värderingar NN OO
 ? MAD I?
@@ -75945,7 +75945,7 @@ yrkesarbete NN UA
 som KN HD
 helst AB HD
 och KN UA
-berättigar VB +F
+berättigar VB PLF
 till PP OA
 ATP PM PA
 . MAD IP
@@ -75959,7 +75959,7 @@ vill VB MS
 vara VB VG
 med PL PL
 och KN ROOT
-konkurrera VB +F
+konkurrera VB PLF
 om PP OA
 hemmaåren NN PA
 som KN ET
@@ -76010,7 +76010,7 @@ allt AB DT
 fler JJ HD
 år NN TA
 , MID IK
-håller VB +F
+håller VB PLF
 oss PN OO
 vitala JJ OP
 upp AB TA
@@ -76054,13 +76054,13 @@ som HP SS
 är VB ET
 den DT DT
 arbetsammaste JJ SP
-men KN +F
+men KN PLF
 samtidigt AB TA
 den DT DT
 mest AB AT
 levande PC SP
 , MID IK
-betydelsefull JJ +F
+betydelsefull JJ PLF
 för PP OA
 personlighetsutvecklingen NN PA
 både KN CJ
@@ -76279,7 +76279,7 @@ att IE MS
 utvecklas VB IF
 till PP SP
 och KN ET
-få VB +F
+få VB PLF
 leva VB VG
 som KN SP
 en DT DT
@@ -76475,7 +76475,7 @@ familj NN OO
 ert PS DT
 hjärta NN OP
 - MID IT
-ja IN +F
+ja IN PLF
 , MID IK
 hela JJ DT
 samhället NN CJ
@@ -76517,7 +76517,7 @@ historien NN PA
 
 Allt PN SS
 var VB ROOT
-alltså AB +A
+alltså AB PLA
 ganska AB AA
 bra JJ SP
 tills SN TA
@@ -76536,7 +76536,7 @@ kurs NN PA
 genom PP AA
 arbetsförmedlingen NN PA
 och KN ROOT
-tänkte VB +F
+tänkte VB PLF
 att SN OO
 som KN AA
 kontorist NN UA
@@ -76603,7 +76603,7 @@ bilkåren NN CJ
 kyrkligt JJ AT
 församlingsarbete NN CJ
 och KN ROOT
-som KN +F
+som KN PLF
 sjukhusvärdinnor NN UA
 för PP MA
 att IE PA
@@ -76614,7 +76614,7 @@ exempel NN OO
 
 Verksamheter NN CJ
 som HP SS
-ytterst AB +A
+ytterst AB PLA
 kommer VB ET
 samhället NN OO
 till PP PL
@@ -76639,7 +76639,7 @@ socialbyrån NN PA
 hur HA AA
 nödvändigt JJ SP
 det PN SS
-än AB +A
+än AB PLA
 är VB AA
 . MAD IP
 
@@ -76701,7 +76701,7 @@ behöver VB MS
 ses VB VG
 till PL PL
 och KN ET
-vårdas VB +F
+vårdas VB PLF
 - MID IT
 skall VB MS
 allt DT DT
@@ -76765,7 +76765,7 @@ på PP OA
 lönen NN PA
 direkt AB AA
 , MID IK
-nämligen AB +A
+nämligen AB PLA
 . MAD IP
 
 Vi PN SS
@@ -76783,7 +76783,7 @@ med PP OA
 en DT DT
 distriktsveterinär NN PA
 och KN ROOT
-sköter VB +F
+sköter VB PLF
 telefonmottagning NN OO
 utan PP AA
 ersättning NN PA
@@ -76833,7 +76833,7 @@ små JJ SP
 Jag PN SS
 har VB ROOT
 ju AB MA
-dessutom AB +A
+dessutom AB PLA
 en DT DT
 hel JJ DT
 del NN DT
@@ -77043,12 +77043,12 @@ och KN SP
 harmonisk JJ CJ
 , MID IK
 aldrig AB TA
-haft VB +F
+haft VB PLF
 städhjälp NN CJ
 eller KN OO
 motsvarande PC CJ
 , MID VG
-fixat VB +F
+fixat VB PLF
 det DT DT
 mesta JJ OO
 , MID IK
@@ -77352,7 +77352,7 @@ beroende PC SP
 av PP OA
 förtjänsten NN PA
 och KN ET
-accepterar VB +F
+accepterar VB PLF
 det PN OO
 som KN ET
 det PN SS
@@ -77434,7 +77434,7 @@ rak JJ AT
 stil NN AN
 ) PAD JR
 och KN ROOT
-Kajsa PM +F
+Kajsa PM PLF
 Ohrlander PM HD
 : MID IQ
 Kvinnor NN ET
@@ -77600,7 +77600,7 @@ talar VB MS
 om PP OA
 - MID IT
 och KN ET
-har VB +F
+har VB PLF
 - MID JT
 en DT DT
 valfrihet NN PA
@@ -77718,13 +77718,13 @@ vårdar VB ROOT
 miljonvärden NN OO
 ' PAD JC
 , MID IK
-talar VB +F
+talar VB PLF
 för PP OA
 det DT DT
 borgerligt-individualistiska JJ AT
 livsmönstret NN PA
 , MID IK
-deltar VB +F
+deltar VB PLF
 i PP OA
 det DT DT
 farliga JJ AT
@@ -77775,7 +77775,7 @@ egen JJ DT
 situation NN OO
 - MID IT
 och KN PA
-på PP +F
+på PP PLF
 sikt NN PA
 det DT DT
 ekonomiska JJ AT
@@ -77801,7 +77801,7 @@ finnas VB MS
 kvar PL PL
 - MID IT
 och KN IF
-försvaras VB +F
+försvaras VB PLF
 av PP AG
 de DT DT
 privilegierade PC AT
@@ -77828,7 +77828,7 @@ ger VB MS
 mannen NN IO
 markservice NN OO
 och KN ROOT
-fungerar VB +F
+fungerar VB PLF
 som KN SP
 hans PS DT
 obetalda PC AT
@@ -77855,7 +77855,7 @@ sättas VB MS
 in PL PL
 i PP RA
 och KN VG
-tas VB +F
+tas VB PLF
 ur PP RA
 arbetsmarknaden NN PA
 där HA RA
@@ -77889,7 +77889,7 @@ den DT DT
 individualistiska JJ AT
 barnuppfostran NN CJ
 som HP SS
-i PP +A
+i PP PLA
 sin PS HD
 tur NN HD
 förhindrar VB ET
@@ -77932,7 +77932,7 @@ kvinnorna NN PA
 
 Hur HA AA
 de PN SS
-än AB +A
+än AB PLA
 väljer VB AA
 hamnar VB ROOT
 de PN SS
@@ -77962,9 +77962,9 @@ för PP OA
 varje DT DT
 individ NN PA
 - MID IT
-alltså AB +A
-också AB +A
-för PP +F
+alltså AB PLA
+också AB PLA
+för PP PLF
 kvinnorna NN PA
 . MAD IP
 
@@ -78008,7 +78008,7 @@ politiska JJ AT
 läger NN PA
 högt AB AA
 aktade PC AT
-finansminister NN +F
+finansminister NN PLF
 . MAD IP
 
 Presentationen NN SS
@@ -78092,7 +78092,7 @@ ett DT DT
 samhälle NN CJ
 där HA RA
 kvinnor NN CJ
-såväl KN +A
+såväl KN PLA
 som KN SS
 män NN CJ
 tillåts VB ET
@@ -78141,7 +78141,7 @@ för PP OA
 kvinnorna NN PA
 hur HA AA
 de PN SS
-än AB +A
+än AB PLA
 ' PAD IC
 väljer VB AA
 ' PAD JC
@@ -78194,7 +78194,7 @@ yrke NN OO
 märker VB ROOT
 de PN SS
 inte AB NA
-heller AB +A
+heller AB PLA
 något PN DT
 när HA TA
 de PN SS
@@ -78260,7 +78260,7 @@ självständighet NN OO
 
 Så AB AA
 har VB ROOT
-också AB +A
+också AB PLA
 omvärldens NN DT
 attityder NN CJ
 och KN SS
@@ -78316,7 +78316,7 @@ det DT DT
 första RO DT
 trycket NN OO
 och KN UA
-fortsätter VB +F
+fortsätter VB PLF
 att IE OO
 arbeta VB IF
 efter PP TA
@@ -78426,14 +78426,14 @@ de PN SS
 är VB TA
 små JJ SP
 är VB MS
-också AB +A
+också AB PLA
 ett DT DT
 privilegium NN SP
 . MAD IP
 
 Det PN SS
 är VB ROOT
-också AB +A
+också AB PLA
 en DT DT
 viktig JJ AT
 samhällsinsats NN SP
@@ -78530,7 +78530,7 @@ kvinnor NN OO
 som HP SS
 väljer VB ET
 ( PAD IR
-tvingas VB +F
+tvingas VB PLF
 in PL PL
 i PP RA
 ) PAD JR
@@ -78564,7 +78564,7 @@ avlöningsdagen NN PA
 
 Ja IN MS
 , MID IK
-men KN +A
+men KN PLA
 den DT DT
 dag NN TA
 han PN SS
@@ -78577,7 +78577,7 @@ avlöning NN SS
 av PP AA
 någon DT DT
 anledning NN PA
-försvinner VB +F
+försvinner VB PLF
 , MID IK
 då AB DB
 får VB MS
@@ -78626,7 +78626,7 @@ blir VB MS
 sjuk JJ SP
 och KN ET
 inte AB NA
-kan VB +F
+kan VB PLF
 ? MAD I?
 
 Pension NN ROOT
@@ -78705,7 +78705,7 @@ rätt NN OO
 ger VB MS
 oss PN IO
 väl AB MA
-i PP +A
+i PP PLA
 alla DT HD
 fall NN HD
 äktenskapet NN SS
@@ -78794,7 +78794,7 @@ antingen KN AA
 de PN SS
 vill VB MS
 eller KN UA
-inte AB +F
+inte AB PLF
 . MAD IP
 
 Och KN ROOT
@@ -78840,7 +78840,7 @@ på PP RA
 jobbet NN PA
 och KN ROOT
 så AB AA
-snabbköpet NN +F
+snabbköpet NN PLF
 på PP CJ
 lunchen NN PA
 eller KN TA
@@ -78934,7 +78934,7 @@ de PN SS
 behöver VB ET
 och KN ET
 därför AB AA
-har VB +F
+har VB PLF
 möjlighet NN OO
 att IE ET
 satsa VB IF
@@ -78951,7 +78951,7 @@ facklig JJ CJ
 verksamhet NN PA
 . MAD IP
 
-Dessutom AB +A
+Dessutom AB PLA
 är VB ROOT
 ofta AB TA
 de DT DT
@@ -79009,7 +79009,7 @@ nackdel NN PA
 
 Något PN SS
 som HP HD
-i PP +A
+i PP PLA
 sin PS HD
 tur NN HD
 resulterar VB ROOT
@@ -79034,7 +79034,7 @@ för PP OA
 barnfamiljerna NN PA
 men KN ROOT
 inte AB NA
-för PP +F
+för PP PLF
 att SN PA
 det PN SS
 kanske AB MA
@@ -79206,7 +79206,7 @@ underkastat PC SP
 känslornas NN DT
 svängningar NN OO
 och KN ROOT
-är VB +F
+är VB PLF
 därför AB AA
 inte AB NA
 en DT DT
@@ -79235,7 +79235,7 @@ byggs VB MS
 upp PL PL
 individuellt AB AA
 och KN UA
-förblir VB +F
+förblir VB PLF
 oförändrat PC SP
 oberoende PC AA
 av PP HD
@@ -79278,7 +79278,7 @@ omfattande PC SP
 och KN TA
 den DT DT
 ekonomiska JJ AT
-funktionen NN +F
+funktionen NN PLF
 därmed AB AA
 speciellt AB CA
 viktig JJ SP
@@ -79286,7 +79286,7 @@ viktig JJ SP
 blev VB ROOT
 ekonomiska JJ AT
 faktorer NN SS
-också AB +A
+också AB PLA
 avgörande PC SP
 för PP OA
 partnerval NN CJ
@@ -79297,7 +79297,7 @@ familjesammanhållning NN CJ
 I PP TA
 dag NN HD
 har VB ROOT
-i PP +A
+i PP PLA
 stället NN HD
 den DT DT
 känslomässiga JJ AT
@@ -79311,7 +79311,7 @@ plats NN OO
 Därmed AB AA
 är VB ROOT
 det PN SS
-också AB +A
+också AB PLA
 i PP AA
 allmänhet NN PA
 våra PS DT
@@ -79403,7 +79403,7 @@ alla DT DT
 parter NN PA
 . MAD IP
 
-Därtill AB +A
+Därtill AB PLA
 finns VB ROOT
 givetvis AB MA
 risk NN SS
@@ -79485,7 +79485,7 @@ Den DT DT
 snabba JJ AT
 samhällsutvecklingen NN SS
 bidrar VB ROOT
-dessutom AB +A
+dessutom AB PLA
 ibland AB TA
 till PP OA
 att IE PA
@@ -79589,7 +79589,7 @@ En DT DT
 minoritet NN SS
 ställde VB MS
 sig PN OO
-dock AB +A
+dock AB PLA
 positiv JJ OP
 till PP OA
 satsen NN PA
@@ -79668,7 +79668,7 @@ på PP OA
 husbondevälde NN PA
 och KN UA
 den DT DT
-andra JJ +F
+andra JJ PLF
 på PP OA
 den DT DT
 likställighet NN PA
@@ -79949,7 +79949,7 @@ håller VB MS
 ihop PL PL
 inåt AB RA
 och KN CJ
-har VB +F
+har VB PLF
 kontakter NN OO
 utåt AB RA
 , MID IK
@@ -79957,7 +79957,7 @@ som HP SS
 respekterar VB MS
 varandra PN OO
 och KN CJ
-ger VB +F
+ger VB PLF
 spelrum NN OO
 åt PP OA
 varandras PS DT
@@ -80069,7 +80069,7 @@ familjens NN DT
 överhuvud NN SP
 och KN ET
 kvinnan NN SS
-betraktades VB +F
+betraktades VB PLF
 som KN SP
 beroende PC CJ
 och KN UA
@@ -80080,7 +80080,7 @@ svarar VB MS
 för PP OA
 försörjningen NN PA
 och KN MS
-ger VB +F
+ger VB PLF
 familjen NN IO
 dess PS DT
 ställning NN OO
@@ -80104,7 +80104,7 @@ människor NN PA
 emellan PP AA
 utan KN ROOT
 lika AB AA
-mycket AB +F
+mycket AB PLF
 inom PP AA
 den DT DT
 enskilda JJ AT
@@ -80351,7 +80351,7 @@ spalta VB IF
 upp PL PL
 oss PN OO
 och KN ET
-leva VB +F
+leva VB PLF
 generationsvis AB AA
 ? MAD I?
 
@@ -80406,7 +80406,7 @@ varför HA AA
 
 ( PAD IR
 Se VB ROOT
-även AB +A
+även AB PLA
 smalspalten NN OO
 sid NN DT
 112-115 RG CJ
@@ -80430,7 +80430,7 @@ helt AB AA
 slutförd PC SP
 . MAD IP
 
-Detta PN +A
+Detta PN PLA
 till PP HD
 trots NN HD
 är VB ROOT
@@ -80476,7 +80476,7 @@ större JJ CJ
 
 Kvinnor NN SS
 avbryter VB ROOT
-nämligen AB +A
+nämligen AB PLA
 gärna AB MA
 sin PS DT
 utbildning NN CJ
@@ -80493,7 +80493,7 @@ inte AB NA
 sina PS DT
 anlag NN OO
 och KN MS
-tränar VB +F
+tränar VB PLF
 inte AB NA
 sin PS DT
 intelligens NN OO
@@ -80507,7 +80507,7 @@ mänsklighetens NN DT
 stora JJ AT
 problem NN PA
 och KN MS
-tar VB +F
+tar VB PLF
 ingen DT CJ
 eller KN DT
 ringa JJ CJ
@@ -80530,7 +80530,7 @@ och KN CJ
 binder VB CJ
 sig PN OO
 och KN MS
-stagnerar VB +F
+stagnerar VB PLF
 mer AB AA
 eller KN HD
 mindre AB HD
@@ -80551,7 +80551,7 @@ därtill AB OA
 hör VB PA
 , MID IK
 räknar VB ROOT
-heller AB +A
+heller AB PLA
 inte AB NA
 männen NN SS
 på PP OA
@@ -80582,7 +80582,7 @@ för PP OA
 kvinnorna NN PA
 , MID IK
 inte AB NA
-med PP +F
+med PP PLF
 dem PN PA
 . MAD IP
 
@@ -80602,13 +80602,13 @@ kvinnliga JJ PA
 ' PAD JC
 samt KN ROOT
 - MID IT
-sist AB +A
+sist AB PLA
 men KN HD
 inte AB HD
 minst AB HD
 - MID JT
 deras PS DT
-värde NN +F
+värde NN PLF
 som KN AN
 arbetskraft NN UA
 . MAD IP
@@ -80628,7 +80628,7 @@ flitiga JJ SP
 som KN KA
 myror NN UA
 men KN MS
-ger VB +F
+ger VB PLF
 sig PN IO
 vanligen AB TA
 inte AB NA
@@ -80684,7 +80684,7 @@ innebörden NN SP
 i PP ET
 kvinnofrågan NN PA
 , MID IK
-ty KN +A
+ty KN PLA
 jämlikhet NN SS
 skapas VB MS
 inte AB NA
@@ -80736,7 +80736,7 @@ den DT DT
 inre JJ DT
 fronten NN PA
 och KN ROOT
-föras VB +F
+föras VB PLF
 av PP AG
 kvinnorna NN PA
 själva JJ PT
@@ -80788,7 +80788,7 @@ mödor NN CJ
 
 De PN SS
 måste VB ROOT
-också AB +A
+också AB PLA
 förstå VB VG
 att IE OO
 genomskåda VB IF
